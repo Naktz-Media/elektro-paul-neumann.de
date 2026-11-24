@@ -1,0 +1,68 @@
+{
+ "hero-home": {
+  "kind": "image",
+  "id": "7a27f8fc-382c-4d99-a87d-cbcef6e5cb29",
+  "url": "https://images.letz.ai/afdb916b-ed67-4298-a682-3d988aeca1e2/7a27f8fc-382c-4d99-a87d-cbcef6e5cb29/letz_Photorealistic_architectural_photograph_at_blue_ho20261124125357.jpg",
+  "file": "assets/img-src/hero-home.jpg"
+ },
+ "tile-lighting": {
+  "kind": "image",
+  "id": "7cce6cf1-260b-44f1-b143-92241be981cb",
+  "url": "https://images.letz.ai/afdb916b-ed67-4298-a682-3d988aeca1e2/7cce6cf1-260b-44f1-b143-92241be981cb/letz_A_precise_linear_architectural_LED_light_line_rece20261124125807.jpg",
+  "file": "assets/img-src/tile-lighting.jpg"
+ },
+ "tile-knx": {
+  "kind": "image",
+  "id": "064818ea-41f9-4444-b9da-d3cb582b7b77",
+  "url": "https://images.letz.ai/afdb916b-ed67-4298-a682-3d988aeca1e2/064818ea-41f9-4444-b9da-d3cb582b7b77/letz_Closeup_of_a_sleek_black_glass_wall_touch_panel_fo20261124125812.jpg",
+  "file": "assets/img-src/tile-knx.jpg"
+ },
+ "hero-knx": {
+  "kind": "image",
+  "id": "3d213b0c-ac67-4789-90c3-fcd61cf90168",
+  "url": "https://images.letz.ai/afdb916b-ed67-4298-a682-3d988aeca1e2/3d213b0c-ac67-4789-90c3-fcd61cf90168/letz_Photorealistic_interior_photograph_of_a_minimalist20261124125820.jpg",
+  "file": "assets/img-src/hero-knx.jpg"
+ },
+ "tile-video": {
+  "kind": "image",
+  "id": "a160c088-572c-462f-9cbd-2103f1dab4b6",
+  "url": "https://images.letz.ai/afdb916b-ed67-4298-a682-3d988aeca1e2/a160c088-572c-462f-9cbd-2103f1dab4b6/letz_A_premium_white_dome_security_camera_studio_produc20261124130131.jpg",
+  "file": "assets/img-src/tile-video.jpg"
+ },
+ "tile-smarthome": {
+  "kind": "image",
+  "id": "ccd274c7-f6f9-4e5b-b16b-e551fd3e9020",
+  "url": "https://images.letz.ai/afdb916b-ed67-4298-a682-3d988aeca1e2/ccd274c7-f6f9-4e5b-b16b-e551fd3e9020/letz_A_hand_holding_a_modern_smartphone_showing_an_abst20261124130133.jpg",
+  "file": "assets/img-src/tile-smarthome.jpg"
+ },
+ "tile-alarm": {
+  "kind": "image",
+  "id": "b4b45b90-63b5-4ce4-8a3e-8eab3c43556a",
+  "url": "https://images.letz.ai/afdb916b-ed67-4298-a682-3d988aeca1e2/b4b45b90-63b5-4ce4-8a3e-8eab3c43556a/letz_A_sleek_white_wireless_alarm_motion_detector_and_a20261124130143.jpg",
+  "file": "assets/img-src/tile-alarm.jpg"
+ },
+ "tile-intercom": {
+  "kind": "image",
+  "id": "745b3b73-64e3-40bd-9771-1b2aa7f608e3",
+  "url": "https://images.letz.ai/afdb916b-ed67-4298-a682-3d988aeca1e2/745b3b73-64e3-40bd-9771-1b2aa7f608e3/letz_A_brushed_aluminium_video_door_intercom_station_wi20261124130447.jpg",
+  "file": "assets/img-src/tile-intercom.jpg"
+ },
+ "tile-service": {
+  "kind": "image",
+  "id": "7fb24428-79e2-43a9-8113-e6778ca44e42",
+  "url": "https://images.letz.ai/afdb916b-ed67-4298-a682-3d988aeca1e2/7fb24428-79e2-43a9-8113-e6778ca44e42/letz_The_hands_of_a_master_electrician_with_an_insulate20261124130513.jpg",
+  "file": "assets/img-src/tile-service.jpg"
+ },
+ "tile-audio": {
+  "kind": "image",
+  "id": "88715238-853b-4d58-b85a-a45398b9e497",
+  "url": "https://images.letz.ai/afdb916b-ed67-4298-a682-3d988aeca1e2/88715238-853b-4d58-b85a-a45398b9e497/letz_A_flush_round_inceiling_loudspeaker_with_a_fine_me20261124130519.jpg",
+  "file": "assets/img-src/tile-audio.jpg"
+ },
+ "hero-home-video": {
+  "kind": "video",
+  "id": "5d283524-82a5-413c-93ef-cc0a8576a3a0",
+  "url": "https://images.letz.ai/videos/afdb916b-ed67-4298-a682-3d988aeca1e2/5d283524-82a5-413c-93ef-cc0a8576a3a0/5d283524-82a5-413c-93ef-cc0a8576a3a0_h3-max.mp4",
+  "file": "assets/img-src/hero-home-video.mp4"
+ }
+}

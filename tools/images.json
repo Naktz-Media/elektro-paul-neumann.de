@@ -1,0 +1,818 @@
+{
+ "services/beleuchtungssysteme/title": {
+  "l": "assets/img/services/beleuchtungssysteme/title.webp",
+  "s": "assets/img/services/beleuchtungssysteme/title-s.webp"
+ },
+ "services/beleuchtungssysteme/01": {
+  "l": "assets/img/services/beleuchtungssysteme/01.webp",
+  "s": "assets/img/services/beleuchtungssysteme/01-s.webp"
+ },
+ "services/beleuchtungssysteme/02": {
+  "l": "assets/img/services/beleuchtungssysteme/02.webp",
+  "s": "assets/img/services/beleuchtungssysteme/02-s.webp"
+ },
+ "services/beleuchtungssysteme/03": {
+  "l": "assets/img/services/beleuchtungssysteme/03.webp",
+  "s": "assets/img/services/beleuchtungssysteme/03-s.webp"
+ },
+ "services/beleuchtungssysteme/04": {
+  "l": "assets/img/services/beleuchtungssysteme/04.webp",
+  "s": "assets/img/services/beleuchtungssysteme/04-s.webp"
+ },
+ "services/beleuchtungssysteme/05": {
+  "l": "assets/img/services/beleuchtungssysteme/05.webp",
+  "s": "assets/img/services/beleuchtungssysteme/05-s.webp"
+ },
+ "services/beleuchtungssysteme/06": {
+  "l": "assets/img/services/beleuchtungssysteme/06.webp",
+  "s": "assets/img/services/beleuchtungssysteme/06-s.webp"
+ },
+ "services/beleuchtungssysteme/07": {
+  "l": "assets/img/services/beleuchtungssysteme/07.webp",
+  "s": "assets/img/services/beleuchtungssysteme/07-s.webp"
+ },
+ "services/beleuchtungssysteme/08": {
+  "l": "assets/img/services/beleuchtungssysteme/08.webp",
+  "s": "assets/img/services/beleuchtungssysteme/08-s.webp"
+ },
+ "services/beleuchtungssysteme/09": {
+  "l": "assets/img/services/beleuchtungssysteme/09.webp",
+  "s": "assets/img/services/beleuchtungssysteme/09-s.webp"
+ },
+ "services/beleuchtungssysteme/10": {
+  "l": "assets/img/services/beleuchtungssysteme/10.webp",
+  "s": "assets/img/services/beleuchtungssysteme/10-s.webp"
+ },
+ "services/beleuchtungssysteme/11": {
+  "l": "assets/img/services/beleuchtungssysteme/11.webp",
+  "s": "assets/img/services/beleuchtungssysteme/11-s.webp"
+ },
+ "services/beleuchtungssysteme/12": {
+  "l": "assets/img/services/beleuchtungssysteme/12.webp",
+  "s": "assets/img/services/beleuchtungssysteme/12-s.webp"
+ },
+ "services/beleuchtungssysteme/13": {
+  "l": "assets/img/services/beleuchtungssysteme/13.webp",
+  "s": "assets/img/services/beleuchtungssysteme/13-s.webp"
+ },
+ "services/beleuchtungssysteme/14": {
+  "l": "assets/img/services/beleuchtungssysteme/14.webp",
+  "s": "assets/img/services/beleuchtungssysteme/14-s.webp"
+ },
+ "services/beleuchtungssysteme/15": {
+  "l": "assets/img/services/beleuchtungssysteme/15.webp",
+  "s": "assets/img/services/beleuchtungssysteme/15-s.webp"
+ },
+ "services/beleuchtungssysteme/16": {
+  "l": "assets/img/services/beleuchtungssysteme/16.webp",
+  "s": "assets/img/services/beleuchtungssysteme/16-s.webp"
+ },
+ "services/beleuchtungssysteme/17": {
+  "l": "assets/img/services/beleuchtungssysteme/17.webp",
+  "s": "assets/img/services/beleuchtungssysteme/17-s.webp"
+ },
+ "services/beleuchtungssysteme/18": {
+  "l": "assets/img/services/beleuchtungssysteme/18.webp",
+  "s": "assets/img/services/beleuchtungssysteme/18-s.webp"
+ },
+ "services/beleuchtungssysteme/19": {
+  "l": "assets/img/services/beleuchtungssysteme/19.webp",
+  "s": "assets/img/services/beleuchtungssysteme/19-s.webp"
+ },
+ "services/beleuchtungssysteme/20": {
+  "l": "assets/img/services/beleuchtungssysteme/20.webp",
+  "s": "assets/img/services/beleuchtungssysteme/20-s.webp"
+ },
+ "services/knx-systemintegrator/01": {
+  "l": "assets/img/services/knx-systemintegrator/01.webp",
+  "s": "assets/img/services/knx-systemintegrator/01-s.webp"
+ },
+ "services/knx-systemintegrator/02": {
+  "l": "assets/img/services/knx-systemintegrator/02.webp",
+  "s": "assets/img/services/knx-systemintegrator/02-s.webp"
+ },
+ "services/alarmanlagen/title": {
+  "l": "assets/img/services/alarmanlagen/title.webp",
+  "s": "assets/img/services/alarmanlagen/title-s.webp"
+ },
+ "services/alarmanlagen/01": {
+  "l": "assets/img/services/alarmanlagen/01.webp",
+  "s": "assets/img/services/alarmanlagen/01-s.webp"
+ },
+ "services/alarmanlagen/02": {
+  "l": "assets/img/services/alarmanlagen/02.webp",
+  "s": "assets/img/services/alarmanlagen/02-s.webp"
+ },
+ "services/alarmanlagen/03": {
+  "l": "assets/img/services/alarmanlagen/03.webp",
+  "s": "assets/img/services/alarmanlagen/03-s.webp"
+ },
+ "services/smart_home/title": {
+  "l": "assets/img/services/smart_home/title.webp",
+  "s": "assets/img/services/smart_home/title-s.webp"
+ },
+ "services/smart_home/01": {
+  "l": "assets/img/services/smart_home/01.webp",
+  "s": "assets/img/services/smart_home/01-s.webp"
+ },
+ "services/smart_home/02": {
+  "l": "assets/img/services/smart_home/02.webp",
+  "s": "assets/img/services/smart_home/02-s.webp"
+ },
+ "services/videoueberwachung/title": {
+  "l": "assets/img/services/videoueberwachung/title.webp",
+  "s": "assets/img/services/videoueberwachung/title-s.webp"
+ },
+ "services/videoueberwachung/01": {
+  "l": "assets/img/services/videoueberwachung/01.webp",
+  "s": "assets/img/services/videoueberwachung/01-s.webp"
+ },
+ "services/videoueberwachung/02": {
+  "l": "assets/img/services/videoueberwachung/02.webp",
+  "s": "assets/img/services/videoueberwachung/02-s.webp"
+ },
+ "services/videoueberwachung/03": {
+  "l": "assets/img/services/videoueberwachung/03.webp",
+  "s": "assets/img/services/videoueberwachung/03-s.webp"
+ },
+ "services/videoueberwachung/04": {
+  "l": "assets/img/services/videoueberwachung/04.webp",
+  "s": "assets/img/services/videoueberwachung/04-s.webp"
+ },
+ "services/video_gegensprechanlagen/title": {
+  "l": "assets/img/services/video_gegensprechanlagen/title.webp",
+  "s": "assets/img/services/video_gegensprechanlagen/title-s.webp"
+ },
+ "services/video_gegensprechanlagen/01": {
+  "l": "assets/img/services/video_gegensprechanlagen/01.webp",
+  "s": "assets/img/services/video_gegensprechanlagen/01-s.webp"
+ },
+ "services/video_gegensprechanlagen/02": {
+  "l": "assets/img/services/video_gegensprechanlagen/02.webp",
+  "s": "assets/img/services/video_gegensprechanlagen/02-s.webp"
+ },
+ "services/video_gegensprechanlagen/03": {
+  "l": "assets/img/services/video_gegensprechanlagen/03.webp",
+  "s": "assets/img/services/video_gegensprechanlagen/03-s.webp"
+ },
+ "services/video_gegensprechanlagen/04": {
+  "l": "assets/img/services/video_gegensprechanlagen/04.webp",
+  "s": "assets/img/services/video_gegensprechanlagen/04-s.webp"
+ },
+ "services/multiroom_audio/title": {
+  "l": "assets/img/services/multiroom_audio/title.webp",
+  "s": "assets/img/services/multiroom_audio/title-s.webp"
+ },
+ "services/multiroom_audio/01": {
+  "l": "assets/img/services/multiroom_audio/01.webp",
+  "s": "assets/img/services/multiroom_audio/01-s.webp"
+ },
+ "services/service_elektriker/title": {
+  "l": "assets/img/services/service_elektriker/title.webp",
+  "s": "assets/img/services/service_elektriker/title-s.webp"
+ },
+ "services/service_elektriker/01": {
+  "l": "assets/img/services/service_elektriker/01.webp",
+  "s": "assets/img/services/service_elektriker/01-s.webp"
+ },
+ "projects/tuev_rheinland/cover": {
+  "l": "assets/img/projects/tuev_rheinland/cover.jpg",
+  "s": "assets/img/projects/tuev_rheinland/cover-s.jpg"
+ },
+ "projects/tuev_rheinland/01": {
+  "l": "assets/img/projects/tuev_rheinland/01.webp",
+  "s": "assets/img/projects/tuev_rheinland/01-s.webp"
+ },
+ "projects/tuev_rheinland/02": {
+  "l": "assets/img/projects/tuev_rheinland/02.webp",
+  "s": "assets/img/projects/tuev_rheinland/02-s.webp"
+ },
+ "projects/tuev_rheinland/03": {
+  "l": "assets/img/projects/tuev_rheinland/03.webp",
+  "s": "assets/img/projects/tuev_rheinland/03-s.webp"
+ },
+ "projects/tuev_rheinland/04": {
+  "l": "assets/img/projects/tuev_rheinland/04.webp",
+  "s": "assets/img/projects/tuev_rheinland/04-s.webp"
+ },
+ "projects/tuev_rheinland/05": {
+  "l": "assets/img/projects/tuev_rheinland/05.webp",
+  "s": "assets/img/projects/tuev_rheinland/05-s.webp"
+ },
+ "projects/tuev_rheinland/06": {
+  "l": "assets/img/projects/tuev_rheinland/06.webp",
+  "s": "assets/img/projects/tuev_rheinland/06-s.webp"
+ },
+ "projects/tuev_rheinland/07": {
+  "l": "assets/img/projects/tuev_rheinland/07.webp",
+  "s": "assets/img/projects/tuev_rheinland/07-s.webp"
+ },
+ "projects/villa_xxl/cover": {
+  "l": "assets/img/projects/villa_xxl/cover.jpg",
+  "s": "assets/img/projects/villa_xxl/cover-s.jpg"
+ },
+ "projects/villa_xxl/01": {
+  "l": "assets/img/projects/villa_xxl/01.webp",
+  "s": "assets/img/projects/villa_xxl/01-s.webp"
+ },
+ "projects/villa_xxl/02": {
+  "l": "assets/img/projects/villa_xxl/02.webp",
+  "s": "assets/img/projects/villa_xxl/02-s.webp"
+ },
+ "projects/villa_xxl/03": {
+  "l": "assets/img/projects/villa_xxl/03.webp",
+  "s": "assets/img/projects/villa_xxl/03-s.webp"
+ },
+ "projects/villa_xxl/04": {
+  "l": "assets/img/projects/villa_xxl/04.webp",
+  "s": "assets/img/projects/villa_xxl/04-s.webp"
+ },
+ "projects/villa_xxl/05": {
+  "l": "assets/img/projects/villa_xxl/05.webp",
+  "s": "assets/img/projects/villa_xxl/05-s.webp"
+ },
+ "projects/villa_xxl/06": {
+  "l": "assets/img/projects/villa_xxl/06.webp",
+  "s": "assets/img/projects/villa_xxl/06-s.webp"
+ },
+ "projects/villa_xxl/07": {
+  "l": "assets/img/projects/villa_xxl/07.webp",
+  "s": "assets/img/projects/villa_xxl/07-s.webp"
+ },
+ "projects/villa_xxl/08": {
+  "l": "assets/img/projects/villa_xxl/08.webp",
+  "s": "assets/img/projects/villa_xxl/08-s.webp"
+ },
+ "projects/villa_xxl/09": {
+  "l": "assets/img/projects/villa_xxl/09.webp",
+  "s": "assets/img/projects/villa_xxl/09-s.webp"
+ },
+ "projects/villa_xxl/10": {
+  "l": "assets/img/projects/villa_xxl/10.webp",
+  "s": "assets/img/projects/villa_xxl/10-s.webp"
+ },
+ "projects/villa_xxl/11": {
+  "l": "assets/img/projects/villa_xxl/11.webp",
+  "s": "assets/img/projects/villa_xxl/11-s.webp"
+ },
+ "projects/villa_xxl/12": {
+  "l": "assets/img/projects/villa_xxl/12.webp",
+  "s": "assets/img/projects/villa_xxl/12-s.webp"
+ },
+ "projects/villa_xxl/13": {
+  "l": "assets/img/projects/villa_xxl/13.webp",
+  "s": "assets/img/projects/villa_xxl/13-s.webp"
+ },
+ "projects/villa_xxl/14": {
+  "l": "assets/img/projects/villa_xxl/14.webp",
+  "s": "assets/img/projects/villa_xxl/14-s.webp"
+ },
+ "projects/villa_xxl/15": {
+  "l": "assets/img/projects/villa_xxl/15.webp",
+  "s": "assets/img/projects/villa_xxl/15-s.webp"
+ },
+ "projects/villa_xxl/16": {
+  "l": "assets/img/projects/villa_xxl/16.webp",
+  "s": "assets/img/projects/villa_xxl/16-s.webp"
+ },
+ "projects/villa_xxl/17": {
+  "l": "assets/img/projects/villa_xxl/17.webp",
+  "s": "assets/img/projects/villa_xxl/17-s.webp"
+ },
+ "projects/villa_xxl/18": {
+  "l": "assets/img/projects/villa_xxl/18.webp",
+  "s": "assets/img/projects/villa_xxl/18-s.webp"
+ },
+ "projects/villa_xxl/19": {
+  "l": "assets/img/projects/villa_xxl/19.webp",
+  "s": "assets/img/projects/villa_xxl/19-s.webp"
+ },
+ "projects/villa_xxl/20": {
+  "l": "assets/img/projects/villa_xxl/20.webp",
+  "s": "assets/img/projects/villa_xxl/20-s.webp"
+ },
+ "projects/villa_xxl/21": {
+  "l": "assets/img/projects/villa_xxl/21.webp",
+  "s": "assets/img/projects/villa_xxl/21-s.webp"
+ },
+ "projects/villa_xxl/22": {
+  "l": "assets/img/projects/villa_xxl/22.webp",
+  "s": "assets/img/projects/villa_xxl/22-s.webp"
+ },
+ "projects/villa_xxl/23": {
+  "l": "assets/img/projects/villa_xxl/23.webp",
+  "s": "assets/img/projects/villa_xxl/23-s.webp"
+ },
+ "projects/villa_xxl/24": {
+  "l": "assets/img/projects/villa_xxl/24.webp",
+  "s": "assets/img/projects/villa_xxl/24-s.webp"
+ },
+ "projects/villa_xxl/25": {
+  "l": "assets/img/projects/villa_xxl/25.webp",
+  "s": "assets/img/projects/villa_xxl/25-s.webp"
+ },
+ "projects/villa_xxl/26": {
+  "l": "assets/img/projects/villa_xxl/26.webp",
+  "s": "assets/img/projects/villa_xxl/26-s.webp"
+ },
+ "projects/villa_xxl/27": {
+  "l": "assets/img/projects/villa_xxl/27.webp",
+  "s": "assets/img/projects/villa_xxl/27-s.webp"
+ },
+ "projects/villa_xxl/28": {
+  "l": "assets/img/projects/villa_xxl/28.webp",
+  "s": "assets/img/projects/villa_xxl/28-s.webp"
+ },
+ "projects/villa_xxl/29": {
+  "l": "assets/img/projects/villa_xxl/29.webp",
+  "s": "assets/img/projects/villa_xxl/29-s.webp"
+ },
+ "projects/villa_xxl/30": {
+  "l": "assets/img/projects/villa_xxl/30.webp",
+  "s": "assets/img/projects/villa_xxl/30-s.webp"
+ },
+ "projects/villa_xxl/31": {
+  "l": "assets/img/projects/villa_xxl/31.webp",
+  "s": "assets/img/projects/villa_xxl/31-s.webp"
+ },
+ "projects/villa_xxl/32": {
+  "l": "assets/img/projects/villa_xxl/32.webp",
+  "s": "assets/img/projects/villa_xxl/32-s.webp"
+ },
+ "projects/villa_xxl/33": {
+  "l": "assets/img/projects/villa_xxl/33.webp",
+  "s": "assets/img/projects/villa_xxl/33-s.webp"
+ },
+ "projects/villa_xxl/34": {
+  "l": "assets/img/projects/villa_xxl/34.webp",
+  "s": "assets/img/projects/villa_xxl/34-s.webp"
+ },
+ "projects/villa_xxl/35": {
+  "l": "assets/img/projects/villa_xxl/35.webp",
+  "s": "assets/img/projects/villa_xxl/35-s.webp"
+ },
+ "projects/villa_xxl/36": {
+  "l": "assets/img/projects/villa_xxl/36.webp",
+  "s": "assets/img/projects/villa_xxl/36-s.webp"
+ },
+ "projects/villa_xxl/37": {
+  "l": "assets/img/projects/villa_xxl/37.webp",
+  "s": "assets/img/projects/villa_xxl/37-s.webp"
+ },
+ "projects/villa_xxl/38": {
+  "l": "assets/img/projects/villa_xxl/38.webp",
+  "s": "assets/img/projects/villa_xxl/38-s.webp"
+ },
+ "projects/villa_xxl/39": {
+  "l": "assets/img/projects/villa_xxl/39.webp",
+  "s": "assets/img/projects/villa_xxl/39-s.webp"
+ },
+ "projects/villa_xxl/40": {
+  "l": "assets/img/projects/villa_xxl/40.webp",
+  "s": "assets/img/projects/villa_xxl/40-s.webp"
+ },
+ "projects/villa_xxl/41": {
+  "l": "assets/img/projects/villa_xxl/41.webp",
+  "s": "assets/img/projects/villa_xxl/41-s.webp"
+ },
+ "projects/villa_xxl/42": {
+  "l": "assets/img/projects/villa_xxl/42.webp",
+  "s": "assets/img/projects/villa_xxl/42-s.webp"
+ },
+ "projects/penthouse_xxl/cover": {
+  "l": "assets/img/projects/penthouse_xxl/cover.jpg",
+  "s": "assets/img/projects/penthouse_xxl/cover-s.jpg"
+ },
+ "projects/penthouse_xxl/01": {
+  "l": "assets/img/projects/penthouse_xxl/01.webp",
+  "s": "assets/img/projects/penthouse_xxl/01-s.webp"
+ },
+ "projects/penthouse_xxl/02": {
+  "l": "assets/img/projects/penthouse_xxl/02.webp",
+  "s": "assets/img/projects/penthouse_xxl/02-s.webp"
+ },
+ "projects/penthouse_xxl/03": {
+  "l": "assets/img/projects/penthouse_xxl/03.webp",
+  "s": "assets/img/projects/penthouse_xxl/03-s.webp"
+ },
+ "projects/penthouse_xxl/04": {
+  "l": "assets/img/projects/penthouse_xxl/04.webp",
+  "s": "assets/img/projects/penthouse_xxl/04-s.webp"
+ },
+ "projects/penthouse_xxl/05": {
+  "l": "assets/img/projects/penthouse_xxl/05.webp",
+  "s": "assets/img/projects/penthouse_xxl/05-s.webp"
+ },
+ "projects/penthouse_xxl/06": {
+  "l": "assets/img/projects/penthouse_xxl/06.webp",
+  "s": "assets/img/projects/penthouse_xxl/06-s.webp"
+ },
+ "projects/penthouse_xxl/07": {
+  "l": "assets/img/projects/penthouse_xxl/07.webp",
+  "s": "assets/img/projects/penthouse_xxl/07-s.webp"
+ },
+ "projects/penthouse_xxl/08": {
+  "l": "assets/img/projects/penthouse_xxl/08.webp",
+  "s": "assets/img/projects/penthouse_xxl/08-s.webp"
+ },
+ "projects/penthouse_xxl/09": {
+  "l": "assets/img/projects/penthouse_xxl/09.webp",
+  "s": "assets/img/projects/penthouse_xxl/09-s.webp"
+ },
+ "projects/penthouse_xxl/10": {
+  "l": "assets/img/projects/penthouse_xxl/10.webp",
+  "s": "assets/img/projects/penthouse_xxl/10-s.webp"
+ },
+ "projects/penthouse_xxl/11": {
+  "l": "assets/img/projects/penthouse_xxl/11.webp",
+  "s": "assets/img/projects/penthouse_xxl/11-s.webp"
+ },
+ "projects/penthouse_xxl/12": {
+  "l": "assets/img/projects/penthouse_xxl/12.webp",
+  "s": "assets/img/projects/penthouse_xxl/12-s.webp"
+ },
+ "projects/penthouse_xxl/13": {
+  "l": "assets/img/projects/penthouse_xxl/13.webp",
+  "s": "assets/img/projects/penthouse_xxl/13-s.webp"
+ },
+ "projects/penthouse_xxl/14": {
+  "l": "assets/img/projects/penthouse_xxl/14.webp",
+  "s": "assets/img/projects/penthouse_xxl/14-s.webp"
+ },
+ "projects/penthouse_xxl/15": {
+  "l": "assets/img/projects/penthouse_xxl/15.webp",
+  "s": "assets/img/projects/penthouse_xxl/15-s.webp"
+ },
+ "projects/penthouse_xxl/16": {
+  "l": "assets/img/projects/penthouse_xxl/16.webp",
+  "s": "assets/img/projects/penthouse_xxl/16-s.webp"
+ },
+ "projects/townhouse/cover": {
+  "l": "assets/img/projects/townhouse/cover.jpg",
+  "s": "assets/img/projects/townhouse/cover-s.jpg"
+ },
+ "projects/townhouse/01": {
+  "l": "assets/img/projects/townhouse/01.webp",
+  "s": "assets/img/projects/townhouse/01-s.webp"
+ },
+ "projects/townhouse/02": {
+  "l": "assets/img/projects/townhouse/02.webp",
+  "s": "assets/img/projects/townhouse/02-s.webp"
+ },
+ "projects/townhouse/03": {
+  "l": "assets/img/projects/townhouse/03.webp",
+  "s": "assets/img/projects/townhouse/03-s.webp"
+ },
+ "projects/townhouse/04": {
+  "l": "assets/img/projects/townhouse/04.webp",
+  "s": "assets/img/projects/townhouse/04-s.webp"
+ },
+ "projects/townhouse/05": {
+  "l": "assets/img/projects/townhouse/05.webp",
+  "s": "assets/img/projects/townhouse/05-s.webp"
+ },
+ "projects/bayer04_leverkusen/cover": {
+  "l": "assets/img/projects/bayer04_leverkusen/cover.jpg",
+  "s": "assets/img/projects/bayer04_leverkusen/cover-s.jpg"
+ },
+ "projects/bayer04_leverkusen/01": {
+  "l": "assets/img/projects/bayer04_leverkusen/01.webp",
+  "s": "assets/img/projects/bayer04_leverkusen/01-s.webp"
+ },
+ "projects/bayer04_leverkusen/02": {
+  "l": "assets/img/projects/bayer04_leverkusen/02.webp",
+  "s": "assets/img/projects/bayer04_leverkusen/02-s.webp"
+ },
+ "projects/bayer04_leverkusen/03": {
+  "l": "assets/img/projects/bayer04_leverkusen/03.webp",
+  "s": "assets/img/projects/bayer04_leverkusen/03-s.webp"
+ },
+ "projects/bayer04_leverkusen/04": {
+  "l": "assets/img/projects/bayer04_leverkusen/04.webp",
+  "s": "assets/img/projects/bayer04_leverkusen/04-s.webp"
+ },
+ "projects/bayer04_leverkusen/05": {
+  "l": "assets/img/projects/bayer04_leverkusen/05.webp",
+  "s": "assets/img/projects/bayer04_leverkusen/05-s.webp"
+ },
+ "projects/bayer04_leverkusen/06": {
+  "l": "assets/img/projects/bayer04_leverkusen/06.webp",
+  "s": "assets/img/projects/bayer04_leverkusen/06-s.webp"
+ },
+ "projects/bayer04_leverkusen/07": {
+  "l": "assets/img/projects/bayer04_leverkusen/07.webp",
+  "s": "assets/img/projects/bayer04_leverkusen/07-s.webp"
+ },
+ "projects/bayer04_leverkusen/08": {
+  "l": "assets/img/projects/bayer04_leverkusen/08.webp",
+  "s": "assets/img/projects/bayer04_leverkusen/08-s.webp"
+ },
+ "projects/stroeer_media_se/cover": {
+  "l": "assets/img/projects/stroeer_media_se/cover.jpg",
+  "s": "assets/img/projects/stroeer_media_se/cover-s.jpg"
+ },
+ "projects/stroeer_media_se/01": {
+  "l": "assets/img/projects/stroeer_media_se/01.webp",
+  "s": "assets/img/projects/stroeer_media_se/01-s.webp"
+ },
+ "projects/stroeer_media_se/02": {
+  "l": "assets/img/projects/stroeer_media_se/02.webp",
+  "s": "assets/img/projects/stroeer_media_se/02-s.webp"
+ },
+ "projects/stroeer_media_se/03": {
+  "l": "assets/img/projects/stroeer_media_se/03.webp",
+  "s": "assets/img/projects/stroeer_media_se/03-s.webp"
+ },
+ "projects/stroeer_media_se/04": {
+  "l": "assets/img/projects/stroeer_media_se/04.webp",
+  "s": "assets/img/projects/stroeer_media_se/04-s.webp"
+ },
+ "projects/stroeer_media_se/05": {
+  "l": "assets/img/projects/stroeer_media_se/05.webp",
+  "s": "assets/img/projects/stroeer_media_se/05-s.webp"
+ },
+ "projects/stroeer_media_se/06": {
+  "l": "assets/img/projects/stroeer_media_se/06.webp",
+  "s": "assets/img/projects/stroeer_media_se/06-s.webp"
+ },
+ "projects/stroeer_media_se/07": {
+  "l": "assets/img/projects/stroeer_media_se/07.webp",
+  "s": "assets/img/projects/stroeer_media_se/07-s.webp"
+ },
+ "projects/stroeer_media_se/08": {
+  "l": "assets/img/projects/stroeer_media_se/08.webp",
+  "s": "assets/img/projects/stroeer_media_se/08-s.webp"
+ },
+ "projects/gerling_ring_karree/cover": {
+  "l": "assets/img/projects/gerling_ring_karree/cover.jpg",
+  "s": "assets/img/projects/gerling_ring_karree/cover-s.jpg"
+ },
+ "projects/gerling_ring_karree/01": {
+  "l": "assets/img/projects/gerling_ring_karree/01.webp",
+  "s": "assets/img/projects/gerling_ring_karree/01-s.webp"
+ },
+ "projects/gerling_ring_karree/02": {
+  "l": "assets/img/projects/gerling_ring_karree/02.webp",
+  "s": "assets/img/projects/gerling_ring_karree/02-s.webp"
+ },
+ "projects/gerling_ring_karree/03": {
+  "l": "assets/img/projects/gerling_ring_karree/03.webp",
+  "s": "assets/img/projects/gerling_ring_karree/03-s.webp"
+ },
+ "projects/gerling_ring_karree/04": {
+  "l": "assets/img/projects/gerling_ring_karree/04.webp",
+  "s": "assets/img/projects/gerling_ring_karree/04-s.webp"
+ },
+ "projects/gerling_ring_karree/05": {
+  "l": "assets/img/projects/gerling_ring_karree/05.webp",
+  "s": "assets/img/projects/gerling_ring_karree/05-s.webp"
+ },
+ "projects/gerling_ring_karree/06": {
+  "l": "assets/img/projects/gerling_ring_karree/06.webp",
+  "s": "assets/img/projects/gerling_ring_karree/06-s.webp"
+ },
+ "projects/gerling_ring_karree/07": {
+  "l": "assets/img/projects/gerling_ring_karree/07.webp",
+  "s": "assets/img/projects/gerling_ring_karree/07-s.webp"
+ },
+ "projects/gerling_ring_karree/08": {
+  "l": "assets/img/projects/gerling_ring_karree/08.webp",
+  "s": "assets/img/projects/gerling_ring_karree/08-s.webp"
+ },
+ "projects/hotel_im_wasserturm/cover": {
+  "l": "assets/img/projects/hotel_im_wasserturm/cover.jpg",
+  "s": "assets/img/projects/hotel_im_wasserturm/cover-s.jpg"
+ },
+ "projects/hotel_im_wasserturm/01": {
+  "l": "assets/img/projects/hotel_im_wasserturm/01.webp",
+  "s": "assets/img/projects/hotel_im_wasserturm/01-s.webp"
+ },
+ "projects/hotel_im_wasserturm/02": {
+  "l": "assets/img/projects/hotel_im_wasserturm/02.webp",
+  "s": "assets/img/projects/hotel_im_wasserturm/02-s.webp"
+ },
+ "projects/hotel_im_wasserturm/03": {
+  "l": "assets/img/projects/hotel_im_wasserturm/03.webp",
+  "s": "assets/img/projects/hotel_im_wasserturm/03-s.webp"
+ },
+ "projects/hotel_im_wasserturm/04": {
+  "l": "assets/img/projects/hotel_im_wasserturm/04.webp",
+  "s": "assets/img/projects/hotel_im_wasserturm/04-s.webp"
+ },
+ "projects/hotel_im_wasserturm/05": {
+  "l": "assets/img/projects/hotel_im_wasserturm/05.webp",
+  "s": "assets/img/projects/hotel_im_wasserturm/05-s.webp"
+ },
+ "projects/hotel_im_wasserturm/06": {
+  "l": "assets/img/projects/hotel_im_wasserturm/06.webp",
+  "s": "assets/img/projects/hotel_im_wasserturm/06-s.webp"
+ },
+ "projects/hotel_im_wasserturm/07": {
+  "l": "assets/img/projects/hotel_im_wasserturm/07.webp",
+  "s": "assets/img/projects/hotel_im_wasserturm/07-s.webp"
+ },
+ "projects/hotel_im_wasserturm/08": {
+  "l": "assets/img/projects/hotel_im_wasserturm/08.webp",
+  "s": "assets/img/projects/hotel_im_wasserturm/08-s.webp"
+ },
+ "projects/hotel_im_wasserturm/09": {
+  "l": "assets/img/projects/hotel_im_wasserturm/09.webp",
+  "s": "assets/img/projects/hotel_im_wasserturm/09-s.webp"
+ },
+ "projects/hotel_im_wasserturm/10": {
+  "l": "assets/img/projects/hotel_im_wasserturm/10.webp",
+  "s": "assets/img/projects/hotel_im_wasserturm/10-s.webp"
+ },
+ "projects/hitschler_international/cover": {
+  "l": "assets/img/projects/hitschler_international/cover.jpg",
+  "s": "assets/img/projects/hitschler_international/cover-s.jpg"
+ },
+ "projects/hitschler_international/01": {
+  "l": "assets/img/projects/hitschler_international/01.webp",
+  "s": "assets/img/projects/hitschler_international/01-s.webp"
+ },
+ "projects/hitschler_international/02": {
+  "l": "assets/img/projects/hitschler_international/02.webp",
+  "s": "assets/img/projects/hitschler_international/02-s.webp"
+ },
+ "projects/rheinland_versicherung/cover": {
+  "l": "assets/img/projects/rheinland_versicherung/cover.jpg",
+  "s": "assets/img/projects/rheinland_versicherung/cover-s.jpg"
+ },
+ "projects/rheinland_versicherung/01": {
+  "l": "assets/img/projects/rheinland_versicherung/01.webp",
+  "s": "assets/img/projects/rheinland_versicherung/01-s.webp"
+ },
+ "projects/rheinland_versicherung/02": {
+  "l": "assets/img/projects/rheinland_versicherung/02.webp",
+  "s": "assets/img/projects/rheinland_versicherung/02-s.webp"
+ },
+ "projects/rheinland_versicherung/03": {
+  "l": "assets/img/projects/rheinland_versicherung/03.webp",
+  "s": "assets/img/projects/rheinland_versicherung/03-s.webp"
+ },
+ "projects/rheinland_versicherung/04": {
+  "l": "assets/img/projects/rheinland_versicherung/04.webp",
+  "s": "assets/img/projects/rheinland_versicherung/04-s.webp"
+ },
+ "projects/rheinland_versicherung/05": {
+  "l": "assets/img/projects/rheinland_versicherung/05.webp",
+  "s": "assets/img/projects/rheinland_versicherung/05-s.webp"
+ },
+ "projects/rheinland_versicherung/06": {
+  "l": "assets/img/projects/rheinland_versicherung/06.webp",
+  "s": "assets/img/projects/rheinland_versicherung/06-s.webp"
+ },
+ "projects/kluck_umweltlogistik/cover": {
+  "l": "assets/img/projects/kluck_umweltlogistik/cover.jpg",
+  "s": "assets/img/projects/kluck_umweltlogistik/cover-s.jpg"
+ },
+ "projects/leuchtenzentrum/cover": {
+  "l": "assets/img/projects/leuchtenzentrum/cover.jpg",
+  "s": "assets/img/projects/leuchtenzentrum/cover-s.jpg"
+ },
+ "projects/leuchtenzentrum/01": {
+  "l": "assets/img/projects/leuchtenzentrum/01.webp",
+  "s": "assets/img/projects/leuchtenzentrum/01-s.webp"
+ },
+ "projects/wilma_wunder/cover": {
+  "l": "assets/img/projects/wilma_wunder/cover.jpg",
+  "s": "assets/img/projects/wilma_wunder/cover-s.jpg"
+ },
+ "projects/wdr_studios_koeln/cover": {
+  "l": "assets/img/projects/wdr_studios_koeln/cover.jpg",
+  "s": "assets/img/projects/wdr_studios_koeln/cover-s.jpg"
+ },
+ "projects/wdr_studios_koeln/01": {
+  "l": "assets/img/projects/wdr_studios_koeln/01.webp",
+  "s": "assets/img/projects/wdr_studios_koeln/01-s.webp"
+ },
+ "projects/wdr_studios_koeln/02": {
+  "l": "assets/img/projects/wdr_studios_koeln/02.webp",
+  "s": "assets/img/projects/wdr_studios_koeln/02-s.webp"
+ },
+ "projects/wdr_studios_koeln/03": {
+  "l": "assets/img/projects/wdr_studios_koeln/03.webp",
+  "s": "assets/img/projects/wdr_studios_koeln/03-s.webp"
+ },
+ "projects/wdr_studios_koeln/04": {
+  "l": "assets/img/projects/wdr_studios_koeln/04.webp",
+  "s": "assets/img/projects/wdr_studios_koeln/04-s.webp"
+ },
+ "projects/wdr_studios_koeln/05": {
+  "l": "assets/img/projects/wdr_studios_koeln/05.webp",
+  "s": "assets/img/projects/wdr_studios_koeln/05-s.webp"
+ },
+ "kontakt/01": {
+  "l": "assets/img/kontakt/01.webp",
+  "s": "assets/img/kontakt/01-s.webp"
+ },
+ "kontakt/02": {
+  "l": "assets/img/kontakt/02.webp",
+  "s": "assets/img/kontakt/02-s.webp"
+ },
+ "karriere/01": {
+  "l": "assets/img/karriere/01.webp",
+  "s": "assets/img/karriere/01.webp"
+ },
+ "karriere/02": {
+  "l": "assets/img/karriere/02.webp",
+  "s": "assets/img/karriere/02.webp"
+ },
+ "karriere/03": {
+  "l": "assets/img/karriere/03.webp",
+  "s": "assets/img/karriere/03.webp"
+ },
+ "karriere/04": {
+  "l": "assets/img/karriere/04.webp",
+  "s": "assets/img/karriere/04.webp"
+ },
+ "home/hero": {
+  "l": "assets/img/home/hero.webp",
+  "s": "assets/img/home/hero-s.webp"
+ },
+ "kontakt/hero": {
+  "l": "assets/img/kontakt/hero.webp",
+  "s": "assets/img/kontakt/hero-s.webp"
+ },
+ "karriere/hero": {
+  "l": "assets/img/karriere/hero.webp",
+  "s": "assets/img/karriere/hero-s.webp"
+ },
+ "services/beleuchtungssysteme/card": {
+  "l": "assets/img/services/beleuchtungssysteme/card.webp",
+  "s": "assets/img/services/beleuchtungssysteme/card-s.webp"
+ },
+ "services/knx-systemintegrator/card": {
+  "l": "assets/img/services/knx-systemintegrator/card.webp",
+  "s": "assets/img/services/knx-systemintegrator/card-s.webp"
+ },
+ "services/alarmanlagen/card": {
+  "l": "assets/img/services/alarmanlagen/card.webp",
+  "s": "assets/img/services/alarmanlagen/card-s.webp"
+ },
+ "services/smart_home/card": {
+  "l": "assets/img/services/smart_home/card.webp",
+  "s": "assets/img/services/smart_home/card-s.webp"
+ },
+ "services/videoueberwachung/card": {
+  "l": "assets/img/services/videoueberwachung/card.webp",
+  "s": "assets/img/services/videoueberwachung/card-s.webp"
+ },
+ "services/video_gegensprechanlagen/card": {
+  "l": "assets/img/services/video_gegensprechanlagen/card.webp",
+  "s": "assets/img/services/video_gegensprechanlagen/card-s.webp"
+ },
+ "services/multiroom_audio/card": {
+  "l": "assets/img/services/multiroom_audio/card.webp",
+  "s": "assets/img/services/multiroom_audio/card-s.webp"
+ },
+ "services/service_elektriker/card": {
+  "l": "assets/img/services/service_elektriker/card.webp",
+  "s": "assets/img/services/service_elektriker/card-s.webp"
+ },
+ "home/security": {
+  "l": "assets/img/home/security.webp",
+  "s": "assets/img/home/security-s.webp"
+ },
+ "ai/hero-home": {
+  "l": "assets/img/ai/hero-home.webp",
+  "s": "assets/img/ai/hero-home-s.webp"
+ },
+ "ai/tile-lighting": {
+  "l": "assets/img/ai/tile-lighting.webp",
+  "s": "assets/img/ai/tile-lighting-s.webp"
+ },
+ "ai/tile-knx": {
+  "l": "assets/img/ai/tile-knx.webp",
+  "s": "assets/img/ai/tile-knx-s.webp"
+ },
+ "ai/hero-knx": {
+  "l": "assets/img/ai/hero-knx.webp",
+  "s": "assets/img/ai/hero-knx-s.webp"
+ },
+ "ai/tile-video": {
+  "l": "assets/img/ai/tile-video.webp",
+  "s": "assets/img/ai/tile-video-s.webp"
+ },
+ "ai/tile-smarthome": {
+  "l": "assets/img/ai/tile-smarthome.webp",
+  "s": "assets/img/ai/tile-smarthome-s.webp"
+ },
+ "ai/tile-alarm": {
+  "l": "assets/img/ai/tile-alarm.webp",
+  "s": "assets/img/ai/tile-alarm-s.webp"
+ },
+ "ai/tile-intercom": {
+  "l": "assets/img/ai/tile-intercom.webp",
+  "s": "assets/img/ai/tile-intercom-s.webp"
+ },
+ "ai/tile-service": {
+  "l": "assets/img/ai/tile-service.webp",
+  "s": "assets/img/ai/tile-service-s.webp"
+ },
+ "ai/tile-audio": {
+  "l": "assets/img/ai/tile-audio.webp",
+  "s": "assets/img/ai/tile-audio-s.webp"
+ }
+}

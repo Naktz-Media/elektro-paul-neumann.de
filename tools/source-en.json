@@ -1,0 +1,1461 @@
+{
+ "services": {
+  "beleuchtungssysteme": {
+   "title": "Lighting systems in Cologne and Mallorca from KNX professionals",
+   "description": "Expert advice, installation, and maintenance of lighting systems in Cologne, throughout Germany, and on Mallorca. Planning and adaptation of indoor and outdoor lighting for occupational safety, energy efficiency, and regulatory standards. Customized lighting solutions for production facilities, offices, and more.",
+   "kicker": "for Architecture and Technology",
+   "h1": "Lighting design at the highest level",
+   "intro": "<br> <br> <br> <br> <br> <p>Whether it's stylish villas on Mallorca or sophisticated industrial facilities in the Cologne area, our lighting systems combine technical precision with architectural elegance. We plan, install, and maintain high-quality indoor and outdoor lighting that does far more than just provide brightness: they create atmosphere, enhance safety, and increase efficiency.</p> <br> <br> <br>",
+   "sections": [
+    {
+     "kicker": "inside and out",
+     "title": "For demanding requirements",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/4/photo/",
+       "hash": "d61ce9b3",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> Every project is unique <p>Today, lighting is more than just a functional necessity. Especially in exclusive living spaces or safety-critical production areas, the quality of lighting design determines comfort, impact, and operational reliability. Technically flawless systems require expertise – from the initial analysis to the final luminaire.</p> <p>We develop individual concepts that meet your architectural and functional requirements – precisely tailored to your property, your processes and your expectations.</p> <br><br><br> <br>"
+    },
+    {
+     "kicker": "standards-compliant, future-proof, energy-efficient",
+     "title": "Lighting solutions with a system",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/6/photo/",
+       "hash": "5bc0be4d",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Whether modernizing existing systems or building from scratch, we rely on intelligent planning, high-quality components, and a holistic approach. We always keep legal regulations, DIN standards, and your specific requirements in mind – especially when it comes to safety-relevant lighting, such as in production facilities.</p> <p>Thanks to our expertise, you benefit from:</p> <ul><li>maximum light quality with minimal energy consumption</li> <li>optimal adaptation to daylight conditions and room structure</li> <li>implementation in accordance with standards (e.g. DIN EN 12464-1)</li> <li>Integration of smart control technology (e.g. motion detectors, lighting management systems)</li></ul> <br><br><br> <br>"
+    },
+    {
+     "kicker": "Lighting systems",
+     "title": "Custom work instead of standard solutions",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/10/photo/",
+       "hash": "25cc1a5c",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Every environment is unique – and so are our lighting concepts. In industry, we purposefully deploy a variety of systems: high bay spotlights for production, glare-free lighting in the workplace, and intelligent lighting control in storage areas. In private homes, we create impressive lighting landscapes that showcase architecture, art, and everyday life – with branded solutions from the premium segment.</p> <p>Together with you, we define the lighting effect you desire. And we ensure it lasts – through high-quality installation and long-term maintenance.</p> <br><br><br> <br>"
+    },
+    {
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br> <p>Your project deserves the highest quality lighting. Trust a company that understands technology – and can bring your vision to life.</p> <br><br><br>"
+    },
+    {
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "4b732591",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "8a5c49d4",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "3f97515d",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "5e1d864e",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "8a71b6a8",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "637fda01",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "a197af70",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "01f4dd6d",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "6cc30fe1",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "748daeea",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "6ea020ce",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "5756dd81",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "295011e0",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "3950b26d",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "0e6a8620",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "f998885c",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "2be4f31b",
+       "ext": "webp"
+      }
+     ],
+     "html": ""
+    },
+    {
+     "title": "additional services",
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br><a href=\"/leistungen/knx-systemintegrator/\"><p>KNX system integrator</p></a><a href=\"/leistungen/alarmanlagen/\"><p>Alarm systems</p></a><a href=\"/leistungen/smart_home/\"><p>Smart Home</p></a><a href=\"/leistungen/videoueberwachung/\"><p>Video surveillance</p></a><a href=\"/leistungen/video_gegensprechanlagen/\"><p>Video intercom systems</p></a><a href=\"/leistungen/multiroom_audio/\"><p>Multi-room audio</p></a><a href=\"/leistungen/service_elektriker/\"><p>Service Electrician</p></a><br>"
+    }
+   ],
+   "titlephoto": {
+    "dir": "/mam/service/1/titlephoto/",
+    "hash": "39f18bdb",
+    "ext": "webp"
+   },
+   "name": "Lighting systems"
+  },
+  "knx-systemintegrator": {
+   "title": "KNX system integrator Cologne and Mallorca",
+   "description": "Your expert for KNX system integration in Cologne, Germany, and Mallorca. Planning, consulting, and installation of smart home and building control systems according to the KNX standard. Intelligent networking for lighting, climate control, security, and energy efficiency – conveniently controlled via smartphone or tablet. Optimal solutions for modern home and building technology.",
+   "kicker": "Intelligent building technology with high standards",
+   "h1": "KNX system integration",
+   "intro": "<br> <br> <br> <br> <br> <p>Modern properties deserve intelligent technology. With KNX, you rely on a proven, future-proof system for fully integrated control of your building functions – individually planned, professionally implemented.</p> <br> <br> <br>",
+   "sections": [
+    {
+     "kicker": "intelligently networked",
+     "title": "Comfort, efficiency and safety",
+     "videos": [
+      "SzvNCW5PH9Y"
+     ],
+     "images": [],
+     "html": "<br> <br><br><br> <br> <p>Whether it's an exclusive villa in Mallorca or a commercial property in Cologne, KNX technology combines sophisticated architecture with precise technology. Lighting, heating, blinds, ventilation, and security systems can be centrally controlled, automated, and adapted to your lifestyle or work habits—even on the go via smartphone or tablet.</p> <p>Our team plans, installs, and supports your KNX solution holistically – from the initial design through system integration to long-term maintenance. We rely exclusively on high-quality components from leading manufacturers and combine technology with design excellence.</p> <br><br><br> <br>"
+    },
+    {
+     "kicker": "networked building automation",
+     "title": "Our services in the field of KNX",
+     "videos": [
+      "MIPW7EmDL9c"
+     ],
+     "images": [],
+     "html": "<br> <br><br><br> <br> <ul><li><p><strong>Individual consulting & system planning</strong><br>Based on your property and your needs, we develop a holistic concept – functional, expandable, and future-proof.</p></li> <li><p><strong>Installation & commissioning</strong><br>Whether it's a new build or a retrofit, we ensure professional implementation with an eye for detail. KNX can also be easily integrated into existing systems.</p></li> <li><p><strong>Maintenance & Expansion</strong><br>Your technology remains reliable over the long term – through regular updates, maintenance, and customized expansion options.</p></li></ul> <br><br><br> <br>"
+    },
+    {
+     "kicker": "For private and business customers",
+     "title": "Certified KNX partner",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/22/photo/",
+       "hash": "8d15a82f",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>As a certified KNX partner, we offer solutions for:</p> <ul><li><p><strong>Exclusive residential properties</strong><br>e.g., intelligent lighting control, smart air conditioning, and elegant switch designs</p></li> <li><p><strong>Commercial and industrial buildings</strong><br>e.g., efficient energy use, automatic shading, and needs-based security technology</p></li></ul> <br><br><br> <br>"
+    },
+    {
+     "faq": [
+      {
+       "q": "What is KNX?",
+       "a": "KNX is the globally recognized standard (EN 50090 / ISO/IEC 14543) for the intelligent networking of home and building technology. It enables centralized, cross-manufacturer control of lighting, shading, heating, security, and more – efficiently, securely, and scalably."
+      },
+      {
+       "q": "Can KNX be retrofitted in existing buildings?",
+       "a": "Yes. In addition to the traditional bus (TP), there are wireless and IP options. We will review the existing infrastructure and plan a suitable integration."
+      },
+      {
+       "q": "Do you handle maintenance and extensions?",
+       "a": "Yes. We handle updates, error analysis, enhancements, and reprogramming – across all manufacturers and with long-term service in Cologne and the surrounding area."
+      },
+      {
+       "q": "How much does a KNX installation cost?",
+       "a": "This depends on the scope (trades, sensors/actuators, visualization). After an on-site appointment, you will receive a binding quote with a detailed description of the work."
+      },
+      {
+       "q": "Why is it difficult to find good KNX electricians?",
+       "a": "KNX requires certification (KNX partner), in-depth ETS knowledge, and interdisciplinary experience across multiple disciplines. Qualified integrators are specialized and therefore rare – we ensure this through certified expertise and numerous completed projects."
+      }
+     ],
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br> <br><br><br>"
+    },
+    {
+     "kicker": "sophisticated KNX systems",
+     "title": "Let technology work for you",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/15/photo/",
+       "hash": "f550774b",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Experience what intelligent living or working can look like – with solutions that adapt to you, not the other way around. Contact us for a free, no-obligation consultation.</p> <p><strong>Paul Neumann Smart Home – Your partner for sophisticated KNX systems</strong></p> <br><br><br> <br>"
+    },
+    {
+     "title": "additional services",
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br><a href=\"/leistungen/beleuchtungssysteme/\"><p>Lighting systems</p></a><a href=\"/leistungen/alarmanlagen/\"><p>Alarm systems</p></a><a href=\"/leistungen/smart_home/\"><p>Smart Home</p></a><a href=\"/leistungen/videoueberwachung/\"><p>Video surveillance</p></a><a href=\"/leistungen/video_gegensprechanlagen/\"><p>Video intercom systems</p></a><a href=\"/leistungen/multiroom_audio/\"><p>Multi-room audio</p></a><a href=\"/leistungen/service_elektriker/\"><p>Service Electrician</p></a><br>"
+    }
+   ],
+   "titlephoto": null,
+   "name": "KNX system integrator"
+  },
+  "alarmanlagen": {
+   "title": "Alarm systems",
+   "description": "Professional consulting, installation, and maintenance of alarm systems in Cologne, throughout Germany, and on Mallorca. Protection against burglary, fire, and water damage with modern wired and wireless alarm systems. Customized security solutions, including video surveillance, motion detectors, and smart home integration.",
+   "kicker": "Your protection starts with the right alarm system",
+   "h1": "Alarm systems – security through intelligent technology",
+   "intro": "<br> <br> <br> <br> <br> <p>Whether it's burglary, fire, or technical threats: Modern alarm systems offer comprehensive protection for your property and your security. We install and maintain high-quality systems from renowned manufacturers such as<strong>Telenot, Vanderbilt, Indexa</strong>and<strong>ABUS</strong>– reliable, individual and future-proof.</p> <p>Alarm systems have a proven deterrent effect: around<strong>75% of perpetrators</strong>can be deterred from burglary simply by the presence of an alarm system. But the systems do even more: They also protect against<strong>Fires, medical emergencies, robberies</strong>or<strong>Water damage</strong>- around the clock.</p> <br> <br> <br>",
+   "sections": [
+    {
+     "kicker": "Wireless, cable or hybrid?",
+     "title": "The right solution for your property",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/17/photo/",
+       "hash": "08bf613d",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <ul><li><p><strong>Wireless alarm systems</strong><br>Ideal for existing properties or rental properties. Quick and clean retrofitting without structural changes.</p></li> <li><p><strong>Wired systems</strong><br>Especially suitable for new buildings or extensive renovations. Interference-resistant, durable, and can be installed discreetly under plaster.</p></li> <li><p><strong>Hybrid solutions</strong><br>The perfect combination – a wired main control center with flexible wireless components.</p></li></ul> <p>Our experts from Cologne will advise you personally, analyze your circumstances and create a customized security concept.</p> <br><br><br> <br>"
+    },
+    {
+     "kicker": "",
+     "title": "Professional installation by a master craftsman from Cologne",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/16/photo/",
+       "hash": "74a9ba62",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>An alarm system only achieves its full effect when it is professionally planned and installed. With over<strong>30 years of experience</strong>When it comes to security technology, we are your reliable partner in Cologne and throughout Germany. Whether it's a private apartment, commercial property, or single-family home – we provide reliable protection.</p> <br> <p><strong>Retrofit now – even without new construction</strong></p> <p>Our wireless alarm systems enable<strong>easy retrofitting</strong>without structural interventions. Particularly suitable for existing buildings or rental apartments. The systems are<strong>modular, reusable</strong>and<strong>future-proof</strong>.</p> <p>We analyze your property, identify security gaps and recommend suitable systems –<strong>effective, user-friendly</strong>and<strong>cost-effective</strong>.</p> <br><br><br> <br>"
+    },
+    {
+     "kicker": "",
+     "title": "Facts about the security situation in Germany",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/18/photo/",
+       "hash": "4e054864",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <ul><li><p>Above<strong>150,000 burglaries</strong>per year (as of GDV report)</p></li> <li><p><strong>20%</strong>of the burglaries occur in the presence of the residents</p></li> <li><p>Psychological consequences:<strong>46.5%</strong>of the victims still feel unsafe one year after the crime</p></li> <li><p>Total damage: around<strong>€490 million annually</strong>, average<strong>3,250€ per burglary</strong></p></li></ul> <p>Protect yourself and your family with an alarm system from a specialist company – before something happens.</p> <br><br><br> <br>"
+    },
+    {
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br> <p><strong>Get advice now</strong></p> <p>Security is a matter of trust. Let us advise you individually on your alarm system – on-site in Cologne or by phone throughout Germany. We plan, install, and maintain your system professionally and reliably.</p> <p>Contact us – for your safety.</p> <p>Your experts for alarm systems in Cologne, Germany and Mallorca</p> <br><br><br>"
+    },
+    {
+     "kicker": "",
+     "title": "Flexible application options & components",
+     "videos": [
+      "_WMMivhenFw"
+     ],
+     "images": [],
+     "html": "<br> <br><br><br> <br> <p>Our alarm systems can be individually expanded and tailored to your requirements:</p> <ul><li>Signal devices for indoor and outdoor areas</li> <li>Motion detector with animal detection</li> <li>Smoke and gas detectors</li> <li>Water and glass break sensors</li> <li>Access control systems</li> <li>Video cameras (visible or hidden)</li> <li>Smartphone integration and remote control via app</li></ul> <p>You decide which modules are suitable for you – we will advise you personally and competently.</p> <br><br><br> <br>"
+    },
+    {
+     "title": "additional services",
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br><a href=\"/leistungen/beleuchtungssysteme/\"><p>Lighting systems</p></a><a href=\"/leistungen/knx-systemintegrator/\"><p>KNX system integrator</p></a><a href=\"/leistungen/smart_home/\"><p>Smart Home</p></a><a href=\"/leistungen/videoueberwachung/\"><p>Video surveillance</p></a><a href=\"/leistungen/video_gegensprechanlagen/\"><p>Video intercom systems</p></a><a href=\"/leistungen/multiroom_audio/\"><p>Multi-room audio</p></a><a href=\"/leistungen/service_elektriker/\"><p>Service Electrician</p></a><br>"
+    }
+   ],
+   "titlephoto": {
+    "dir": "/mam/service/3/titlephoto/",
+    "hash": "7d3e5564",
+    "ext": "webp"
+   },
+   "name": "Alarm systems"
+  },
+  "smart_home": {
+   "title": "Smart Home",
+   "description": "Professional smart home solutions and KNX systems in Cologne, throughout Germany, and on Mallorca. Intelligent home control for lighting, blinds, heating, and security. Efficient retrofitting and user-friendly control via app or software.",
+   "kicker": "Smart Home",
+   "h1": "Intelligent building technology for greater comfort, security and efficiency",
+   "intro": "<br> <br> <br> <br> <br> <p>A<strong>Smart Home</strong>stands for intelligent building automation and the networking of technical devices and systems in living spaces and buildings. The goal is to increase living comfort, improve energy efficiency, and simultaneously enhance security – all based on automated processes and remotely controllable components.</p> <br> <br> <br>",
+   "sections": [
+    {
+     "kicker": "With tablet, smartphone or PC",
+     "title": "Control your building from anywhere in the world",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/23/photo/",
+       "hash": "cbe21623",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Thanks to modern smart home technology, numerous functions can be conveniently controlled via smartphone, tablet or PC:</p> <ul><li><p>Lighting control including individually customizable lighting scenes and schedules</p></li> <li><p>Automated blinds and roller shutter control</p></li> <li><p>Remote access to video surveillance and alarm systems</p></li> <li><p>Intelligent heating control for maximum energy savings</p></li> <li><p>Status messages for security-relevant changes or events</p></li></ul> <p>Whether in a new building or an existing property, many systems can be retrofitted without much effort. All that's required is a Wi-Fi connection. Control is conveniently via a user-friendly app or software solution.</p> <br><br><br> <br>"
+    },
+    {
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br> <p><strong>Is intelligent building technology interesting to you?</strong></p> <p>Then rely on our many years of experience with numerous projects in Cologne, Germany, and Mallorca!<br>Call us at <strong><a href=\"tel:+49221431351\">+49 (0) 221 - 431 351</a></strong>– we will be happy to advise you individually and personally.</p> <br><br><br>"
+    },
+    {
+     "kicker": "Building automation is diverse",
+     "title": "Choose a partner with know-how in all areas",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/32/photo/",
+       "hash": "57a14c50",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Intelligent building technology encompasses many areas. Therefore, choose a partner with comprehensive knowledge and experience!</p> <p><strong>Paul Neumann Smart Home – Your partner for sophisticated KNX systems</strong></p> <br><br><br> <br>"
+    },
+    {
+     "title": "additional services",
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br><a href=\"/leistungen/beleuchtungssysteme/\"><p>Lighting systems</p></a><a href=\"/leistungen/knx-systemintegrator/\"><p>KNX system integrator</p></a><a href=\"/leistungen/alarmanlagen/\"><p>Alarm systems</p></a><a href=\"/leistungen/videoueberwachung/\"><p>Video surveillance</p></a><a href=\"/leistungen/video_gegensprechanlagen/\"><p>Video intercom systems</p></a><a href=\"/leistungen/multiroom_audio/\"><p>Multi-room audio</p></a><a href=\"/leistungen/service_elektriker/\"><p>Service Electrician</p></a><br>"
+    }
+   ],
+   "titlephoto": {
+    "dir": "/mam/service/4/titlephoto/",
+    "hash": "d56af33c",
+    "ext": "webp"
+   },
+   "name": "Smart Home"
+  },
+  "videoueberwachung": {
+   "title": "Video surveillance",
+   "description": "Professional video surveillance systems in Cologne, throughout Germany, and on Mallorca: Planning, installation, and consulting for IP cameras, full HD surveillance, and intelligent video management solutions. Protect your property and increase your security with modern, customized surveillance solutions.",
+   "kicker": "Your protection starts with a clear picture",
+   "h1": "Video surveillance",
+   "intro": "<br> <br> <br> <br> <br> <p>Whether at home, on company premises, or in public places – with a professional video surveillance system, you stay in control at all times. Our customized systems protect property, act as a deterrent, and enable comprehensive documentation in the event of an emergency.</p> <br> <br> <br>",
+   "sections": [
+    {
+     "kicker": "for Cologne, Germany and Mallorca",
+     "title": "Modern security technology",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/26/photo/",
+       "hash": "9d00ff34",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>We plan, install, and maintain modern video surveillance systems tailored to your individual requirements. We use high-performance components such as:</p> <ul><li><strong>IP cameras with Full HD or megapixel resolution</strong></li> <li><strong>Digital recorder (DVR/NVR) with ring buffer and motion detection</strong></li> <li><strong>Intelligent video analysis software</strong></li></ul> <p>Manufacturers such as<strong>Axis, Avigilon, Geutebrück, Mobotix</strong>or<strong>CBC</strong>stand for quality, durability, and maximum safety. Whether for your home, commercial premises, or sensitive areas – we provide the right solution.</p> <br><br><br> <br>"
+    },
+    {
+     "kicker": "",
+     "title": "Areas of application of video surveillance",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/28/photo/",
+       "hash": "862a326a",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>The possibilities are diverse:</p> <ul><li><p>Private houses, holiday properties, garages and parking spaces</p></li> <li><p>Gas stations, commercial businesses and construction sites</p></li> <li><p>Schools, daycare centers and public institutions</p></li> <li><p>Indoor spaces for controlling pets or sensitive areas</p></li></ul> <p>With<strong>mobile access</strong>You are informed via smartphone or tablet regardless of location –<strong>live or recorded.</strong></p> <br> <strong>Statistical arguments for video surveillance</strong> <p>Burglary figures show: The danger is real. According to the insurance industry, the number of residential burglaries has increased significantly in recent years. Particularly worrying: In approximately<strong>20% of cases</strong>the residents were present during the crime – in some cases there was even direct contact with the perpetrators.</p> <p>Even more serious are often the<strong>long-term consequences:</strong></p> <ul><li><p>Almost half of those affected no longer feel safe in their own home, even one year after the burglary.</p></li> <li><p>One in four people considers moving house after the incident.</p></li> <li><p>The average damage costs per case are over<strong>3,000 euros</strong>.</p></li></ul> <p>A well-planned surveillance system can not only<strong>deterrence</strong>, but also to<strong>enlightenment</strong>– and thus actively contributes to the protection of your family and values.</p> <br><br><br> <br>"
+    },
+    {
+     "kicker": "Which system suits you?",
+     "title": "Wireless or wired",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/24/photo/",
+       "hash": "94c523bf",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Modern video surveillance systems offer flexible installation options:</p> <ul><li><p><strong>Wireless variants</strong>are ideal for rental apartments or places with frequently changing locations.</p></li> <li><p><strong>Wired systems</strong>guarantee maximum reliability and are particularly recommended for continuous operation.</p></li></ul> <p>We provide you with individual advice, inspect your property on-site in Cologne and the surrounding area, and recommend the right system – including the number of cameras, storage solution, and positioning.</p> <br><br><br> <br>"
+    },
+    {
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br> <p><strong>Intelligent monitoring for peace of mind</strong></p> <p>Digital recordings with the highest image quality, night vision, and cloud storage are standard today. Real-time transmission ensures you stay informed about events at all times—even when you're on the go.</p> <p>Modern camera systems are compact, discreet, and robust—making them virtually impossible to tamper with. This ensures your security at all times.</p> <br><br><br>"
+    },
+    {
+     "kicker": "In Cologne, Germany and Mallorca",
+     "title": "Trust in our experience",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/25/photo/",
+       "hash": "3d4b2c5c",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Whether you're looking for a private or commercial solution, we'll support you from the initial consultation to the final installation. Benefit from:</p> <ul><li><strong>many years of experience in security technology</strong></li> <li><strong>tailor-made solutions for every budget</strong></li> <li><strong>fast on-site service</strong></li></ul> <p>Contact us at <strong><a href=\"tel:+49221431351\">+49 (0) 221 - 431 351</a></strong>– we take time for your safety.</p> <br><br><br> <br>"
+    },
+    {
+     "title": "additional services",
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br><a href=\"/leistungen/beleuchtungssysteme/\"><p>Lighting systems</p></a><a href=\"/leistungen/knx-systemintegrator/\"><p>KNX system integrator</p></a><a href=\"/leistungen/alarmanlagen/\"><p>Alarm systems</p></a><a href=\"/leistungen/smart_home/\"><p>Smart Home</p></a><a href=\"/leistungen/video_gegensprechanlagen/\"><p>Video intercom systems</p></a><a href=\"/leistungen/multiroom_audio/\"><p>Multi-room audio</p></a><a href=\"/leistungen/service_elektriker/\"><p>Service Electrician</p></a><br>"
+    }
+   ],
+   "titlephoto": {
+    "dir": "/mam/service/5/titlephoto/",
+    "hash": "4118ef82",
+    "ext": "webp"
+   },
+   "name": "Video surveillance"
+  },
+  "video_gegensprechanlagen": {
+   "title": "Video intercom systems",
+   "description": "Discover high-quality video intercom systems for Cologne, throughout Germany, and on Mallorca: Security through clear image resolution, infrared night vision, and easy operation via smartphone or PC. Professional advice, installation, and customized solutions for private households and businesses.",
+   "kicker": "More safety through visual control",
+   "h1": "Video intercom systems",
+   "intro": "<br> <br> <br> <br> <br> <p><strong>Uninvited visitors? With modern video intercom systems, you stay in control.</strong></p> <p>It's late in the evening, the doorbell rings, and you don't know who's at the door? Video door intercom systems offer a valuable added security feature in moments like these. Thanks to live video and two-way communication, you can immediately see who's at your front door or business premises—without having to open the door.</p> <br> <br> <br>",
+   "sections": [
+    {
+     "kicker": "for Cologne, Germany and Mallorca",
+     "title": "What distinguishes a video intercom system from conventional systems?",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/29/photo/",
+       "hash": "ce64c921",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>In contrast to conventional audio intercom systems, video door intercom systems offer visual security:</p> <ul><li><strong>Real-time video transmission</strong>on an indoor display</li> <li><strong>Communication via camera and microphone</strong></li> <li><strong>Integrated night vision</strong>thanks to infrared technology</li></ul> <p>The camera image appears on an indoor monitor. Many systems can now also be controlled via smartphone or tablet – for maximum flexibility and control, even while on the move.</p> <br><br><br> <br>"
+    },
+    {
+     "kicker": "",
+     "title": "Individual solutions for every need",
+     "videos": [
+      "1z3sIAao-nY"
+     ],
+     "images": [],
+     "html": "<br> <br><br><br> <br> <p>From compact single-family homes to commercial properties – we offer video intercom systems in various designs:</p> <ul><li><p>Models with<strong>moving camera</strong>for a wide viewing angle</p></li> <li><p>Systems with<strong>Motion detection and image storage</strong>that automatically creates recordings</p></li> <li><p>High-end systems with<strong>App connection</strong>, ideal for mobile users</p></li></ul> <p>Our experts in Cologne, Germany and Mallorca will help you find the right model – including design advice for stylish integration into your surroundings.</p> <br><br><br> <br>"
+    },
+    {
+     "kicker": "With touchscreen, tablet or smartphone",
+     "title": "Smart technology, intuitive operation",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/30/photo/",
+       "hash": "2420e1db",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>The systems we use rely on modern technologies and the highest quality standards:</p> <ul><li><p><strong>High-resolution displays</strong></p></li> <li><p><strong>Clear sound and low latency</strong></p></li> <li><p><strong>Secure data connection and high durability</strong></p></li></ul> <p>Regardless of whether you want to operate your system via touchscreen in the hallway or via smartphone app – we will show you which functions are really useful for your situation.</p> <br><br><br> <br>"
+    },
+    {
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br> <p><strong>Security for all generations</strong></p> <p>A video door intercom system offers protection – for singles as well as for families with children or seniors. Especially for older people, it's reassuring to be able to visually identify visitors before the door is opened. Your family won't be left unprotected even while traveling or at work.</p> <br><br><br>"
+    },
+    {
+     "kicker": "For over 30 years",
+     "title": "Trust through experience",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/31/photo/",
+       "hash": "3cf0c4b2",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>As a master company in Cologne with over three decades of experience in the field of security technology, we know what matters. We rely exclusively on tested brand-name products, provide objective advice, and handle the entire installation and configuration – including instruction on operation upon request.</p> <p>Our performance promise</p> <ul><li>Personal expert advice on site</li> <li>Large selection of high-quality video intercom systems</li> <li>Tailor-made solutions for private, commercial & multi-family homes</li> <li>Professional installation by trained technicians</li> <li>Long-term support for maintenance and expansion</li></ul> <br><br><br> <br>"
+    },
+    {
+     "kicker": "Your security begins at the door",
+     "title": "Get advice now",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/33/photo/",
+       "hash": "5b8c5c7c",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Would you like to professionally insure your property? Then contact us – we are available to provide you with personal advice in Cologne, the surrounding area, and nationwide.</p> <p>Contact us today for a non-binding offer at <strong><a href=\"tel:+49221431351\">+49 (0) 221 - 431 351</a></strong></p> <br><br><br> <br>"
+    },
+    {
+     "title": "additional services",
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br><a href=\"/leistungen/beleuchtungssysteme/\"><p>Lighting systems</p></a><a href=\"/leistungen/knx-systemintegrator/\"><p>KNX system integrator</p></a><a href=\"/leistungen/alarmanlagen/\"><p>Alarm systems</p></a><a href=\"/leistungen/smart_home/\"><p>Smart Home</p></a><a href=\"/leistungen/videoueberwachung/\"><p>Video surveillance</p></a><a href=\"/leistungen/multiroom_audio/\"><p>Multi-room audio</p></a><a href=\"/leistungen/service_elektriker/\"><p>Service Electrician</p></a><br>"
+    }
+   ],
+   "titlephoto": {
+    "dir": "/mam/service/6/titlephoto/",
+    "hash": "5db8d2f4",
+    "ext": "webp"
+   },
+   "name": "Video intercom systems"
+  },
+  "multiroom_audio": {
+   "title": "Multi-room audio",
+   "description": "Multiroom audio systems for Cologne, Germany, and Mallorca: Enjoy synchronized sound in all rooms with high-quality sound and intuitive app control. Customized planning, delivery, and installation for optimal listening pleasure in your home or commercial space.",
+   "kicker": "Sound comfort in every room",
+   "h1": "Multiroom audio & sound systems",
+   "intro": "<br> <br> <br> <br> <br> <p>Music in every room – perfectly tailored to your mood. With our multi-room audio systems, you'll experience first-class sound in a whole new dimension. Conveniently control your favorite music via app and create personalized sound in your kitchen, living room, bathroom, or garden. Whether simultaneous sound in all rooms or different playlists for each area – the systems can be flexibly adapted to your needs.</p> <p>The result: a harmonious listening experience that transforms your home into a modern soundscape – from relaxing to energizing.</p> <br> <br> <br>",
+   "sections": [
+    {
+     "kicker": "Seamless sound – everywhere in your home",
+     "title": "Why a good sound system is more than just speakers",
+     "videos": [
+      "t-e-UpJS4nQ"
+     ],
+     "images": [],
+     "html": "<br> <br><br><br> <br> <p>Whether in retail, restaurants, or hotels – targeted sound often influences people's well-being more than one might think. Background music encourages people to linger, enhances the customer experience, and can even positively influence purchasing decisions.</p> <p>But even in private areas, the right sound contributes significantly to the atmosphere:</p> <ul><li><p><strong>Relax in the bathtub with gentle sounds</strong></p></li> <li><p><strong>Cooking with the latest charts</strong></p></li> <li><p><strong>After work in the garden with your favorite playlist</strong></p></li></ul> <p>A high-quality multi-room system ensures that every area receives the right acoustics – tailored to its use and room acoustics. After all, a bedroom requires a different soundscape than a lively living area.</p> <br><br><br> <br>"
+    },
+    {
+     "kicker": "",
+     "title": "From the idea to the perfect sound solution",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/20/photo/",
+       "hash": "d4c08714",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>As an experienced specialist company, we plan and implement individual sound systems for your home or business – from the initial consultation through the selection of suitable components to professional installation.</p> <br> <p><strong>Our services at a glance:</strong></p> <ul><li>Planning your sound system according to your needs</li> <li>Selection and delivery of high-quality audio components</li> <li>Integration into smart home systems on request</li> <li>Professional installation & instruction</li> <li>Support and maintenance if required</li></ul> <br><br><br> <br>"
+    },
+    {
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br> <p><strong>Your sound. Your style. Your spaces.</strong></p> <p>Whether you're looking for a stylish hi-fi system or discreet built-in speakers, we'll work with you to find the optimal solution for your space. Trust our expertise and let us advise you personally. We'll bring sound into your life – precise, harmonious, and tailored to your taste.</p> <p>Get a free, no-obligation consultation now – for perfect hearing in every room.</p> <br><br><br>"
+    },
+    {
+     "title": "additional services",
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br><a href=\"/leistungen/beleuchtungssysteme/\"><p>Lighting systems</p></a><a href=\"/leistungen/knx-systemintegrator/\"><p>KNX system integrator</p></a><a href=\"/leistungen/alarmanlagen/\"><p>Alarm systems</p></a><a href=\"/leistungen/smart_home/\"><p>Smart Home</p></a><a href=\"/leistungen/videoueberwachung/\"><p>Video surveillance</p></a><a href=\"/leistungen/video_gegensprechanlagen/\"><p>Video intercom systems</p></a><a href=\"/leistungen/service_elektriker/\"><p>Service Electrician</p></a><br>"
+    }
+   ],
+   "titlephoto": {
+    "dir": "/mam/service/7/titlephoto/",
+    "hash": "6b387058",
+    "ext": "webp"
+   },
+   "name": "Multi-room audio"
+  },
+  "service_elektriker": {
+   "title": "Service electrician in Cologne - Elektro Paul Neumann",
+   "description": "Your electrical service provider in Cologne, throughout Germany, and on Mallorca: Professional planning, project management, construction support, KNX system integration, smart home, security systems, video systems, multi-room audio, and more. Customer-focused service for customized solutions.",
+   "kicker": "Tailor-made electrical support for every project",
+   "h1": "Your electrical service – reliable, personal, competent",
+   "intro": "<br> <br> <br> <br> <br> <p>Our electrical service stands for reliability, expertise, and a true customer focus. With an experienced, dedicated team, we offer you not only fast and efficient solutions but also personalized, face-to-face consultation. Whether it's residential construction projects, commercial projects, or smart modernizations – we accompany you from the initial idea to the final implementation.</p> <p>Our claim:<strong>tailor-made electrical concepts</strong>that work – today and in the future.</p> <br> <br> <br>",
+   "sections": [
+    {
+     "kicker": "",
+     "title": "Our services at a glance",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/21/photo/",
+       "hash": "a1faa644",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>We offer you comprehensive services for modern electrical installations and smart building technology:</p> <ul><li><p><strong>Planning & Project Management</strong></p></li> <li><p><strong>Individual offer creation & concept development</strong></p></li> <li><p><strong>Realization & project implementation</strong></p></li> <li><p><strong>Construction supervision & property management</strong></p></li> <li><p><strong>Remote maintenance & system maintenance</strong></p></li> <li><p><strong>KNX system integration & programming</strong></p></li> <li><p><strong>Smart home solutions & building automation</strong></p></li> <li><p><strong>Video systems & surveillance technology</strong></p></li> <li><p><strong>Alarm systems & security solutions</strong></p></li> <li><p><strong>Multiroom audio & home theater systems</strong></p></li></ul> <br><br><br> <br>"
+    },
+    {
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br> <p><strong>Why us? – Because you can expect more</strong></p> <p>Your needs are our top priority. We listen, think along with you, and deliver solutions that are not only technically but also economically compelling. Customer satisfaction is our greatest motivation—and the foundation for long-term partnerships.</p> <p><strong>Rely on electrical services with personality and technical standards – we will be happy to advise you.</strong></p> <br><br><br>"
+    },
+    {
+     "title": "additional services",
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br><a href=\"/leistungen/beleuchtungssysteme/\"><p>Lighting systems</p></a><a href=\"/leistungen/knx-systemintegrator/\"><p>KNX system integrator</p></a><a href=\"/leistungen/alarmanlagen/\"><p>Alarm systems</p></a><a href=\"/leistungen/smart_home/\"><p>Smart Home</p></a><a href=\"/leistungen/videoueberwachung/\"><p>Video surveillance</p></a><a href=\"/leistungen/video_gegensprechanlagen/\"><p>Video intercom systems</p></a><a href=\"/leistungen/multiroom_audio/\"><p>Multi-room audio</p></a><br>"
+    }
+   ],
+   "titlephoto": {
+    "dir": "/mam/service/8/titlephoto/",
+    "hash": "1e7052ee",
+    "ext": "webp"
+   },
+   "name": "Service Electrician"
+  }
+ },
+ "projects": {
+  "tuev_rheinland": {
+   "title": "TÜV Rheinland project",
+   "description": "TÜV Rheinland project: Implementation of office renovation work as well as installation and commissioning of modern network technology, fiber optic technology and media technology including testing and documentation.",
+   "name": "TÜV Rheinland",
+   "sub": "Office renovation",
+   "text": "TÜV Rheinland project: Implementation of office renovation work as well as installation and commissioning of modern network technology, fiber optic technology and media technology including testing and documentation.",
+   "images": [
+    {
+     "dir": "/mam/project/17/photos/",
+     "hash": "c236c5b8",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/17/photos/",
+     "hash": "10375965",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/17/photos/",
+     "hash": "f42452e3",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/17/photos/",
+     "hash": "5651025a",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/17/photos/",
+     "hash": "ad713cab",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/17/photos/",
+     "hash": "aba5b847",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/17/photos/",
+     "hash": "4e915192",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/17/photo/",
+    "hash": "6d33d6df",
+    "ext": "jpg"
+   }
+  },
+  "villa_xxl": {
+   "title": "Project Villa XXL Mallorca",
+   "description": "Villa XXL Germany - Son Vida 2017 - 2020 Implementation of electrical engineering, security technology, KNX building control, network technology, video surveillance, alarm system, and media technology. The designer, author, and planner are Studio ASH - Interior - Architecture - Design in Cologne.",
+   "name": "Villa XXL Mallorca",
+   "sub": "Exclusive Villa 2017 – 2020",
+   "text": "Villa XXL Mallorca - Exclusive Villa 2017 – 2020. Implementation of electrical engineering, security technology, KNX building automation, network technology, video surveillance, alarm system, and media technology. The designers, architects, and planners are Studio ASH - Interior - Architecture - Design in Cologne.",
+   "images": [
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "017d5888",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "5015e730",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "ea993d12",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "65a3fb4e",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "ce36547b",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "3781ac58",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "6a70ae25",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "1a762748",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "d9c7a5f9",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "3c925dec",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "c6f70cf4",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "f06eb864",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "1572a66d",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "8cc77dac",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "bab488a3",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "130a4b07",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "3223ef52",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "2203f3ae",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "5179882e",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "fe321422",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "62c278e7",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "1702cd70",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "4f609f21",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "6d8b6872",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "3de82b55",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "4336042b",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "5132256a",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "feecc82d",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "0a4dce4f",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "a5adc132",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "b1754ab6",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "764edcc5",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "ffdc82de",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "8e36f9d2",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "7155d77d",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "6254ec52",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "28ef601e",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "3bb37a9c",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "b5d447cf",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "20edcd3c",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "85aaef55",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "fafc5080",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/2/photo/",
+    "hash": "d7a7961c",
+    "ext": "jpg"
+   }
+  },
+  "penthouse_xxl": {
+   "title": "Project Penthouse XXL",
+   "description": "Implementation of electrical engineering, KNX control, lighting technology, network technology, security technology and media technology.",
+   "name": "Penthouse XXL",
+   "sub": "Cologne 2017 – 2018",
+   "text": "Implementation of electrical engineering, KNX control, lighting technology, network technology, security technology and media technology.",
+   "images": [
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "64c9c2d8",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "4899e254",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "4c23eb94",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "ad892435",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "9ec6f97e",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "40d41bab",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "405851b2",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "b412a2c9",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "45e158c5",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "c7c56b9d",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "48516c4b",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "9103713d",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "2dffc89e",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "a0e40ad1",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "d3450e1e",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "e9326571",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/1/photo/",
+    "hash": "24cab125",
+    "ext": "jpg"
+   }
+  },
+  "townhouse": {
+   "title": "Project Townhouse",
+   "description": "Implementation of electrical engineering, KNX building control, network technology, security technology, lighting technology",
+   "name": "Townhouse",
+   "sub": "Cologne 2017 - 2018",
+   "text": "Implementation of electrical engineering, KNX building control, network technology, security technology, lighting technology",
+   "images": [
+    {
+     "dir": "/mam/project/3/photos/",
+     "hash": "f5df116a",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/3/photos/",
+     "hash": "a4178e3f",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/3/photos/",
+     "hash": "c02143b8",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/3/photos/",
+     "hash": "9e6ae1d7",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/3/photos/",
+     "hash": "8b5c7db8",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/3/photo/",
+    "hash": "c40e1200",
+    "ext": "jpg"
+   }
+  },
+  "bayer04_leverkusen": {
+   "title": "Project Bayer04 Leverkusen",
+   "description": "Bayer04 Leverkusen Fußball GmbH 2013 – 2015 Office renovation management: electrical engineering, KNX building system technology, network technology, media technology, lighting technology, stadium video surveillance.",
+   "name": "Bayer 04 Leverkusen",
+   "sub": "Football GmbH 2013 - 2015",
+   "text": "Bayer04 Leverkusen Fußball GmbH 2013 – 2015 Office renovation management: electrical engineering, KNX building system technology, network technology, media technology, lighting technology, stadium video surveillance.",
+   "images": [
+    {
+     "dir": "/mam/project/6/photos/",
+     "hash": "240a81ee",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/6/photos/",
+     "hash": "805ba3ca",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/6/photos/",
+     "hash": "6780efa8",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/6/photos/",
+     "hash": "d8881e19",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/6/photos/",
+     "hash": "12c8bb08",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/6/photos/",
+     "hash": "efc948de",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/6/photos/",
+     "hash": "e3c1d8ba",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/6/photos/",
+     "hash": "228b8cfb",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/6/photo/",
+    "hash": "7982fdfe",
+    "ext": "jpg"
+   }
+  },
+  "stroeer_media_se": {
+   "title": "Project Ströer Media SE",
+   "description": "KNX building system technology, video surveillance, network technology, lighting technology, property management, office renovations",
+   "name": "Ströer Media SE",
+   "sub": "",
+   "text": "KNX building system technology, video surveillance, network technology, lighting technology, property management, office renovations",
+   "images": [
+    {
+     "dir": "/mam/project/4/photos/",
+     "hash": "6491f7d1",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/4/photos/",
+     "hash": "7c58352f",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/4/photos/",
+     "hash": "f5990f76",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/4/photos/",
+     "hash": "cf712db4",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/4/photos/",
+     "hash": "5447c74c",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/4/photos/",
+     "hash": "e5acfb63",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/4/photos/",
+     "hash": "5c414577",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/4/photos/",
+     "hash": "8a49fba4",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/4/photo/",
+    "hash": "e801ce3f",
+    "ext": "jpg"
+   }
+  },
+  "gerling_ring_karree": {
+   "title": "Project Gerling Ring Karree",
+   "description": "Property management, office conversions, network technology, lighting technology, security lighting, video intercom",
+   "name": "Gerling Ring Square",
+   "sub": "Cologne",
+   "text": "Property management, office conversions, network technology, lighting technology, security lighting, video intercom",
+   "images": [
+    {
+     "dir": "/mam/project/8/photos/",
+     "hash": "c66f561d",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/8/photos/",
+     "hash": "539326f3",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/8/photos/",
+     "hash": "0976ace2",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/8/photos/",
+     "hash": "8a0fa273",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/8/photos/",
+     "hash": "3730015f",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/8/photos/",
+     "hash": "f1841264",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/8/photos/",
+     "hash": "37a080d4",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/8/photos/",
+     "hash": "64d218b2",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/8/photo/",
+    "hash": "1354df26",
+    "ext": "jpg"
+   }
+  },
+  "hotel_im_wasserturm": {
+   "title": "Project Hotel in the Water Tower",
+   "description": "Renovation of 45 hotel rooms in 3 months. Electrical engineering, network technology, fire alarm systems, and media technology",
+   "name": "Hotel in the Water Tower",
+   "sub": "Cologne 2015",
+   "text": "Renovation of 45 hotel rooms in 3 months. Electrical engineering, network technology, fire alarm systems, and media technology",
+   "images": [
+    {
+     "dir": "/mam/project/9/photos/",
+     "hash": "299e35f3",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/9/photos/",
+     "hash": "77de9fe1",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/9/photos/",
+     "hash": "8ad776dc",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/9/photos/",
+     "hash": "e955bf7c",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/9/photos/",
+     "hash": "2e8c2dd8",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/9/photos/",
+     "hash": "a091c55f",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/9/photos/",
+     "hash": "7f78e9cb",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/9/photos/",
+     "hash": "4f6597c5",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/9/photos/",
+     "hash": "86bbaae6",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/9/photos/",
+     "hash": "12479c2c",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/9/photo/",
+    "hash": "f2a23437",
+    "ext": "jpg"
+   }
+  },
+  "hitschler_international": {
+   "title": "Project Hitschler International GmbH & Co. KG",
+   "description": "Property management, office renovations, network technology, electrical engineering, lighting technology, security technology.",
+   "name": "Hitschler International GmbH & Co. KG",
+   "sub": "Cologne",
+   "text": "Property management, office renovations, network technology, electrical engineering, lighting technology, security technology.",
+   "images": [
+    {
+     "dir": "/mam/project/11/photos/",
+     "hash": "407db587",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/11/photos/",
+     "hash": "c3f5dd51",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/11/photo/",
+    "hash": "a71753da",
+    "ext": "jpg"
+   }
+  },
+  "rheinland_versicherung": {
+   "title": "Project Rheinland Insurance",
+   "description": "Property management, office renovations, network technology, security technology, electrical engineering, lighting technology",
+   "name": "Rhineland Insurance",
+   "sub": "Cologne",
+   "text": "Property management, office renovations, network technology, security technology, electrical engineering, lighting technology",
+   "images": [
+    {
+     "dir": "/mam/project/12/photos/",
+     "hash": "46fde64a",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/12/photos/",
+     "hash": "57f6eb06",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/12/photos/",
+     "hash": "b37e9509",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/12/photos/",
+     "hash": "b28f8984",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/12/photos/",
+     "hash": "f69f7c4c",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/12/photos/",
+     "hash": "cdf32b8a",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/12/photo/",
+    "hash": "9093921a",
+    "ext": "jpg"
+   }
+  },
+  "kluck_umweltlogistik": {
+   "title": "Project Kluck Environmental Logistics",
+   "description": "Electrification of the entire complex",
+   "name": "Kluck Environmental Logistics",
+   "sub": "Cologne, Pulheim",
+   "text": "Electrification of the entire complex",
+   "images": [],
+   "cover": {
+    "dir": "/mam/project/14/photo/",
+    "hash": "0ae6bcb6",
+    "ext": "jpg"
+   }
+  },
+  "leuchtenzentrum": {
+   "title": "Project Lighting Center",
+   "description": "Sprinkler system control center renewed, main supply line laid in accordance with fire protection regulations.",
+   "name": "Lighting Center",
+   "sub": "Leverkusen",
+   "text": "Sprinkler system control center renewed, main supply line laid in accordance with fire protection regulations.",
+   "images": [
+    {
+     "dir": "/mam/project/15/photos/",
+     "hash": "73f5480d",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/15/photo/",
+    "hash": "24117574",
+    "ext": "jpg"
+   }
+  },
+  "wilma_wunder": {
+   "title": "Project Wilma Wunder",
+   "description": " ",
+   "name": "Wilma Wunder",
+   "sub": "Cologne",
+   "text": "",
+   "images": [],
+   "cover": {
+    "dir": "/mam/project/16/photo/",
+    "hash": "96a31012",
+    "ext": "jpg"
+   }
+  },
+  "wdr_studios_koeln": {
+   "title": "Project WDR Studios Cologne",
+   "description": "WDR Studios Cologne and Germany - KNX building technology",
+   "name": "WDR Studios Cologne",
+   "sub": "",
+   "text": "WDR Studios Cologne and Germany - KNX building technology",
+   "images": [
+    {
+     "dir": "/mam/project/5/photos/",
+     "hash": "1683b326",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/5/photos/",
+     "hash": "454dd11b",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/5/photos/",
+     "hash": "484cac33",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/5/photos/",
+     "hash": "58cfe107",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/5/photos/",
+     "hash": "72313904",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/5/photo/",
+    "hash": "51fbd6a5",
+    "ext": "jpg"
+   }
+  }
+ },
+ "home": {
+  "title": "Elektro Paul Neumann - Electrician Cologne | KNX & Security Technology",
+  "description": "Electrician in Cologne since 1980: KNX system integrator, smart home, alarm systems & video surveillance. Planning, installation & maintenance. Request a consultation now."
+ },
+ "kontakt": {
+  "title": "Contact Elektro Paul Neumann, electrician from Cologne and KNX professional",
+  "description": "Contact Elektro Paul Neumann – your partner for electricians for KNX system integration in Cologne and Mallorca. View location & contact details now. Electricians in Cologne since 1980",
+  "sections": [],
+  "html": "<br><br><br> <br> <p></p> Elektro Paul Neumann <p><a href=\"https://maps.app.goo.gl/d2gkWFqJvXmDB9e87\">Emil-Hoffmann-Straße 39-43<br>Halle 1 + 2<br> 50996 Köln</a></p> <p><a href=\"tel:+49221431351\">+49 (0) 221 - 431 351</a></p> <p><a href=\"tel:+49221431352\">+49 (0) 221 - 431 352</a></p> <p><a href=\"mailto:info@elektro-paul-neumann.de\">info@elektro-paul-neumann.de</a></p> <br><br><br> <p></p> Elektro Paul Neumann <p>Avinguda del Rei Jaume I, 109<br> 07180 Santa Ponça<br>Illes Balears<br>Spanien</p> <p><a href=\"tel:+49221431351\">+49 (0) 221 - 431 351</a></p> <p><a href=\"mailto:info@elektro-paul-neumann.de\">info@elektro-paul-neumann.de</a></p> <br><br><br>",
+  "images": [
+   {
+    "dir": "/mam/image/12/photo/",
+    "hash": "e9f3e8c7",
+    "ext": "webp"
+   },
+   {
+    "dir": "/mam/image/13/photo/",
+    "hash": "a97e53a7",
+    "ext": "webp"
+   }
+  ]
+ },
+ "karriere": {
+  "title": "career",
+  "description": "Start your career now at Elektro Paul Neumann, the KNX professional from Cologne! Challenging projects in Cologne and Mallorca, a top team, good pay, and career prospects – apply now!",
+  "sections": [],
+  "html": "<br><br><br> <br> <p>As a specialist company for electrical and security technology with demanding customers in Germany and Mallorca, we rely on team members who think for themselves, take responsibility – and are passionate about what they do.</p> <br> <p>Realization and execution of large and small projects, property management, building and office conversions, renovations of practices, villas, houses and apartments.</p><p>Service and support for regular customers, video intercom systems, KNX building management systems, alarm systems, video surveillance, smart home</p><p>Training in a future-oriented profession with innovative technology.</p><p>We are now looking for energetic helpers for our team!</p> <br><br><br>",
+  "images": [
+   {
+    "src": "/mam/transparent/Baumonteur.webp"
+   },
+   {
+    "src": "/mam/transparent/Servicetechniker.webp"
+   },
+   {
+    "src": "/mam/transparent/Azubi.webp"
+   },
+   {
+    "src": "/mam/transparent/Helfer.webp"
+   }
+  ]
+ },
+ "impressum": {
+  "title": "Imprint Elektro Paul Neumann, electrician from Cologne",
+  "description": "Imprint and data protection information of Elektro Paul Neumann Köln – all legally required information about the provider, contact information and legal notices at a glance.",
+  "sections": [],
+  "html": "<br><br><br> <br> <p>The responsible body according to § 5 DDG for the website elektro-paul-neumann.de is:</p> <h3>Dirk Woronow</h3> <p>Emil-Hoffmann-Straße 39-43<br>Halle 1 + 2<br> 50996 Köln</p> <br> phone:+49 (0) 221 - 431 351 Email:info@elektro-paul-neumann.de Web:elektro-paul-neumann.de VAT ID No.:DE251151581 <br> <h3>Privacy Policy</h3> <p>In this privacy policy, we inform you about which personal data is collected and processed when you use our website, for what purpose, and what rights you have in this regard. Your data is processed in accordance with applicable data protection regulations, in particular the EU General Data Protection Regulation (GDPR), the Federal Data Protection Act (BDSG), and – where applicable – the Telecommunications and Telemedia Data Protection Act (TTDSG).</p> <h3>copyright</h3> <p>The content published on this website (e.g., texts, images, graphics, audio, or video files) is subject to German copyright law (Section 2 of the German Copyright Act) and, unless otherwise indicated, is the intellectual property of the website operator. Any reproduction, processing, distribution, or other use requires the prior written consent of the rights holder. This applies in particular to use in other electronic or printed media.</p> <p>Content on this website that was not created by the operator is used in compliance with third-party copyrights and, where necessary, is marked accordingly. Should you nevertheless discover a copyright infringement, please notify us accordingly. Upon notification of any such violations, we will remove such content immediately.</p> <h3>Liability for external links</h3> <p>Our website contains links to external third-party websites over whose content we have no influence. Therefore, we cannot accept any liability for this external content. The respective provider or operator of the linked pages is always responsible for the content of the linked pages.</p> <p>At the time of linking, the linked pages were reviewed for possible legal violations. No illegal content was identified at that time. However, permanent monitoring of the content of the linked pages is unreasonable without concrete evidence of a legal violation. Upon notification of any legal violations, we will remove such links immediately.</p> <h3>Collection and processing of personal data</h3> <p>We only collect and process personal data if permitted by law or if you give us your consent. Personal data is any information relating to an identified or identifiable individual—for example, name, email address, or IP address.</p> <p>When you visit our website, your browser automatically transmits certain information to our web server. This includes:</p> <ul><li><p>IP address (in anonymized form),</p></li> <li><p>Date and time of access,</p></li> <li><p>pages and files accessed,</p></li> <li><p>Referrer URL (the previously visited page),</p></li> <li><p>browser and operating system used.</p></li></ul> <p>This data is stored and evaluated for technical reasons to ensure the stability and security of the website (Art. 6 (1) (f) GDPR – legitimate interest). This data is not merged with other data sources.</p> <p>If you contact us by email or via a contact form, the data you provide will be processed exclusively to process your request. This processing takes place either to implement pre-contractual measures (Art. 6 (1) (b) GDPR) or on the basis of our legitimate interest in efficient communication (Art. 6 (1) (f) GDPR).</p> <p>Our website is hosted by a professional hosting provider:</p> <p><strong>OMCnet Internet Service GmbH,</strong><br>Ernst-Abbe-Straße 10<br>25451 Quickborn</p> <p>Hosting is provided on servers in Germany. A data processing agreement has been concluded with the provider in accordance with Art. 28 GDPR.</p> <p>Personal data will only be stored for as long as necessary for the respective purpose or as long as statutory retention periods apply.</p> <h3>Rights of the data subject</h3> <p>You have the right to obtain information about the personal data we have stored about you free of charge at any time (Article 15 GDPR). This includes, in particular, information about the origin, recipients, and purpose of the data processing.</p> <p>In addition, within the framework of the statutory provisions, you have the right to:</p> <ul><li><p>Correction of incorrect data (Art. 16 GDPR),</p></li> <li><p>Deletion of your data (“right to be forgotten”, Art. 17 GDPR),</p></li> <li><p>Restriction of processing (Art. 18 GDPR),</p></li> <li><p>Objection to the processing of your data (Art. 21 GDPR).</p></li></ul> <p>Please note that certain data may not be deleted due to legal retention requirements. In these cases, the processing of your data will be restricted to the extent required by law.</p> <p>For all matters relating to the assertion of your rights, please use the contact details provided in the imprint.</p> <h3>Use of cookies</h3> <p>Our website uses exclusively so-called session cookies (also known as transient cookies). These are stored temporarily and automatically deleted after your visit. They are technically necessary to provide basic website functions, such as navigation.</p> <p>No persistent cookies are set that remain stored on your device beyond your visit. Cookies for advertising or analysis purposes are also not used.</p> <p>The use of these technically necessary cookies is based on <strong>Art.6 Abs.1 lit.f DSGVO</strong> (legitimate interest in a functioning website). Consent is therefore not required.</p> <h3>Server log files</h3> <p>When you visit this website, the hosting provider automatically stores information in so-called server log files, which your browser automatically transmits. This information includes, for example, browser type and version, operating system used, referrer URL, host name of the accessing computer, time of the server request, and IP address.</p> <p>The data is stored to protect legitimate interests pursuant to Art. 6 (1) (f) GDPR, in particular to ensure technical security, troubleshoot, and defend against attacks. The IP address is used exclusively for these purposes and is not merged with other data sources. The log data is regularly deleted.</p> <h3>Use of Matomo Analytics</h3> <p>This website uses the open-source software Matomo Analytics for statistical analysis of visitor access. The software is installed on servers of OMCnet in Germany – the same location where this website is hosted. No data is transferred to third parties or abroad.</p> <p>Matomo is operated in a data protection-friendly configuration:</p> <ul><li><p>No cookies are used.</p></li> <li><p>Your IP address is completely anonymized so that no conclusions can be drawn about individual people.</p></li> <li><p>Tracking across multiple page views does not take place.</p></li></ul> <p>The information generated in this way is used exclusively for the technical and content optimization of our website. Personal data is not processed. Therefore, this processing is not subject to the General Data Protection Regulation (GDPR).</p> <p>For more information about Matomo Analytics, please visit: <a href=\"https://matomo.org/\">matomo.org</a>, <a href=\"https://de.wikipedia.org/wiki/Matomo\">Wikipedia</a>.</p> <h3>Transfer of data to third parties and service providers</h3> <p>As a general rule, your personal data will not be passed on to third parties unless you have expressly consented or there is a legal obligation to do so.</p> <p>We use technical service providers to operate this website, particularly for hosting (e.g., OMCnet). These service providers act exclusively within the scope of contract processing in accordance with Art. 28 GDPR and are contractually obligated to process your data only in accordance with our instructions.</p> <p>In addition, in individual cases, data may be passed on to government agencies as required by law, for example for criminal prosecution or to avert danger, provided that there is a corresponding official order.</p> <h3>Data security</h3> <p>Our website is hosted on servers operated by OMCnet in Germany. Data processing takes place exclusively within the European Economic Area (EEA).</p> <p>To protect your data from loss, manipulation, unauthorized access, or other misuse, we implement appropriate technical and organizational measures in accordance with Art. 32 GDPR. These include firewalls, antivirus solutions, and manual and automated backup concepts. Our security measures are regularly reviewed and further developed in line with the state of the art.</p> <p>Please note that data transmission over the Internet (e.g., when communicating via email or forms) may be subject to security gaps despite all precautions. Absolute protection of data from access by third parties is technically impossible.</p> <h3>Use of YouTube components with enhanced privacy mode</h3> <p>elektro-paul-neumann.de uses components (videos) from YouTube, LLC 901 Cherry Ave., 94066 San Bruno, CA, USA, a company of Google Inc., Amphitheatre Parkway, Mountain View, CA 94043, USA.</p> <p>We use the \"enhanced privacy mode\" option provided by YouTube. When you visit a page that contains an embedded video, a connection to the YouTube servers is established, and the content is displayed on the website by sending a message to your browser.</p> <p>According to YouTube, in \"enhanced privacy mode,\" only data is transmitted to the YouTube server, specifically which of our websites you visited when watching the video. If you are logged in to YouTube at the same time, this information will be assigned to your YouTube account. You can prevent this by logging out of your account before visiting our website.</p> <p>To comply with the requirements of the General Data Protection Regulation (GDPR), YouTube videos are blocked by default on this website. Instead, a placeholder with a notice appears. Only after you actively consent will the corresponding video be loaded and a connection to YouTube's servers established. This decision is stored locally for the current browser session (session storage), so that the content is displayed immediately upon subsequent page access, as long as the session is active.</p> <p>Further information on YouTube’s privacy policy is provided by Google at the following link:<br><a href=\"https://policies.google.com/privacy?hl=de&gl=de\">https://­www.google.de/­intl/­de/­policies/­privacy/</a></p> <br><br><br>",
+  "images": []
+ }
+}

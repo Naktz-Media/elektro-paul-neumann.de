@@ -1,0 +1,81 @@
+{
+ "imageModel": "seedream-5-5",
+ "imageMode": "2k",
+ "videoMode": "h3-max",
+ "videoResolution": "768p",
+ "style": "Premium minimalist product photography in the style of Apple keynote imagery, deep graphite and black tones with soft studio rim light, crisp detail, calm and precise, true-to-life materials, no text, no letters, no logos, no watermark",
+ "images": [
+  {
+   "name": "hero-home",
+   "width": 2160,
+   "height": 1215,
+   "style": false,
+   "prompt": "Photorealistic architectural photograph at blue hour: a modern luxury villa with clean white cubic volumes and floor-to-ceiling glass on a hillside above the Mediterranean sea on Mallorca, warm architectural interior lighting glowing through the glass, linear LED light lines under the roof edges, calm infinity pool reflecting the lights, deep blue evening sky, wide cinematic composition with the house on the right third and open dark sky on the left, editorial, no people, no text, no logos, no watermark"
+  },
+  {
+   "name": "hero-knx",
+   "width": 2160,
+   "height": 1215,
+   "style": false,
+   "prompt": "Photorealistic interior photograph of a minimalist penthouse living room in Cologne at night, dimmed warm lighting scene, a sleek black glass KNX wall touch panel with softly glowing abstract icons in sharp focus in the foreground on a dark plaster wall, blurred city lights through floor-to-ceiling windows, shallow depth of field, cinematic, no people, no readable text, no logos, no watermark"
+  },
+  {
+   "name": "tile-lighting",
+   "width": 2048,
+   "height": 2048,
+   "prompt": "A precise linear architectural LED light line recessed into a dark ceiling, warm white light grazing a fine textured concrete wall, minimalist interior detail"
+  },
+  {
+   "name": "tile-knx",
+   "width": 2048,
+   "height": 2048,
+   "prompt": "Close-up of a sleek black glass wall touch panel for building automation with softly glowing abstract round icons, mounted on a dark graphite wall, shallow depth of field"
+  },
+  {
+   "name": "tile-alarm",
+   "width": 2048,
+   "height": 2048,
+   "prompt": "A sleek white wireless alarm motion detector and a minimalist alarm keypad on a dark graphite wall, a tiny blue status LED glowing"
+  },
+  {
+   "name": "tile-smarthome",
+   "width": 2048,
+   "height": 2048,
+   "prompt": "A hand holding a modern smartphone showing an abstract smart home control interface with round toggles, no readable text, in front of a softly lit modern living room at dusk, shallow depth of field"
+  },
+  {
+   "name": "tile-video",
+   "width": 2048,
+   "height": 2048,
+   "prompt": "A premium white dome security camera, studio product shot on a dark graphite seamless background, glass lens with subtle reflections"
+  },
+  {
+   "name": "tile-intercom",
+   "width": 2048,
+   "height": 2048,
+   "prompt": "A brushed aluminium video door intercom station with a small camera lens and an illuminated bell button, mounted beside a dark modern front door, evening light"
+  },
+  {
+   "name": "tile-audio",
+   "width": 2048,
+   "height": 2048,
+   "prompt": "A flush round in-ceiling loudspeaker with a fine metal grille set into a dark plaster ceiling, warm accent lighting, minimalist interior"
+  },
+  {
+   "name": "tile-service",
+   "width": 2048,
+   "height": 2048,
+   "prompt": "The hands of a master electrician with an insulated screwdriver working on a neat modern electrical distribution board with DIN-rail circuit breakers and immaculate cable management, focused workshop light"
+  }
+ ],
+ "videos": [
+  {
+   "name": "hero-home-video",
+   "from": "hero-home",
+   "duration": 5,
+   "prompt": "Very slow cinematic dolly-in towards the villa at blue hour, interior lights gently brighten, subtle ripples on the pool surface, clouds drift slowly, camera smooth and steady, no people, no text",
+   "width": 1366,
+   "height": 768
+  }
+ ]
+}
