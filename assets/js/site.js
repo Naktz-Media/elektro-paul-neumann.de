@@ -164,6 +164,19 @@
   sizeH(); onScrollUI(); if (!reduce) onScrollFX(); else $$('.lit .w').forEach((w) => w.classList.add('on'));
   addEventListener('load', () => { sizeH(); onScroll(); });
 
+  /* ---------- project index preview ---------- */
+  const prev = $('.pindex-preview');
+  if (prev) {
+    const rows = $$('.pi-row'), pics = $$('img', prev), capI = $('.pindex-cap .idx', prev), capB = $('.pindex-cap b', prev);
+    const act = (i) => {
+      rows.forEach((r, k) => r.classList.toggle('on', k === i));
+      pics.forEach((p, k) => p.classList.toggle('on', k === i));
+      capI.textContent = `${String(i + 1).padStart(2, '0')} / ${rows.length}`; capB.textContent = rows[i].dataset.name;
+    };
+    rows.forEach((r, i) => { r.addEventListener('pointerenter', () => act(i)); r.addEventListener('focus', () => act(i)); });
+    act(0);
+  }
+
   /* ---------- background videos: play only while visible ---------- */
   const vids = $$('video[data-autoplay]');
   if (vids.length && 'IntersectionObserver' in window && !reduce) {

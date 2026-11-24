@@ -188,6 +188,14 @@ def header(pre, active):
 </div>'''
 
 
+def credit(pre):
+    """'Designed by Naktz Media' – uses assets/brand/naktz-media.(svg|png|webp) when present, else a wordmark."""
+    logo = next((f for f in ("naktz-media.svg", "naktz-media.png", "naktz-media.webp") if os.path.exists(f"{R}/assets/brand/{f}")), None)
+    mark = (f'<img src="{pre}assets/brand/{logo}" alt="Naktz Media" height="22" loading="lazy">' if logo
+            else '<span class="naktz-word">NAKTZ<b>MEDIA</b></span>')
+    return f'<span class="credit">Designed by {mark}</span>'
+
+
 def footer(pre):
     svc = "".join(f'<li><a href="{pre}services/{s}.html">{e(n)}</a></li>' for _, s, n, _, _ in SERVICES)
     return f'''<footer class="site-footer">
@@ -202,7 +210,7 @@ def footer(pre):
         <h3 style="margin-top:34px">Company</h3><ul><li><a href="{pre}projects.html">Projects</a></li><li><a href="{pre}careers.html">Careers</a></li><li><a href="{pre}imprint.html">Imprint &amp; privacy</a></li></ul></div>
     </div>
     <div class="foot-word" aria-hidden="true">Smart Buildings</div>
-    <div class="foot-bottom"><span>© Elektro Paul Neumann · Dirk Woronow · Since 1980</span><span><a href="{pre}imprint.html">Imprint</a> · <a href="{pre}imprint.html#privacy">Privacy</a> · <a href="#top">Back to top ↑</a></span></div>
+    <div class="foot-bottom"><span>© Elektro Paul Neumann · Dirk Woronow · Since 1980</span>{credit(pre)}<span><a href="{pre}imprint.html">Imprint</a> · <a href="{pre}imprint.html#privacy">Privacy</a> · <a href="#top">Back to top ↑</a></span></div>
   </div>
 </footer>
 <nav class="dock" aria-label="Quick contact">
@@ -342,9 +350,11 @@ def build_home():
   <span class="tile-top"><span class="idx">{i + 1:02d}</span><span class="tile-arrow">{icon("upright")}</span></span>
   <span><b>{e(name)}</b><small>{e(tag)}</small></span>
 </a>''')
-    order = ["villa_xxl", "penthouse_xxl", "bayer04_leverkusen", "wdr_studios_koeln", "hotel_im_wasserturm", "townhouse", "stroeer_media_se", "tuev_rheinland", "gerling_ring_karree"]
-    hcards = "".join(f'''<a class="hcard" href="projects/{PROJECTS[k][0]}.html">{picture(f"projects/{k}/cover", PROJECTS[k][1], pre, "", "(max-width: 980px) 76vw, 34vw")}
-<span class="hcard-body"><span class="idx">{i + 1:02d} — {PROJECTS[k][3]}</span><b>{e(PROJECTS[k][1])}</b><small>{e(PROJECTS[k][2])}</small></span></a>''' for i, k in enumerate(order))
+    order = list(PROJECTS)
+    prows = "".join(f'''<li><a class="pi-row" href="projects/{PROJECTS[k][0]}.html" data-i="{i}" data-name="{e(PROJECTS[k][1])}">
+  {picture(f"projects/{k}/cover", "", pre, "pi-thumb", "88px")}<span class="idx">{i + 1:02d}</span>
+  <span class="pi-name">{e(PROJECTS[k][1])}</span><span class="pi-meta">{e(PROJECTS[k][2])}</span><span class="tag">{PROJECTS[k][3]}</span><span class="pi-arrow">{icon("arrow")}</span></a></li>''' for i, k in enumerate(order))
+    pimgs = "".join(f'<img data-i="{i}" class="{"on" if i == 0 else ""}" src="{pre}{img(f"projects/{k}/cover")}" alt="" loading="lazy" decoding="async">' for i, k in enumerate(order))
     body = f'''
 <section class="hero">
   {hero_video(pre)}
@@ -392,14 +402,14 @@ def build_home():
   </div>
 </section>
 
-<section class="hscroll" aria-label="Featured projects">
-  <div class="hscroll-pin">
-    <div class="wrap hscroll-head reveal"><div><p class="eyebrow">Projects</p><h2 class="h2">Work we’re proud of.</h2></div>
+<section class="pindex" aria-label="Projects">
+  <div class="wrap">
+    <div class="sec-head row reveal"><div><p class="eyebrow">Projects</p><h2 class="h2">Work we’re proud of.</h2></div>
       <a class="btn btn-glass magnetic" href="projects.html">All {len(PROJECTS)} projects {icon("arrow")}</a></div>
-    <div class="hscroll-track">{hcards}
-      <a class="hcard-end" href="projects.html"><span class="idx">+{len(PROJECTS) - len(order)} more</span><b>Explore all projects</b><span class="round">{icon("arrow")}</span></a>
+    <div class="pindex-grid">
+      <ol class="pindex-list">{prows}</ol>
+      <div class="pindex-preview" aria-hidden="true">{pimgs}<span class="pindex-cap"><span class="idx">01 / {len(PROJECTS)}</span><b>{e(PROJECTS[order[0]][1])}</b></span></div>
     </div>
-    <div class="wrap"><div class="hbar"><i></i></div></div>
   </div>
 </section>
 
