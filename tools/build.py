@@ -373,11 +373,22 @@ def build_home():
   {marquee([n for _, _, n, _, _ in SERVICES])}
 </section>
 
-<section class="statement center">
-  <div class="wrap narrow">
-    <p class="eyebrow reveal">Your partner for</p>
-    <p class="lit">Smart solutions for electrical and security technology in Cologne and Mallorca – for high-quality residential and commercial projects, from planning to installation.</p>
-    <p class="lead reveal">KNX system integration, smart home, lighting, alarm and video surveillance, and multi-room audio. Since 1980.</p>
+<section class="intro">
+  <div class="wrap intro-grid">
+    <div class="intro-text reveal">
+      <p class="eyebrow">Your partner for</p>
+      <h2 class="h2">Smart solutions for electrical &amp; security technology.</h2>
+      <p class="lead">In Cologne and Mallorca – for high-quality residential and commercial projects, from planning to installation. Since 1980.</p>
+      <ul class="intro-chips">{"".join(f'<li><a href="services/{s}.html">{icon(ic)}{e(n)}</a></li>' for _, s, n, _, ic in SERVICES[:7])}</ul>
+    </div>
+    <div class="intro-collage reveal" aria-hidden="true">
+      <div class="ic ic-a">{picture(tile_key("knx-systemintegrator"), "", pre, "", "(max-width: 980px) 60vw, 26vw")}</div>
+      <div class="ic ic-b">{picture(tile_key("beleuchtungssysteme"), "", pre, "", "(max-width: 980px) 40vw, 18vw")}</div>
+      <div class="ic ic-c">{picture(tile_key("videoueberwachung"), "", pre, "", "(max-width: 980px) 40vw, 18vw")}</div>
+      <span class="badge b1">{icon("knx")}<span><b>Certified</b>KNX partner</span></span>
+      <span class="badge b2"><b>1980</b>Since</span>
+      <span class="badge b3">{icon("pin")}<span><b>Cologne</b>&amp; Mallorca</span></span>
+    </div>
   </div>
 </section>
 

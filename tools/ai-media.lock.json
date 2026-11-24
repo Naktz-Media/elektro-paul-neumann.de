@@ -70,5 +70,11 @@
   "id": "80756da8-a46b-4c60-8ff2-71264bd2646e",
   "url": "https://images.letz.ai/afdb916b-ed67-4298-a682-3d988aeca1e2/80756da8-a46b-4c60-8ff2-71264bd2646e/letz_Photorealistic_interior_photograph_of_a_minimalist20261124133355.jpg",
   "file": "assets/img-src/scene-day.jpg"
+ },
+ "scene-away": {
+  "kind": "image",
+  "id": "c8d48ee4-b8f6-4bd5-ade4-4906b466bc37",
+  "url": "https://images.letz.ai/afdb916b-ed67-4298-a682-3d988aeca1e2/458dff57-5400-4ffb-81a0-b6d4bdd04f41/Letz_context_letz_Keep_exactly_the_same_room_camera_framing_furnitur20261124133920.jpg",
+  "file": "assets/img-src/scene-away.jpg"
  }
 }

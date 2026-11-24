@@ -84,7 +84,7 @@ async function edit(ed) {
   const job = await res.json();
   if (!res.ok) throw new Error(`${ed.name}: ${res.status} ${JSON.stringify(job)}`);
   const s = await poll('image-edits', job.id, ed.name);
-  const url = s.generatedImageCompletion?.imageVersions?.original;
+  const url = s.generatedImageCompletion?.imageVersions?.original || s.imageCompletionChoices?.[0]?.imageVersions?.original;
   if (!url) throw new Error(`${ed.name}: no result url`);
   const ext = (url.split('?')[0].split('.').pop() || 'jpg').toLowerCase();
   await download(url, join(outDir, `${ed.name}.${ext}`));

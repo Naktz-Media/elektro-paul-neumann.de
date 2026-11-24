@@ -228,7 +228,10 @@
   /* ---------- project filter ---------- */
   $$('.filter').forEach((f) => f.addEventListener('click', () => {
     $$('.filter').forEach((x) => { x.classList.toggle('is-on', x === f); x.setAttribute('aria-pressed', x === f); });
-    const run = () => $$('.pcard').forEach((c) => c.classList.toggle('is-hidden', f.dataset.filter !== 'all' && c.dataset.cat !== f.dataset.filter));
+    const run = () => {
+      $$('.pcard').forEach((c) => c.classList.toggle('is-hidden', f.dataset.filter !== 'all' && c.dataset.cat !== f.dataset.filter));
+      $('.proj-grid')?.classList.toggle('filtered', f.dataset.filter !== 'all');
+    };
     if (document.startViewTransition && !reduce) document.startViewTransition(run); else run();
   }));
 
