@@ -76,5 +76,17 @@
   "id": "c8d48ee4-b8f6-4bd5-ade4-4906b466bc37",
   "url": "https://images.letz.ai/afdb916b-ed67-4298-a682-3d988aeca1e2/458dff57-5400-4ffb-81a0-b6d4bdd04f41/Letz_context_letz_Keep_exactly_the_same_room_camera_framing_furnitur20261124133920.jpg",
   "file": "assets/img-src/scene-away.jpg"
+ },
+ "scene-evening": {
+  "kind": "image",
+  "id": "530901d2-8882-46ad-809a-caf4d392e69d",
+  "url": "https://images.letz.ai/afdb916b-ed67-4298-a682-3d988aeca1e2/14f167ed-4b41-410e-8298-83d92b7f3e5f/Letz_context_letz_Keep_exactly_the_same_room_camera_framing_furnitur20261124135948.jpg",
+  "file": "assets/img-src/scene-evening.jpg"
+ },
+ "scene-cinema": {
+  "kind": "image",
+  "id": "b5ebe45d-0abf-498c-b623-0720f05cfd64",
+  "url": "https://images.letz.ai/afdb916b-ed67-4298-a682-3d988aeca1e2/09c380e9-1569-4980-88aa-0945da374444/Letz_context_letz_Keep_exactly_the_same_room_camera_framing_furnitur20261124135940.jpg",
+  "file": "assets/img-src/scene-cinema.jpg"
  }
 }

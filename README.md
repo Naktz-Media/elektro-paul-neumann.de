@@ -2,7 +2,7 @@
 
 New website for **Elektro Paul Neumann – Paul Neumann Smart Buildings**, electrical, KNX and security technology in Cologne and on Mallorca (since 1980).
 
-Static site, no framework and no third-party requests: fonts (Montserrat), images and videos are hosted locally. YouTube videos load only after the visitor clicks (privacy-enhanced mode). English content, taken from the current en.elektro-paul-neumann.de (crawled 24 Nov 2026).
+Static site, no framework and no third-party requests: fonts (Montserrat), images and videos are hosted locally. YouTube videos load only after the visitor clicks (privacy-enhanced mode). Three languages, all content taken from the current site (crawled 24 Nov 2026): German at the root (`/`), English in `/en/`, Spanish in `/es/`. Visitors can switch between **Dark, Hybrid (default) and Light** appearance; the choice is remembered in the browser.
 
 ## Pages
 
@@ -23,7 +23,8 @@ All pages are generated – do not edit the HTML by hand.
 python tools/build.py
 ```
 
-- `tools/source-en.json` – all texts, FAQ, video IDs and image references, extracted from the old site (`tools/extract.py`)
+- `tools/source-de.json`, `source-en.json`, `source-es.json` – all texts, FAQ, video IDs and image references per language, extracted from the old site (`tools/extract.py`)
+- `tools/i18n.py` – German and Spanish translations of the new interface texts (headlines, buttons, scene control, careers, contact)
 - `tools/build.py` – page templates, service/project order, names and the few copy overrides
 - `tools/images.json` – image key → local file (large + small)
 - `assets/css/site.css`, `assets/js/site.js` – design and interactions (menu, reveal, gallery lightbox, YouTube consent, project filter)
@@ -52,7 +53,6 @@ then open http://localhost:5180.
 
 ## To clarify before launch
 
-- German (and Spanish) versions – the old site had DE / EN / ES
 - The second Cologne number (+49 221 431 352) is unlabelled on the old site – fax?
 - Imprint: check legal form, chamber (Handwerkskammer) and professional title; privacy policy needs updating to the new hosting
 - Project texts are short (Wilma Wunder has none) – longer case studies would help

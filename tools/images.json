@@ -814,5 +814,21 @@
  "ai/tile-audio": {
   "l": "assets/img/ai/tile-audio.webp",
   "s": "assets/img/ai/tile-audio-s.webp"
+ },
+ "ai/scene-day": {
+  "l": "assets/img/ai/scene-day.webp",
+  "s": "assets/img/ai/scene-day-s.webp"
+ },
+ "ai/scene-away": {
+  "l": "assets/img/ai/scene-away.webp",
+  "s": "assets/img/ai/scene-away-s.webp"
+ },
+ "ai/scene-evening": {
+  "l": "assets/img/ai/scene-evening.webp",
+  "s": "assets/img/ai/scene-evening-s.webp"
+ },
+ "ai/scene-cinema": {
+  "l": "assets/img/ai/scene-cinema.webp",
+  "s": "assets/img/ai/scene-cinema-s.webp"
  }
 }

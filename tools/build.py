@@ -4,10 +4,19 @@
 
 Edit content in the JSON (or the overrides below), never in the generated HTML.
 """
-import html, json, os, re
+import html, json, os, re, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SRC = json.load(open(f"{R}/tools/source-en.json", encoding="utf-8"))
+SOURCES = {l: json.load(open(f"{R}/tools/source-{l}.json", encoding="utf-8")) for l in ("de", "en", "es")}
+LANGS = {"de": "", "en": "en/", "es": "es/"}          # German is the main site, like the original
+LANG_NAMES = {"de": "Deutsch", "en": "English", "es": "Español"}
+LANG = "en"
+SRC = SOURCES["en"]
+try:
+    from i18n import TR, apply_rules                     # tools/i18n.py: {"English UI text": ("Deutsch", "Español")}
+except ImportError:
+    TR, apply_rules = {}, (lambda core, i: None)
 IMG = json.load(open(f"{R}/tools/images.json", encoding="utf-8"))
 
 PHONE, PHONE_HREF = "+49 (0) 221 - 431 351", "tel:+49221431351"
@@ -147,6 +156,8 @@ ICONS.update({
     "blinds": '<path d="M4 4h16M5 4v9M19 4v9M5 7h14M5 10h14M5 13h14M12 13v6"/><circle cx="12" cy="20" r="1"/>',
     "thermo": '<path d="M14 14.8V5a2 2 0 0 0-4 0v9.8a4 4 0 1 0 4 0z"/><path d="M12 9v7"/>',
     "wave": '<path d="M3 12h2l2-6 3 12 3-9 2 5 2-2h4"/>',
+    "moon": '<path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/>',
+    "half": '<circle cx="12" cy="12" r="8"/><path d="M12 4v16a8 8 0 0 0 0-16z" fill="currentColor"/>',
 })
 
 # ---------------------------------------------------------------- layout
@@ -177,6 +188,8 @@ def header(pre, active):
     <a class="brand" href="{pre}index.html" aria-label="Elektro Paul Neumann – Smart Buildings, home"><img src="{pre}assets/brand/logo.svg" alt="Paul Neumann Smart Buildings" width="172" height="34"></a>
     <nav class="nav" aria-label="Main">{"".join(links)}</nav>
     <div class="bar-cta">
+      {theme_toggle()}
+      {{LANGSWITCH}}
       <a class="phone-link" href="{PHONE_HREF}" aria-label="Call {PHONE}">{icon("phone")}</a>
       <a class="btn btn-light btn-sm magnetic" href="{pre}contact.html">Let’s talk {icon("arrow")}</a>
       <button class="menu-btn" type="button" aria-expanded="false" aria-controls="mobile-menu"><span></span><span></span><span class="sr">Menu</span></button>
@@ -185,7 +198,14 @@ def header(pre, active):
 </header>
 <div class="mobile-menu" id="mobile-menu" hidden>
   <nav aria-label="Mobile">{mob}<p class="mm-label">Services</p>{mob_s}</nav>
+  <div class="mm-tools"><p class="mm-label">Language</p>{{LANGSWITCH}}<p class="mm-label">Appearance</p>{theme_toggle()}</div>
 </div>'''
+
+
+def theme_toggle():
+    opts = (("dark", "moon", "Dark"), ("hybrid", "half", "Hybrid"), ("light", "sun", "Light"))
+    btns = "".join(f'<button type="button" data-theme-set="{k}" aria-pressed="false" title="{lbl}" aria-label="{lbl}">{icon(ic)}</button>' for k, ic, lbl in opts)
+    return f'<div class="theme" role="group" aria-label="Appearance">{btns}</div>'
 
 
 def credit(pre):
@@ -242,7 +262,7 @@ def page(path, title, desc, body, active="", extra_head=""):
 <title>{e(title)}</title>
 <meta name="description" content="{e(desc)}">
 <meta name="theme-color" content="#0e0e0f">
-<meta name="color-scheme" content="dark">
+<meta name="color-scheme" content="dark light">
 <meta property="og:title" content="{e(title)}">
 <meta property="og:description" content="{e(desc)}">
 <meta property="og:image" content="{pre}{og}">
@@ -250,6 +270,8 @@ def page(path, title, desc, body, active="", extra_head=""):
 <link rel="apple-touch-icon" href="{pre}assets/brand/touchIcon180.png">
 <link rel="preload" href="{pre}assets/fonts/montserrat-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{pre}assets/css/site.css">
+{{HREFLANG}}
+<script>(function(){{var t="hybrid";try{{t=localStorage.getItem("epn-theme")||t}}catch(e){{}}document.documentElement.dataset.theme=t}})();</script>
 {extra_head}</head>
 <body>
 {header(pre, active)}
@@ -268,9 +290,47 @@ def page(path, title, desc, body, active="", extra_head=""):
 </body>
 </html>
 '''
-    out = f"{R}/{path}"
+    doc = finalize(doc, path)
+    out = f"{R}/{LANGS[LANG]}{path}"
     os.makedirs(os.path.dirname(out), exist_ok=True)
     open(out, "w", encoding="utf-8").write(doc)
+
+
+def tr(text):
+    """Translate one exact UI string (whitespace-trimmed) into the current language."""
+    if LANG == "en":
+        return text
+    core = html.unescape(text.strip())
+    if not core:
+        return text
+    i = 0 if LANG == "de" else 1
+    t = TR[core][i] if core in TR else apply_rules(core, i)
+    return text.replace(text.strip(), e(t, quote=False)) if t is not None else text
+
+
+def finalize(doc, path):
+    depth = path.count("/")
+    lang_up = "../" * LANGS[LANG].count("/")
+    # 1. translate text nodes and selected attributes (exact matches only)
+    if LANG != "en":
+        doc = re.sub(r">([^<>]+)<", lambda m: ">" + tr(m.group(1)) + "<", doc)
+        doc = re.sub(r'((?:aria-label|alt|title|data-title|data-text|data-name|content)=")([^"]*)(")',
+                     lambda m: m.group(1) + tr(m.group(2)) + m.group(3), doc)
+    # 2. assets live at the site root
+    if lang_up:
+        doc = re.sub(r'((?:\.\./)*)assets/', lambda m: lang_up + m.group(1) + "assets/", doc)
+    # 3. language switcher + hreflang
+    up = "../" * depth + lang_up
+    links, alts = [], []
+    for l, prefix in LANGS.items():
+        href = f"{up}{prefix}{path}"
+        cur = ' aria-current="true"' if l == LANG else ""
+        links.append(f'<a href="{href}" hreflang="{l}" lang="{l}"{cur} title="{LANG_NAMES[l]}">{l.upper()}</a>')
+        alts.append(f'<link rel="alternate" hreflang="{l}" href="{href}">')
+    doc = doc.replace("{LANGSWITCH}", f'<div class="lang" role="group" aria-label="{tr("Language")}">{"".join(links)}</div>')
+    doc = doc.replace("{HREFLANG}", "\n".join(alts))
+    doc = doc.replace('<html lang="en">', f'<html lang="{LANG}">')
+    return doc
 
 
 def cta(pre, title="Let’s talk.", sub="From the first consultation to the final installation – in Cologne, throughout Germany and on Mallorca."):
@@ -538,7 +598,7 @@ def build_service(idx):
     num = 0
     for sec in sv["sections"]:
         title = sec.get("title")
-        if title == "additional services":
+        if "/leistungen/" in sec["html"] and not sec["images"] and not sec["videos"]:
             continue
         h = tidy(sec["html"])
         keys = []
@@ -779,9 +839,9 @@ def build_contact():
 def build_imprint():
     h = tidy(SRC["impressum"]["html"])
     h = h.replace("<h3>Dirk Woronow</h3>", "<p><strong>Dirk Woronow</strong></p>")
-    h = re.sub(r"phone:\s*\+49 \(0\) 221 - 431 351\s*Email:\s*info@elektro-paul-neumann.de\s*Web:\s*elektro-paul-neumann.de\s*VAT ID No.:\s*DE251151581",
-               f'<p>Phone: <a href="{PHONE_HREF}">{PHONE}</a><br>Email: <a href="mailto:{MAIL}">{MAIL}</a><br>Web: elektro-paul-neumann.de<br>VAT ID No.: DE251151581</p>', h)
-    h = h.replace("<h3>Privacy Policy</h3>", '<h2 class="h2" id="privacy">Privacy policy</h2>')
+    h = re.sub(r"([^<>]*?):\s*\+49 \(0\) 221 - 431 351\s*([^<>:]*?):\s*info@elektro-paul-neumann.de\s*Web:\s*elektro-paul-neumann.de\s*([^<>]*?):\s*DE251151581",
+               lambda m: f'<p>{m.group(1).strip().capitalize()}: <a href="{PHONE_HREF}">{PHONE}</a><br>{m.group(2).strip()}: <a href="mailto:{MAIL}">{MAIL}</a><br>Web: elektro-paul-neumann.de<br>{m.group(3).strip()}: DE251151581</p>', h)
+    h = re.sub(r"<h3>(Privacy Policy|Datenschutzerklärung|política de privacidad)</h3>", lambda m: f'<h2 class="h2" id="privacy">{m.group(1)[0].upper() + m.group(1)[1:]}</h2>', h)
     h = re.sub(r"<h3>([a-z])", lambda m: "<h3>" + m.group(1).upper(), h)
     body = f'''
 <section class="page-hero"><div class="glow-orb"></div><div class="wrap"><p class="eyebrow">Legal</p><h1 class="display">Imprint &amp; <span class="metal">privacy.</span></h1></div></section>
@@ -789,7 +849,7 @@ def build_imprint():
     page("imprint.html", "Imprint & privacy policy – Elektro Paul Neumann", SRC["impressum"]["description"], body)
 
 
-if __name__ == "__main__":
+def build_all():
     build_home()
     build_services_overview()
     for i in range(len(SERVICES)):
@@ -798,4 +858,10 @@ if __name__ == "__main__":
     build_careers()
     build_contact()
     build_imprint()
-    print("built")
+
+
+if __name__ == "__main__":
+    for LANG in LANGS:
+        SRC = SOURCES[LANG]
+        build_all()
+    print("built", ", ".join(LANGS))

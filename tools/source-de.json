@@ -1,0 +1,1461 @@
+{
+ "services": {
+  "beleuchtungssysteme": {
+   "title": "Beleuchtungssysteme in Köln und auf Mallorca vom KNX Profi",
+   "description": "Fachkundige Beratung, Installation und Wartung von Beleuchtungssystemen in Köln, deutschlandweit und auf Mallorca. Planung und Anpassung von Innen- und Außenbeleuchtung für Arbeitsschutz, Energieeffizienz und gesetzliche Normen. Maßgeschneiderte Lichtlösungen für Produktionsanlagen, Büros und mehr.",
+   "kicker": "für Architektur und Technik",
+   "h1": "Lichtgestaltung auf höchstem Niveau",
+   "intro": "<br> <br> <br> <br> <br> <p>Ob stilvolle Villen auf Mallorca oder anspruchsvolle Industrieanlagen im Raum Köln – unsere Beleuchtungssysteme verbinden technische Präzision mit architektonischer Eleganz. Wir planen, installieren und betreuen hochwertige Innen- und Außenbeleuchtungen, die weit mehr leisten als nur Helligkeit zu erzeugen: Sie schaffen Atmosphäre, erhöhen die Sicherheit und steigern Effizienz.</p> <br> <br> <br>",
+   "sections": [
+    {
+     "kicker": "innen wie außen",
+     "title": "Für anspruchsvolle Anforderungen",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/4/photo/",
+       "hash": "d61ce9b3",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> Jedes Projekt ist einzigartig <p>Beleuchtung ist heute mehr als eine funktionale Notwendigkeit. Gerade in exklusiven Wohnräumen oder sicherheitsrelevanten Produktionsbereichen entscheidet die Qualität der Lichtplanung über Komfort, Wirkung und Betriebssicherheit. Technisch einwandfreie Systeme erfordern Know-how – von der ersten Analyse bis zur letzten Leuchte.</p> <p>Wir entwickeln individuelle Konzepte, die Ihren architektonischen und funktionalen Anforderungen gerecht werden – präzise abgestimmt auf Ihre Immobilie, Ihre Prozesse und Ihre Erwartungen.</p> <br><br><br> <br>"
+    },
+    {
+     "kicker": "normgerecht, zukunftssicher, energieeffizient",
+     "title": "Lichtlösungen mit System",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/6/photo/",
+       "hash": "5bc0be4d",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Ob Modernisierung bestehender Systeme oder vollständiger Neubau: Wir setzen auf intelligente Planung, hochwertige Komponenten und einen ganzheitlichen Ansatz. Dabei behalten wir stets gesetzliche Vorschriften, DIN-Normen und Ihre spezifischen Rahmenbedingungen im Blick – besonders bei sicherheitsrelevanter Beleuchtung, z.B. in Produktionsstätten.</p> <p>Dank unserer Expertise profitieren Sie von:</p> <ul><li>maximaler Lichtqualität bei minimalem Energieverbrauch</li> <li>optimaler Anpassung an Tageslichtverhältnisse und Raumstruktur</li> <li>normgerechter Umsetzung (z.B. DIN EN 12464-1)</li> <li>Integration smarter Steuerungstechnik (z.B. Bewegungsmelder, Lichtmanagementsysteme)</li></ul> <br><br><br> <br>"
+    },
+    {
+     "kicker": "Beleuchtungssysteme",
+     "title": "Maßarbeit statt Standardlösungen",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/10/photo/",
+       "hash": "25cc1a5c",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Jede Umgebung ist einzigartig – und so sind es auch unsere Beleuchtungskonzepte. In der Industrie setzen wir gezielt unterschiedliche Systeme ein: Hallenstrahler für die Produktion, blendfreie Beleuchtung am Arbeitsplatz, intelligente Lichtführung in Lagerbereichen. In privaten Wohnräumen gestalten wir eindrucksvolle Lichtlandschaften, die Architektur, Kunst und Alltag ins rechte Licht rücken – mit Markenlösungen aus dem Premiumsegment.</p> <p>Gemeinsam mit Ihnen definieren wir die Lichtwirkung, die Sie sich wünschen. Und wir sorgen dafür, dass sie dauerhaft Bestand hat – durch hochwertige Installation und langfristige Wartung.</p> <br><br><br> <br>"
+    },
+    {
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br> <p>Ihr Projekt verdient höchste Lichtqualität. Vertrauen Sie auf ein Unternehmen, das Technik versteht – und Ihre Vision zum Leuchten bringt.</p> <br><br><br>"
+    },
+    {
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "4b732591",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "8a5c49d4",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "3f97515d",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "5e1d864e",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "8a71b6a8",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "637fda01",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "a197af70",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "01f4dd6d",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "6cc30fe1",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "748daeea",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "6ea020ce",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "5756dd81",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "295011e0",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "3950b26d",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "0e6a8620",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "f998885c",
+       "ext": "webp"
+      },
+      {
+       "dir": "/mam/service/1/photos/",
+       "hash": "2be4f31b",
+       "ext": "webp"
+      }
+     ],
+     "html": ""
+    },
+    {
+     "title": "weitere Leistungen",
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br><a href=\"/leistungen/knx-systemintegrator/\"><p>KNX Systemintegrator</p></a><a href=\"/leistungen/alarmanlagen/\"><p>Alarmanlagen</p></a><a href=\"/leistungen/smart_home/\"><p>Smart Home</p></a><a href=\"/leistungen/videoueberwachung/\"><p>Videoüberwachung</p></a><a href=\"/leistungen/video_gegensprechanlagen/\"><p>Video Gegensprechanlagen</p></a><a href=\"/leistungen/multiroom_audio/\"><p>Multiroom Audio</p></a><a href=\"/leistungen/service_elektriker/\"><p>Service Elektriker</p></a><br>"
+    }
+   ],
+   "titlephoto": {
+    "dir": "/mam/service/1/titlephoto/",
+    "hash": "39f18bdb",
+    "ext": "webp"
+   },
+   "name": "Beleuchtungssysteme"
+  },
+  "knx-systemintegrator": {
+   "title": "KNX Systemintegrator Köln und Mallorca",
+   "description": "Ihr Experte für KNX-Systemintegration in Köln, Deutschland und auf Mallorca. Planung, Beratung und Installation von Smart-Home- und Gebäudesteuerungssystemen nach KNX-Standard. Intelligente Vernetzung für Licht, Klima, Sicherheit und Energieeffizienz – bequem steuerbar über Smartphone oder Tablet. Optimale Lösungen für moderne Haus- und Gebäudetechnik.",
+   "kicker": "Intelligente Gebäudetechnik mit Anspruch",
+   "h1": "KNX-Systemintegration",
+   "intro": "<br> <br> <br> <br> <br> <p>Moderne Immobilien verdienen intelligente Technik. Mit KNX setzen Sie auf ein bewährtes, zukunftsfähiges System zur vollintegrierten Steuerung Ihrer Gebäudefunktionen – individuell geplant, professionell umgesetzt.</p> <br> <br> <br>",
+   "sections": [
+    {
+     "kicker": "intelligent vernetzt",
+     "title": "Komfort, Effizienz und Sicherheit",
+     "videos": [
+      "SzvNCW5PH9Y"
+     ],
+     "images": [],
+     "html": "<br> <br><br><br> <br> <p>Ob exklusive Villa auf Mallorca oder gewerblich genutztes Objekt in Köln: Mit KNX-Technologie vereinen Sie anspruchsvolle Architektur mit präziser Technik. Licht, Heizung, Jalousien, Lüftung und Sicherheitssysteme lassen sich zentral steuern, automatisieren und an Ihre Lebens- oder Arbeitsgewohnheiten anpassen – auch von unterwegs über Smartphone oder Tablet.</p> <p>Unser Team plant, installiert und betreut Ihre KNX-Lösung ganzheitlich – vom ersten Entwurf über die Systemintegration bis zur langfristigen Wartung. Dabei setzen wir ausschließlich auf hochwertige Komponenten führender Hersteller und verbinden Technik mit gestalterischem Anspruch.</p> <br><br><br> <br>"
+    },
+    {
+     "kicker": "vernetzte Gebäudeautomation",
+     "title": "Unsere Leistungen im Bereich KNX",
+     "videos": [
+      "MIPW7EmDL9c"
+     ],
+     "images": [],
+     "html": "<br> <br><br><br> <br> <ul><li><p><strong>Individuelle Beratung & Systemplanung</strong><br> Basierend auf Ihrer Immobilie und Ihren Bedürfnissen entwickeln wir ein ganzheitliches Konzept – funktional, erweiterbar und zukunftssicher.</p></li> <li><p><strong>Installation & Inbetriebnahme</strong><br> Ob Neubau oder Nachrüstung – wir sorgen für eine fachgerechte Umsetzung mit Blick fürs Detail. Auch im Bestand lässt sich KNX problemlos integrieren.</p></li> <li><p><strong>Wartung & Erweiterung</strong><br> Ihre Technik bleibt langfristig zuverlässig – durch regelmäßige Updates, Wartungen und individuelle Erweiterungsmöglichkeiten.</p></li></ul> <br><br><br> <br>"
+    },
+    {
+     "kicker": "Für Privat- und Geschäftskunden",
+     "title": "Zertifizierter KNX-Partner",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/22/photo/",
+       "hash": "8d15a82f",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Als zertifizierter KNX-Partner bieten wir Lösungen für:</p> <ul><li><p><strong>Exklusive Wohnimmobilien</strong><br> z.B. intelligente Lichtsteuerung, smarte Klimatisierung und elegante Schalter-Designs</p></li> <li><p><strong>Gewerbliche und industrielle Gebäude</strong><br> z.B. effiziente Energienutzung, automatische Beschattung und bedarfsgerechte Sicherheitstechnik</p></li></ul> <br><br><br> <br>"
+    },
+    {
+     "faq": [
+      {
+       "q": "Was ist KNX?",
+       "a": "KNX ist der weltweit anerkannte Standard (EN 50090 / ISO/IEC 14543) für die intelligente Vernetzung von Haus- und Gebäudetechnik. Er ermöglicht die zentrale, herstellerübergreifende Steuerung von Licht, Beschattung, Heizung, Sicherheit und mehr – effizient, sicher und skalierbar."
+      },
+      {
+       "q": "Ist KNX in Bestandsgebäuden nachrüstbar?",
+       "a": "Ja. Neben klassischem Bus (TP) gibt es Funk- und IP-Optionen. Wir prüfen die vorhandene Infrastruktur und planen eine passende Integration."
+      },
+      {
+       "q": "Übernehmt ihr Wartung und Erweiterungen?",
+       "a": "Ja. Wir kümmern uns um Updates, Fehleranalyse, Erweiterungen und Re-Programmierung – herstellerübergreifend und mit langfristigem Service in Köln und Umgebung."
+      },
+      {
+       "q": "Was kostet eine KNX-Installation?",
+       "a": "Das hängt vom Umfang ab (Gewerke, Sensorik/Aktorik, Visualisierung). Nach einem Vor-Ort-Termin erhalten Sie ein verbindliches Angebot mit genauer Leistungsbeschreibung."
+      },
+      {
+       "q": "Warum ist es schwierig, gute KNX-Elektriker zu finden?",
+       "a": "KNX erfordert Zertifizierung (KNX-Partner), fundierte ETS-Kenntnisse und interdisziplinäre Erfahrung über mehrere Gewerke. Qualifizierte Integratoren sind spezialisiert und daher seltener – genau das sichern wir durch zertifizierte Expertise und viele realisierte Projekte ab."
+      }
+     ],
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br> <br><br><br>"
+    },
+    {
+     "kicker": "anspruchsvolle KNX-Systeme",
+     "title": "Lassen Sie Technik für sich arbeiten",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/15/photo/",
+       "hash": "f550774b",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Erleben Sie, wie intelligentes Wohnen oder Arbeiten aussehen kann – mit Lösungen, die sich Ihnen anpassen, statt umgekehrt. Nehmen Sie Kontakt mit uns auf und lassen Sie sich unverbindlich beraten.</p> <p><strong>Paul Neumann Smart Home – Ihre Partner für anspruchsvolle KNX-Systeme</strong></p> <br><br><br> <br>"
+    },
+    {
+     "title": "weitere Leistungen",
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br><a href=\"/leistungen/beleuchtungssysteme/\"><p>Beleuchtungssysteme</p></a><a href=\"/leistungen/alarmanlagen/\"><p>Alarmanlagen</p></a><a href=\"/leistungen/smart_home/\"><p>Smart Home</p></a><a href=\"/leistungen/videoueberwachung/\"><p>Videoüberwachung</p></a><a href=\"/leistungen/video_gegensprechanlagen/\"><p>Video Gegensprechanlagen</p></a><a href=\"/leistungen/multiroom_audio/\"><p>Multiroom Audio</p></a><a href=\"/leistungen/service_elektriker/\"><p>Service Elektriker</p></a><br>"
+    }
+   ],
+   "titlephoto": null,
+   "name": "KNX Systemintegrator"
+  },
+  "alarmanlagen": {
+   "title": "Alarmanlagen",
+   "description": "Professionelle Beratung, Installation und Wartung von Alarmanlagen in Köln, deutschlandweit und auf Mallorca. Schutz vor Einbruch, Feuer und Wasserschäden mit modernen kabelgebundenen und drahtlosen Alarmsystemen. Maßgeschneiderte Sicherheitslösungen, inklusive Videoüberwachung, Bewegungsmeldern und Smart-Home-Integration.",
+   "kicker": "Ihr Schutz beginnt mit der richtigen Alarmanlage",
+   "h1": "Alarmanlagen – Sicherheit durch intelligente Technik",
+   "intro": "<br> <br> <br> <br> <br> <p>Ob Einbruch, Brand oder technische Gefahren: Moderne Alarmanlagen bieten umfassenden Schutz für Ihr Eigentum und Ihre Sicherheit. Wir installieren und warten hochwertige Systeme von namhaften Herstellern wie <strong>Telenot, Vanderbilt, Indexa</strong> und <strong>ABUS</strong> – zuverlässig, individuell und zukunftssicher.</p> <p>Alarmanlagen wirken nachweislich abschreckend: Rund <strong>75% der Täter</strong> lassen sich allein durch die Präsenz einer Alarmanlage vom Einbruch abhalten. Doch die Systeme leisten noch mehr: Sie schützen auch vor <strong>Bränden, medizinischen Notfällen, Überfällen</strong> oder <strong>Wasserschäden</strong> – rund um die Uhr.</p> <br> <br> <br>",
+   "sections": [
+    {
+     "kicker": "Funk, Kabel oder Hybrid?",
+     "title": "Die passende Lösung für Ihre Immobilie",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/17/photo/",
+       "hash": "08bf613d",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <ul><li><p><strong>Funkalarmanlagen</strong><br> Ideal für Bestandsimmobilien oder Mietobjekte. Schnell und sauber nachzurüsten, ohne bauliche Veränderungen.</p></li> <li><p><strong>Kabelgebundene Systeme</strong><br> Besonders geeignet für Neubauten oder umfassende Sanierungen. Störsicher, langlebig und unauffällig unter Putz verlegbar.</p></li> <li><p><strong>Hybridlösungen</strong><br> Die perfekte Kombination – kabelgebundene Hauptzentrale mit flexiblen Funkkomponenten.</p></li></ul> <p>Unsere Experten aus Köln beraten Sie persönlich, analysieren Ihre Gegebenheiten und erstellen ein maßgeschneidertes Sicherheitskonzept.</p> <br><br><br> <br>"
+    },
+    {
+     "kicker": "",
+     "title": "Professionelle Installation durch Meisterbetrieb aus Köln",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/16/photo/",
+       "hash": "74a9ba62",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Eine Alarmanlage entfaltet ihre volle Wirkung nur bei fachgerechter Planung und Installation. Mit über <strong>30 Jahren Erfahrung</strong> im Bereich der Sicherheitstechnik sind wir Ihr verlässlicher Partner in Köln und deutschlandweit. Ob Privatwohnung, Gewerbeobjekt oder Einfamilienhaus – wir sorgen für zuverlässigen Schutz.</p> <br> <p><strong>Jetzt nachrüsten – auch ohne Neubau</strong></p> <p>Unsere drahtlosen Alarmanlagen ermöglichen eine <strong>einfache Nachrüstung</strong> ohne bauliche Eingriffe. Besonders geeignet für Bestandsbauten oder Mietwohnungen. Die Systeme sind <strong>modular, wiederverwendbar</strong> und <strong>zukunftssicher</strong>.</p> <p>Wir analysieren Ihre Immobilie, erkennen Sicherheitslücken und empfehlen Ihnen passende Systeme – <strong>effektiv, benutzerfreundlich</strong> und <strong>kosteneffizient</strong>.</p> <br><br><br> <br>"
+    },
+    {
+     "kicker": "",
+     "title": "Fakten zur Sicherheitslage in Deutschland",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/18/photo/",
+       "hash": "4e054864",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <ul><li><p>Über <strong>150.000 Einbrüche</strong> pro Jahr (Stand: GDV-Bericht)</p></li> <li><p><strong>20%</strong> der Einbrüche erfolgen bei Anwesenheit der Bewohner</p></li> <li><p>Psychische Folgen: <strong>46,5%</strong> der Opfer fühlen sich auch ein Jahr nach der Tat noch unsicher</p></li> <li><p>Gesamtschäden: rund <strong>490 Mio.€ jährlich</strong>, durchschnittlich <strong>3.250€ pro Einbruch</strong></p></li></ul> <p>Sichern Sie sich und Ihre Familie mit einer Alarmanlage vom Fachbetrieb – bevor etwas passiert.</p> <br><br><br> <br>"
+    },
+    {
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br> <p><strong>Jetzt beraten lassen</strong></p> <p>Sicherheit ist Vertrauenssache. Lassen Sie sich von uns individuell zu Ihrer Alarmanlage beraten – vor Ort in Köln oder telefonisch deutschlandweit. Wir planen, installieren und warten Ihre Anlage professionell und zuverlässig.</p> <p>Kontaktieren Sie uns – für Ihre Sicherheit.</p> <p>Ihre Experten für Alarmanlagen in Köln, Deutschland und auf Mallorca</p> <br><br><br>"
+    },
+    {
+     "kicker": "",
+     "title": "Flexible Einsatzmöglichkeiten & Komponenten",
+     "videos": [
+      "_WMMivhenFw"
+     ],
+     "images": [],
+     "html": "<br> <br><br><br> <br> <p>Unsere Alarmanlagen lassen sich individuell erweitern und auf Ihre Anforderungen abstimmen:</p> <ul><li>Signalgeber für Innen- und Außenbereiche</li> <li>Bewegungsmelder mit Tiererkennung</li> <li>Rauch- und Gasmelder</li> <li>Wasser- und Glasbruchsensoren</li> <li>Zugangskontrollsysteme</li> <li>Videokameras (sichtbar oder verdeckt)</li> <li>Smartphone-Integration und Fernsteuerung via App</li></ul> <p>Sie entscheiden, welche Module für Sie sinnvoll sind – wir beraten Sie persönlich und kompetent.</p> <br><br><br> <br>"
+    },
+    {
+     "title": "weitere Leistungen",
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br><a href=\"/leistungen/beleuchtungssysteme/\"><p>Beleuchtungssysteme</p></a><a href=\"/leistungen/knx-systemintegrator/\"><p>KNX Systemintegrator</p></a><a href=\"/leistungen/smart_home/\"><p>Smart Home</p></a><a href=\"/leistungen/videoueberwachung/\"><p>Videoüberwachung</p></a><a href=\"/leistungen/video_gegensprechanlagen/\"><p>Video Gegensprechanlagen</p></a><a href=\"/leistungen/multiroom_audio/\"><p>Multiroom Audio</p></a><a href=\"/leistungen/service_elektriker/\"><p>Service Elektriker</p></a><br>"
+    }
+   ],
+   "titlephoto": {
+    "dir": "/mam/service/3/titlephoto/",
+    "hash": "7d3e5564",
+    "ext": "webp"
+   },
+   "name": "Alarmanlagen"
+  },
+  "smart_home": {
+   "title": "Smart Home",
+   "description": "Professionelle Smart-Home-Lösungen und KNX-Systeme in Köln,  deutschlandweit und auf Mallorca. Intelligente Haussteuerung für Beleuchtung, Jalousien, Heizung und Sicherheit. Effiziente Nachrüstung und benutzerfreundliche Steuerung per App oder Software.",
+   "kicker": "Smart Home",
+   "h1": "Intelligente Gebäudetechnik für mehr Komfort, Sicherheit und Effizienz",
+   "intro": "<br> <br> <br> <br> <br> <p>Ein <strong>Smart Home</strong> steht für intelligente Gebäudeautomation und Vernetzung technischer Geräte und Systeme in Wohnräumen und Gebäuden. Ziel ist es, den Wohnkomfort zu erhöhen, die Energieeffizienz zu verbessern und gleichzeitig die Sicherheit zu steigern – all das auf Basis automatisierter Abläufe und fernsteuerbarer Komponenten.</p> <br> <br> <br>",
+   "sections": [
+    {
+     "kicker": "Mit Tablet, Smartphone oder PC",
+     "title": "Steuerung Ihres Gebäudes von überall auf der Welt",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/23/photo/",
+       "hash": "cbe21623",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Dank moderner Smart-Home-Technik lassen sich zahlreiche Funktionen bequem per Smartphone, Tablet oder PC steuern:</p> <ul><li><p>Lichtsteuerung inklusive individuell anpassbarer Lichtszenen und Zeitpläne</p></li> <li><p>Automatisierte Jalousien- und Rollladensteuerung</p></li> <li><p>Fernzugriff auf Videoüberwachung und Alarmanlagen</p></li> <li><p>Intelligente Heizungsregelung für maximale Energieeinsparung</p></li> <li><p>Statusmeldungen bei sicherheitsrelevanten Änderungen oder Ereignissen</p></li></ul> <p>Ob Neubau oder Bestandsimmobilie – viele Systeme lassen sich ohne großen Aufwand nachrüsten. Voraussetzung ist lediglich ein WLAN-Anschluss. Die Steuerung erfolgt komfortabel über eine benutzerfreundliche App oder Softwarelösung.</p> <br><br><br> <br>"
+    },
+    {
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br> <p><strong>Ist intelligente Gebäudetechnik für Sie interessant?</strong></p> <p>Dann vertrauen Sie auf unsere langjährige Erfahrung mit vielen Projekten in Köln, Deutschland und auf Mallorca!<br> Rufen Sie uns an unter <strong><a href=\"tel:+49221431351\">+49 (0) 221 - 431 351</a></strong> – wir beraten Sie gerne individuell und persönlich.</p> <br><br><br>"
+    },
+    {
+     "kicker": "Gebäudeautomation ist vielfältig",
+     "title": "Wählen Sie einen Partner mit Know-How in allen Bereichen",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/32/photo/",
+       "hash": "57a14c50",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Intelligente Gebäudetechnik umfasst viele Bereiche. Wählen Sie daher einen Partner mit umfassenden Wissen und Erfahrung!</p> <p><strong>Paul Neumann Smart Home – Ihre Partner für anspruchsvolle KNX-Systeme</strong></p> <br><br><br> <br>"
+    },
+    {
+     "title": "weitere Leistungen",
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br><a href=\"/leistungen/beleuchtungssysteme/\"><p>Beleuchtungssysteme</p></a><a href=\"/leistungen/knx-systemintegrator/\"><p>KNX Systemintegrator</p></a><a href=\"/leistungen/alarmanlagen/\"><p>Alarmanlagen</p></a><a href=\"/leistungen/videoueberwachung/\"><p>Videoüberwachung</p></a><a href=\"/leistungen/video_gegensprechanlagen/\"><p>Video Gegensprechanlagen</p></a><a href=\"/leistungen/multiroom_audio/\"><p>Multiroom Audio</p></a><a href=\"/leistungen/service_elektriker/\"><p>Service Elektriker</p></a><br>"
+    }
+   ],
+   "titlephoto": {
+    "dir": "/mam/service/4/titlephoto/",
+    "hash": "d56af33c",
+    "ext": "webp"
+   },
+   "name": "Smart Home"
+  },
+  "videoueberwachung": {
+   "title": "Videoüberwachung",
+   "description": "Professionelle Videoüberwachungssysteme in Köln, deutschlandweit und auf Mallorca: Planung, Installation und Beratung für IP-Kameras, Full-HD-Überwachung und intelligente Videomanagement-Lösungen. Schützen Sie Ihr Eigentum und steigern Sie Ihre Sicherheit mit modernen, maßgeschneiderten Überwachungslösungen.",
+   "kicker": "Ihr Schutz beginnt mit einem klaren Bild",
+   "h1": "Videoüberwachung",
+   "intro": "<br> <br> <br> <br> <br> <p>Ob Zuhause, auf dem Firmengelände oder an öffentlichen Orten – mit einer professionellen Videoüberwachungsanlage behalten Sie jederzeit die Kontrolle. Unsere maßgeschneiderten Systeme schützen Eigentum, sorgen für Abschreckung und ermöglichen im Ernstfall eine lückenlose Dokumentation.</p> <br> <br> <br>",
+   "sections": [
+    {
+     "kicker": "für Köln, Deutschland und Mallorca",
+     "title": "Moderne Sicherheitstechnik",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/26/photo/",
+       "hash": "9d00ff34",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Wir planen, installieren und warten moderne Videoüberwachungssysteme – abgestimmt auf Ihre individuellen Anforderungen. Zum Einsatz kommen leistungsstarke Komponenten wie:</p> <ul><li><strong>IP-Kameras mit Full-HD- oder Megapixel-Auflösung</strong></li> <li><strong>Digitalrekorder (DVR/NVR) mit Ringspeicher und Bewegungserkennung</strong></li> <li><strong>Intelligente Videoanalyse-Software</strong></li></ul> <p>Hersteller wie <strong>Axis, Avigilon, Geutebrück, Mobotix</strong> oder <strong>CBC</strong> stehen für Qualität, Langlebigkeit und höchste Sicherheit. Ob für Ihr Eigenheim, gewerbliche Flächen oder sensible Bereiche – wir sorgen für die passende Lösung.</p> <br><br><br> <br>"
+    },
+    {
+     "kicker": "",
+     "title": "Einsatzbereiche der Videoüberwachung",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/28/photo/",
+       "hash": "862a326a",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Die Möglichkeiten sind vielfältig:</p> <ul><li><p>Privathäuser, Ferienimmobilien, Garagen und Parkplätze</p></li> <li><p>Tankstellen, Gewerbebetriebe und Baustellen</p></li> <li><p>Schulen, Kindertagesstätten und öffentliche Einrichtungen</p></li> <li><p>Innenräume zur Kontrolle von Haustieren oder sensiblen Bereichen</p></li></ul> <p>Mit <strong>mobiler Zugriffsmöglichkeit</strong> via Smartphone oder Tablet sind Sie ortsunabhängig informiert – <strong>live oder per Aufzeichnung.</strong></p> <br> <strong>Statistikbasierte Argumente für Videoüberwachung</strong> <p>Einbruchszahlen zeigen: Die Gefahr ist real. Laut Angaben der Versicherungswirtschaft hat die Zahl der Wohnungseinbrüche in den letzten Jahren deutlich zugenommen. Besonders beunruhigend: In rund <strong>20% der Fälle</strong> waren die Bewohner während der Tat anwesend – teilweise kam es sogar zum direkten Kontakt mit den Tätern.</p> <p>Noch gravierender sind oft die <strong>langfristigen Folgen:</strong></p> <ul><li><p>Fast die Hälfte der Betroffenen fühlt sich auch ein Jahr nach dem Einbruch nicht mehr sicher im eigenen Zuhause.</p></li> <li><p>Jeder vierte überlegt nach dem Vorfall, die Wohnung zu wechseln.</p></li> <li><p>Die durchschnittlichen Schadenskosten pro Fall liegen bei über <strong>3.000 Euro</strong>.</p></li></ul> <p>Ein gut geplantes Überwachungssystem kann hier nicht nur zur <strong>Abschreckung</strong>, sondern auch zur <strong>Aufklärung</strong> beitragen – und trägt somit aktiv zum Schutz Ihrer Familie und Werte bei.</p> <br><br><br> <br>"
+    },
+    {
+     "kicker": "Welches System passt zu Ihnen?",
+     "title": "Drahtlos oder kabelgebunden",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/24/photo/",
+       "hash": "94c523bf",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Moderne Videoüberwachungssysteme bieten flexible Installationsmöglichkeiten:</p> <ul><li><p><strong>Kabellose Varianten</strong> eignen sich ideal für Mietwohnungen oder Orte mit häufig wechselnden Standorten.</p></li> <li><p><strong>Kabelgebundene Systeme</strong> garantieren höchste Ausfallsicherheit und sind besonders für den Dauerbetrieb empfehlenswert.</p></li></ul> <p>Wir beraten Sie individuell, besichtigen Ihr Objekt vor Ort in Köln und Umgebung und empfehlen das passende System – inklusive Kameraanzahl, Speicherlösung und Positionierung.</p> <br><br><br> <br>"
+    },
+    {
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br> <p><strong>Intelligente Überwachung für ein sicheres Gefühl</strong></p> <p>Digitale Aufnahmen in bester Bildqualität, Nachtsichtfunktion und Cloud-Speicherung sind heute Standard. Die Übertragung in Echtzeit sorgt dafür, dass Sie jederzeit über Ereignisse informiert bleiben – auch wenn Sie unterwegs sind.</p> <p>Moderne Kamerasysteme sind kompakt, unauffällig und robust – und damit kaum noch manipulierbar. So bleibt Ihre Sicherheit jederzeit gewährleistet.</p> <br><br><br>"
+    },
+    {
+     "kicker": "In Köln, Deutschland und auf Mallorca",
+     "title": "Vertrauen Sie auf unsere Erfahrung",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/25/photo/",
+       "hash": "3d4b2c5c",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Ob private oder gewerbliche Lösung – wir begleiten Sie von der ersten Beratung bis zur fertigen Installation. Profitieren Sie von:</p> <ul><li><strong>langjähriger Erfahrung in der Sicherheitstechnik</strong></li> <li><strong>maßgeschneiderten Lösungen für jedes Budget</strong></li> <li><strong>schnellem Vor-Ort-Service</strong></li></ul> <p>Kontaktieren Sie uns unter <strong><a href=\"tel:+49221431351\">+49 (0) 221 - 431 351</a></strong> – wir nehmen uns Zeit für Ihre Sicherheit.</p> <br><br><br> <br>"
+    },
+    {
+     "title": "weitere Leistungen",
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br><a href=\"/leistungen/beleuchtungssysteme/\"><p>Beleuchtungssysteme</p></a><a href=\"/leistungen/knx-systemintegrator/\"><p>KNX Systemintegrator</p></a><a href=\"/leistungen/alarmanlagen/\"><p>Alarmanlagen</p></a><a href=\"/leistungen/smart_home/\"><p>Smart Home</p></a><a href=\"/leistungen/video_gegensprechanlagen/\"><p>Video Gegensprechanlagen</p></a><a href=\"/leistungen/multiroom_audio/\"><p>Multiroom Audio</p></a><a href=\"/leistungen/service_elektriker/\"><p>Service Elektriker</p></a><br>"
+    }
+   ],
+   "titlephoto": {
+    "dir": "/mam/service/5/titlephoto/",
+    "hash": "4118ef82",
+    "ext": "webp"
+   },
+   "name": "Videoüberwachung"
+  },
+  "video_gegensprechanlagen": {
+   "title": "Video Gegensprechanlagen",
+   "description": "Entdecken Sie hochwertige Videosprechanlagen für Köln,  deutschlandweit und auf Mallorca: Sicherheit durch klare Bildauflösung, Infrarot-Nachtsicht und einfache Bedienung per Smartphone oder PC. Professionelle Beratung, Installation und maßgeschneiderte Lösungen für Privathaushalte und Unternehmen.",
+   "kicker": "Mehr Sicherheit durch visuelle Kontrolle",
+   "h1": "Videosprechanlagen",
+   "intro": "<br> <br> <br> <br> <br> <p><strong>Ungebetene Besucher? Mit modernen Videosprechanlagen behalten Sie die Kontrolle.</strong></p> <p>Es ist spät am Abend, es klingelt – und Sie wissen nicht, wer vor der Tür steht? In solchen Momenten bieten Video-Türsprechanlagen ein wertvolles Plus an Sicherheit. Dank Livebild und Zwei-Wege-Kommunikation erkennen Sie sofort, wer vor Ihrer Haustür oder Ihrem Geschäftsgebäude steht – ohne die Tür öffnen zu müssen.</p> <br> <br> <br>",
+   "sections": [
+    {
+     "kicker": "für Köln, Deutschland und Mallorca",
+     "title": "Was unterscheidet eine Videosprechanlage von herkömmlichen Systemen?",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/29/photo/",
+       "hash": "ce64c921",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Im Gegensatz zu herkömmlichen Audio-Sprechanlagen bieten Video-Türsprechanlagen visuelle Sicherheit:</p> <ul><li><strong>Echtzeit-Videoübertragung</strong> auf ein Innen-Display</li> <li><strong>Kommunikation per Kamera und Mikrofon</strong></li> <li><strong>Integrierte Nachtsicht</strong> dank Infrarottechnologie</li></ul> <p>Das Kamerabild erscheint auf einem Monitor im Innenbereich. Viele Systeme lassen sich heute auch per Smartphone oder Tablet steuern – für maximale Flexibilität und Kontrolle, auch von unterwegs.</p> <br><br><br> <br>"
+    },
+    {
+     "kicker": "",
+     "title": "Individuelle Lösungen für jeden Bedarf",
+     "videos": [
+      "1z3sIAao-nY"
+     ],
+     "images": [],
+     "html": "<br> <br><br><br> <br> <p>Vom kompakten Einfamilienhaus bis zur gewerblichen Immobilie – wir bieten Videosprechanlagen in unterschiedlichen Ausführungen:</p> <ul><li><p>Modelle mit <strong>beweglicher Kamera</strong> für einen weiten Sichtwinkel</p></li> <li><p>Systeme mit <strong>Bewegungserkennung und Bildspeicher</strong>, die automatisch Aufnahmen erstellt</p></li> <li><p>High-End-Anlagen mit <strong>App-Anbindung</strong>, ideal für mobile Nutzer</p></li></ul> <p>Unsere Experten in Köln, Deutschland und auf Mallorca helfen Ihnen, das passende Modell zu finden – inklusive Designberatung für eine stilvolle Integration in Ihre Umgebung.</p> <br><br><br> <br>"
+    },
+    {
+     "kicker": "Mit Touchscreen, Tablet oder Smartphone",
+     "title": "Smarte Technik, intuitiv bedienbar",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/30/photo/",
+       "hash": "2420e1db",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Die von uns eingesetzten Systeme setzen auf moderne Technologien und höchste Qualitätsstandards:</p> <ul><li><p><strong>Hochauflösende Displays</strong></p></li> <li><p><strong>Klarer Sound und geringe Latenz</strong></p></li> <li><p><strong>Sichere Datenverbindung und hohe Langlebigkeit</strong></p></li></ul> <p>Ganz gleich, ob Sie Ihr System per Touchscreen im Flur oder via Smartphone-App bedienen möchten – wir zeigen Ihnen, welche Funktionen für Ihre Situation wirklich sinnvoll sind.</p> <br><br><br> <br>"
+    },
+    {
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br> <p><strong>Sicherheit für alle Generationen</strong></p> <p>Eine Video-Türsprechanlage bietet Schutz – für Singles ebenso wie für Familien mit Kindern oder Senioren. Besonders für ältere Menschen ist es beruhigend, Besucher visuell zu identifizieren, bevor die Tür geöffnet wird. Auch während einer Reise oder im Arbeitsalltag bleibt Ihre Familie nicht ungeschützt.</p> <br><br><br>"
+    },
+    {
+     "kicker": "Seit über 30 Jahren",
+     "title": "Vertrauen durch Erfahrung",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/31/photo/",
+       "hash": "3cf0c4b2",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Als Meisterbetrieb in Köln mit über drei Jahrzehnten Erfahrung im Bereich Sicherheitstechnik wissen wir, worauf es ankommt. Wir setzen ausschließlich auf geprüfte Markenprodukte, beraten Sie objektiv und übernehmen die vollständige Installation und Konfiguration – auf Wunsch mit Einweisung in die Bedienung.</p> <p>Unser Leistungsversprechen</p> <ul><li>Persönliche Fachberatung vor Ort</li> <li>Große Auswahl hochwertiger Videosprechanlagen</li> <li>Maßgeschneiderte Lösungen für Privat, Gewerbe & Mehrfamilienhäuser</li> <li>Professionelle Installation durch geschulte Techniker</li> <li>Langfristiger Support bei Wartung und Erweiterung</li></ul> <br><br><br> <br>"
+    },
+    {
+     "kicker": "Ihre Sicherheit beginnt an der Tür",
+     "title": "Jetzt beraten lassen",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/33/photo/",
+       "hash": "5b8c5c7c",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Möchten Sie Ihre Immobilie professionell absichern? Dann sprechen Sie uns an – wir stehen Ihnen in Köln, Umgebung und bundesweit für eine persönliche Beratung zur Verfügung.</p> <p>Kontaktieren Sie uns noch heute für ein unverbindliches Angebot unter <strong><a href=\"tel:+49221431351\">+49 (0) 221 - 431 351</a></strong></p> <br><br><br> <br>"
+    },
+    {
+     "title": "weitere Leistungen",
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br><a href=\"/leistungen/beleuchtungssysteme/\"><p>Beleuchtungssysteme</p></a><a href=\"/leistungen/knx-systemintegrator/\"><p>KNX Systemintegrator</p></a><a href=\"/leistungen/alarmanlagen/\"><p>Alarmanlagen</p></a><a href=\"/leistungen/smart_home/\"><p>Smart Home</p></a><a href=\"/leistungen/videoueberwachung/\"><p>Videoüberwachung</p></a><a href=\"/leistungen/multiroom_audio/\"><p>Multiroom Audio</p></a><a href=\"/leistungen/service_elektriker/\"><p>Service Elektriker</p></a><br>"
+    }
+   ],
+   "titlephoto": {
+    "dir": "/mam/service/6/titlephoto/",
+    "hash": "5db8d2f4",
+    "ext": "webp"
+   },
+   "name": "Video Gegensprechanlagen"
+  },
+  "multiroom_audio": {
+   "title": "Multiroom Audio",
+   "description": "Multiroom Audio-Systeme für Köln, Deutschland und auf Mallorca: Genießen Sie synchronisierten Sound in allen Räumen mit hochwertiger Klangqualität und intuitiver Steuerung per App. Maßgeschneiderte Planung, Lieferung und Installation für optimalen Hörgenuss in Ihrem Zuhause oder gewerblichen Bereich.",
+   "kicker": "Klangkomfort in jedem Raum",
+   "h1": "Multiroom Audio- & Soundsysteme",
+   "intro": "<br> <br> <br> <br> <br> <p>Musik in jedem Raum – perfekt auf Ihre Stimmung abgestimmt. Mit unseren Multiroom Audio-Systemen erleben Sie erstklassigen Klang in einer völlig neuen Dimension. Steuern Sie Ihre Lieblingsmusik bequem per App und sorgen Sie für individuelle Beschallung in Küche, Wohnzimmer, Bad oder Garten. Ob gleichzeitiger Sound in allen Räumen oder unterschiedliche Playlists pro Bereich – die Systeme lassen sich flexibel an Ihre Wünsche anpassen.</p> <p>Das Ergebnis: Ein stimmiges Hörerlebnis, das Ihr Zuhause in eine moderne Klangwelt verwandelt – von entspannend bis energiegeladen.</p> <br> <br> <br>",
+   "sections": [
+    {
+     "kicker": "Nahtloser Sound – überall in Ihrem Zuhause",
+     "title": "Warum ein gutes Soundsystem mehr ist als nur Lautsprecher",
+     "videos": [
+      "t-e-UpJS4nQ"
+     ],
+     "images": [],
+     "html": "<br> <br><br><br> <br> <p>Ob im Einzelhandel, in der Gastronomie oder in Hotels – gezielte Beschallung beeinflusst das Wohlbefinden der Menschen oft mehr, als man denkt. Hintergrundmusik motiviert zum Verweilen, steigert das Kundenerlebnis und kann sogar Kaufentscheidungen positiv beeinflussen.</p> <p>Doch auch im privaten Bereich trägt der richtige Sound maßgeblich zur Atmosphäre bei:</p> <ul><li><p><strong>Entspannen in der Badewanne mit sanften Klängen</strong></p></li> <li><p><strong>Kochen mit den neuesten Charts</strong></p></li> <li><p><strong>Feierabend im Garten mit Ihrer Lieblingsplaylist</strong></p></li></ul> <p>Ein hochwertiges Multiroom-System sorgt dafür, dass jeder Bereich die passende Akustik erhält – abgestimmt auf Nutzung und Raumakustik. Denn ein Schlafzimmer braucht eine andere Klangkulisse als ein lebendiger Wohnbereich.</p> <br><br><br> <br>"
+    },
+    {
+     "kicker": "",
+     "title": "Von der Idee bis zur perfekten Klanglösung",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/20/photo/",
+       "hash": "d4c08714",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Als erfahrene Fachfirma planen und realisieren wir individuelle Beschallungskonzepte für Ihr Zuhause oder Ihr Unternehmen – von der ersten Beratung über die Auswahl der passenden Komponenten bis zur fachgerechten Installation.</p> <br> <p><strong>Unsere Leistungen im Überblick:</strong></p> <ul><li>Bedarfsgerechte Planung Ihres Soundsystems</li> <li>Auswahl und Lieferung hochwertiger Audio-Komponenten</li> <li>Integration in Smart Home-Systeme auf Wunsch</li> <li>Fachgerechte Installation & Einweisung</li> <li>Betreuung und Wartung bei Bedarf</li></ul> <br><br><br> <br>"
+    },
+    {
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br> <p><strong>Ihr Klang. Ihr Stil. Ihre Räume.</strong></p> <p>Ob stilvolles Hifi-System oder unauffällige Einbaulautsprecher – wir finden gemeinsam mit Ihnen die optimale Lösung für Ihre Umgebung. Vertrauen Sie auf unsere Expertise und lassen Sie sich persönlich beraten. Wir bringen Sound in Ihr Leben – präzise, harmonisch und ganz nach Ihrem Geschmack.</p> <p>Jetzt unverbindlich beraten lassen – für perfektes Hören in jedem Raum.</p> <br><br><br>"
+    },
+    {
+     "title": "weitere Leistungen",
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br><a href=\"/leistungen/beleuchtungssysteme/\"><p>Beleuchtungssysteme</p></a><a href=\"/leistungen/knx-systemintegrator/\"><p>KNX Systemintegrator</p></a><a href=\"/leistungen/alarmanlagen/\"><p>Alarmanlagen</p></a><a href=\"/leistungen/smart_home/\"><p>Smart Home</p></a><a href=\"/leistungen/videoueberwachung/\"><p>Videoüberwachung</p></a><a href=\"/leistungen/video_gegensprechanlagen/\"><p>Video Gegensprechanlagen</p></a><a href=\"/leistungen/service_elektriker/\"><p>Service Elektriker</p></a><br>"
+    }
+   ],
+   "titlephoto": {
+    "dir": "/mam/service/7/titlephoto/",
+    "hash": "6b387058",
+    "ext": "webp"
+   },
+   "name": "Multiroom Audio"
+  },
+  "service_elektriker": {
+   "title": "Service Elektriker in Köln - Elektro Paul Neumann",
+   "description": "Ihr Elektroservice in Köln, deutschlandweit und auf Mallorca: Professionelle Planung, Projektierung, Baubegleitung, KNX-Systemintegration, Smart Home, Sicherheitssysteme, Videosysteme, Multiroom Audio und mehr. Kundenfokussierter Service für individuelle Lösungen.",
+   "kicker": "Maßgeschneiderter Elektrosupport für jedes Projekt",
+   "h1": "Ihr Elektroservice – zuverlässig, persönlich, kompetent",
+   "intro": "<br> <br> <br> <br> <br> <p>Unser Elektroservice steht für Verlässlichkeit, Fachkompetenz und echten Kundenfokus. Mit einem erfahrenen, engagierten Team bieten wir Ihnen nicht nur schnelle und effiziente Lösungen, sondern auch individuelle Beratung auf Augenhöhe. Ob private Bauvorhaben, gewerbliche Projekte oder smarte Modernisierungen – wir begleiten Sie von der ersten Idee bis zur finalen Umsetzung.</p> <p>Unser Anspruch: <strong>maßgeschneiderte Elektrokonzepte</strong>, die funktionieren – heute und in Zukunft.</p> <br> <br> <br>",
+   "sections": [
+    {
+     "kicker": "",
+     "title": "Unsere Leistungen im Überblick",
+     "videos": [],
+     "images": [
+      {
+       "dir": "/mam/image/21/photo/",
+       "hash": "a1faa644",
+       "ext": "webp"
+      }
+     ],
+     "html": "<br> <br><br><br> <br> <p>Wir bieten Ihnen umfassende Dienstleistungen rund um moderne Elektroinstallationen und smarte Gebäudetechnik:</p> <ul><li><p><strong>Planung & Projektierung</strong></p></li> <li><p><strong>Individuelle Angebotserstellung & Konzeptentwicklung</strong></p></li> <li><p><strong>Realisierung & Projektumsetzung</strong></p></li> <li><p><strong>Baubegleitung & Objektbetreuung</strong></p></li> <li><p><strong>Fernwartung & Systempflege</strong></p></li> <li><p><strong>KNX-Systemintegration & Programmierung</strong></p></li> <li><p><strong>Smart Home-Lösungen & Gebäudeautomation</strong></p></li> <li><p><strong>Videosysteme & Überwachungstechnik</strong></p></li> <li><p><strong>Alarmsysteme & Sicherheitslösungen</strong></p></li> <li><p><strong>Multiroom Audio- & Heimkinosysteme</strong></p></li></ul> <br><br><br> <br>"
+    },
+    {
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br> <p><strong>Warum wir? – Weil Sie mehr erwarten dürfen</strong></p> <p>Bei uns stehen Ihre Wünsche im Mittelpunkt. Wir hören zu, denken mit und liefern Lösungen, die nicht nur technisch, sondern auch wirtschaftlich überzeugen. Die Zufriedenheit unserer Kund*innen ist unser größter Antrieb – und die Basis für langjährige Partnerschaften.</p> <p><strong>Setzen Sie auf Elektroservice mit Persönlichkeit und technischem Anspruch – wir beraten Sie gerne.</strong></p> <br><br><br>"
+    },
+    {
+     "title": "weitere Leistungen",
+     "videos": [],
+     "images": [],
+     "html": "<br><br><br><br><a href=\"/leistungen/beleuchtungssysteme/\"><p>Beleuchtungssysteme</p></a><a href=\"/leistungen/knx-systemintegrator/\"><p>KNX Systemintegrator</p></a><a href=\"/leistungen/alarmanlagen/\"><p>Alarmanlagen</p></a><a href=\"/leistungen/smart_home/\"><p>Smart Home</p></a><a href=\"/leistungen/videoueberwachung/\"><p>Videoüberwachung</p></a><a href=\"/leistungen/video_gegensprechanlagen/\"><p>Video Gegensprechanlagen</p></a><a href=\"/leistungen/multiroom_audio/\"><p>Multiroom Audio</p></a><br>"
+    }
+   ],
+   "titlephoto": {
+    "dir": "/mam/service/8/titlephoto/",
+    "hash": "1e7052ee",
+    "ext": "webp"
+   },
+   "name": "Service Elektriker"
+  }
+ },
+ "projects": {
+  "tuev_rheinland": {
+   "title": "Projekt TÜV Rheinland",
+   "description": "Projekt TÜV Rheinland: Durchführung von Büroumbauarbeiten sowie Installation und Inbetriebnahme moderner Netzwerktechnik, LWL-Technik (Glasfaser) und Medientechnik einschließlich Prüfung und Dokumentation.",
+   "name": "TÜV Rheinland",
+   "sub": "Büroumbau",
+   "text": "Projekt TÜV Rheinland: Durchführung von Büroumbauarbeiten sowie Installation und Inbetriebnahme moderner Netzwerktechnik, LWL-Technik (Glasfaser) und Medientechnik einschließlich Prüfung und Dokumentation.",
+   "images": [
+    {
+     "dir": "/mam/project/17/photos/",
+     "hash": "c236c5b8",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/17/photos/",
+     "hash": "10375965",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/17/photos/",
+     "hash": "f42452e3",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/17/photos/",
+     "hash": "5651025a",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/17/photos/",
+     "hash": "ad713cab",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/17/photos/",
+     "hash": "aba5b847",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/17/photos/",
+     "hash": "4e915192",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/17/photo/",
+    "hash": "6d33d6df",
+    "ext": "jpg"
+   }
+  },
+  "villa_xxl": {
+   "title": "Projekt Villa XXL Mallorca",
+   "description": "Villa XXL Deutschland- Son Vida 2017 – 2020 Realisierung von Elektrotechnik, Sicherheitstechnik, KNX Gebäudesteuerung, Netzwerktechnik, Videoüberwachung, Alarmanlage, Medientechnik. Schöpfer des Entwurfs, Autor und Planer sind Studio ASH - Interior - Architecture - Design in Köln",
+   "name": "Villa XXL Mallorca",
+   "sub": "Exclusive Villa 2017 – 2020",
+   "text": "Villa XXL Mallorca - Exclusive Villa 2017 – 2020 Realisierung von Elektrotechnik, Sicherheitstechnik, KNX Gebäudesteuerung, Netzwerktechnik, Videoüberwachung, Alarmanlage, Medientechnik. Schöpfer des Entwurfs, Autor und Planer sind Studio ASH - Interior - Architecture - Design in Köln",
+   "images": [
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "017d5888",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "5015e730",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "ea993d12",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "65a3fb4e",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "ce36547b",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "3781ac58",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "6a70ae25",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "1a762748",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "d9c7a5f9",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "3c925dec",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "c6f70cf4",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "f06eb864",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "1572a66d",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "8cc77dac",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "bab488a3",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "130a4b07",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "3223ef52",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "2203f3ae",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "5179882e",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "fe321422",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "62c278e7",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "1702cd70",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "4f609f21",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "6d8b6872",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "3de82b55",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "4336042b",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "5132256a",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "feecc82d",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "0a4dce4f",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "a5adc132",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "b1754ab6",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "764edcc5",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "ffdc82de",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "8e36f9d2",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "7155d77d",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "6254ec52",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "28ef601e",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "3bb37a9c",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "b5d447cf",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "20edcd3c",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "85aaef55",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/2/photos/",
+     "hash": "fafc5080",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/2/photo/",
+    "hash": "d7a7961c",
+    "ext": "jpg"
+   }
+  },
+  "penthouse_xxl": {
+   "title": "Projekt Penthouse XXL",
+   "description": "Realisierung von Elektrotechnik, KNX-Steuerung, Lichttechnik, Netzwerktechnik, Sicherheitstechnik und Medientechnik.",
+   "name": "Penthouse XXL",
+   "sub": "Köln 2017 – 2018",
+   "text": "Realisierung von Elektrotechnik, KNX-Steuerung, Lichttechnik, Netzwerktechnik, Sicherheitstechnik und Medientechnik.",
+   "images": [
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "64c9c2d8",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "4899e254",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "4c23eb94",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "ad892435",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "9ec6f97e",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "40d41bab",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "405851b2",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "b412a2c9",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "45e158c5",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "c7c56b9d",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "48516c4b",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "9103713d",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "2dffc89e",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "a0e40ad1",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "d3450e1e",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/1/photos/",
+     "hash": "e9326571",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/1/photo/",
+    "hash": "24cab125",
+    "ext": "jpg"
+   }
+  },
+  "townhouse": {
+   "title": "Projekt Townhouse",
+   "description": "Realisierung von Elektrotechnik, KNX Gebäudesteuerung, Netzwerktechnik, Sicherheitstechnik, Lichttechnik",
+   "name": "Townhouse",
+   "sub": "Köln 2017 - 2018",
+   "text": "Realisierung von Elektrotechnik, KNX Gebäudesteuerung, Netzwerktechnik, Sicherheitstechnik, Lichttechnik",
+   "images": [
+    {
+     "dir": "/mam/project/3/photos/",
+     "hash": "f5df116a",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/3/photos/",
+     "hash": "a4178e3f",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/3/photos/",
+     "hash": "c02143b8",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/3/photos/",
+     "hash": "9e6ae1d7",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/3/photos/",
+     "hash": "8b5c7db8",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/3/photo/",
+    "hash": "c40e1200",
+    "ext": "jpg"
+   }
+  },
+  "bayer04_leverkusen": {
+   "title": "Projekt Bayer04 Leverkusen",
+   "description": "Bayer04 Leverkusen Fußball GmbH 2013 – 2015 Büroumbaumanagement: Elektrotechnik, KNX Gebäudesystemtechnik, Netzwerktechnik, Medientechnik, Lichttechnik, Videoüberwachung Stadion.",
+   "name": "Bayer04 Leverkusen",
+   "sub": "Fußball GmbH 2013 - 2015",
+   "text": "Bayer04 Leverkusen Fußball GmbH 2013 – 2015 Büroumbaumanagement: Elektrotechnik, KNX Gebäudesystemtechnik, Netzwerktechnik, Medientechnik, Lichttechnik, Videoüberwachung Stadion.",
+   "images": [
+    {
+     "dir": "/mam/project/6/photos/",
+     "hash": "240a81ee",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/6/photos/",
+     "hash": "805ba3ca",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/6/photos/",
+     "hash": "6780efa8",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/6/photos/",
+     "hash": "d8881e19",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/6/photos/",
+     "hash": "12c8bb08",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/6/photos/",
+     "hash": "efc948de",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/6/photos/",
+     "hash": "e3c1d8ba",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/6/photos/",
+     "hash": "228b8cfb",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/6/photo/",
+    "hash": "7982fdfe",
+    "ext": "jpg"
+   }
+  },
+  "stroeer_media_se": {
+   "title": "Projekt Ströer Media SE",
+   "description": "KNX Gebäudesystemtechnik, Videoüberwachung, Netzwerktechnik, Lichttechnik, Hausverwaltung, Bürosanierungen",
+   "name": "Ströer Media SE",
+   "sub": "",
+   "text": "KNX Gebäudesystemtechnik, Videoüberwachung, Netzwerktechnik, Lichttechnik, Hausverwaltung, Bürosanierungen",
+   "images": [
+    {
+     "dir": "/mam/project/4/photos/",
+     "hash": "6491f7d1",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/4/photos/",
+     "hash": "7c58352f",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/4/photos/",
+     "hash": "f5990f76",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/4/photos/",
+     "hash": "cf712db4",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/4/photos/",
+     "hash": "5447c74c",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/4/photos/",
+     "hash": "e5acfb63",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/4/photos/",
+     "hash": "5c414577",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/4/photos/",
+     "hash": "8a49fba4",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/4/photo/",
+    "hash": "e801ce3f",
+    "ext": "jpg"
+   }
+  },
+  "gerling_ring_karree": {
+   "title": "Projekt Gerling Ring Karree",
+   "description": "Hausverwaltung, Büroumbauten, Netzwerktechnik, Lichttechnik, Sicherheitsbeleuchtung, Videosprechanlage",
+   "name": "Gerling Ring Karree",
+   "sub": "Köln",
+   "text": "Hausverwaltung, Büroumbauten, Netzwerktechnik, Lichttechnik, Sicherheitsbeleuchtung, Videosprechanlage",
+   "images": [
+    {
+     "dir": "/mam/project/8/photos/",
+     "hash": "c66f561d",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/8/photos/",
+     "hash": "539326f3",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/8/photos/",
+     "hash": "0976ace2",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/8/photos/",
+     "hash": "8a0fa273",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/8/photos/",
+     "hash": "3730015f",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/8/photos/",
+     "hash": "f1841264",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/8/photos/",
+     "hash": "37a080d4",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/8/photos/",
+     "hash": "64d218b2",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/8/photo/",
+    "hash": "1354df26",
+    "ext": "jpg"
+   }
+  },
+  "hotel_im_wasserturm": {
+   "title": "Projekt Hotel im Wasserturm",
+   "description": "Sanierung von 45 Hotelzimmern in 3 Monaten. Elektrotechnik, Netzwerktechnik, Brandmeldeanlagen und Medientechnik",
+   "name": "Hotel im Wasserturm",
+   "sub": "Köln 2015",
+   "text": "Sanierung von 45 Hotelzimmern in 3 Monaten. Elektrotechnik, Netzwerktechnik, Brandmeldeanlagen und Medientechnik",
+   "images": [
+    {
+     "dir": "/mam/project/9/photos/",
+     "hash": "299e35f3",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/9/photos/",
+     "hash": "77de9fe1",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/9/photos/",
+     "hash": "8ad776dc",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/9/photos/",
+     "hash": "e955bf7c",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/9/photos/",
+     "hash": "2e8c2dd8",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/9/photos/",
+     "hash": "a091c55f",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/9/photos/",
+     "hash": "7f78e9cb",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/9/photos/",
+     "hash": "4f6597c5",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/9/photos/",
+     "hash": "86bbaae6",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/9/photos/",
+     "hash": "12479c2c",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/9/photo/",
+    "hash": "f2a23437",
+    "ext": "jpg"
+   }
+  },
+  "hitschler_international": {
+   "title": "Projekt Hitschler International GmbH & Co. KG",
+   "description": "Hausverwaltung, Büroumbauten, Netzwerktechnik, Elektrotechnik, Lichttechnik, Sicherheitstechnik.",
+   "name": "Hitschler International GmbH & Co. KG",
+   "sub": "Köln",
+   "text": "Hausverwaltung, Büroumbauten, Netzwerktechnik, Elektrotechnik, Lichttechnik, Sicherheitstechnik.",
+   "images": [
+    {
+     "dir": "/mam/project/11/photos/",
+     "hash": "407db587",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/11/photos/",
+     "hash": "c3f5dd51",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/11/photo/",
+    "hash": "a71753da",
+    "ext": "jpg"
+   }
+  },
+  "rheinland_versicherung": {
+   "title": "Projekt Rheinland Versicherung",
+   "description": "Hausverwaltung, Büroumbauten, Netzwerktechnik, Sicherheitstechnik, Elektrotechnik, Lichttechnik",
+   "name": "Rheinland Versicherung",
+   "sub": "Köln",
+   "text": "Hausverwaltung, Büroumbauten, Netzwerktechnik, Sicherheitstechnik, Elektrotechnik, Lichttechnik",
+   "images": [
+    {
+     "dir": "/mam/project/12/photos/",
+     "hash": "46fde64a",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/12/photos/",
+     "hash": "57f6eb06",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/12/photos/",
+     "hash": "b37e9509",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/12/photos/",
+     "hash": "b28f8984",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/12/photos/",
+     "hash": "f69f7c4c",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/12/photos/",
+     "hash": "cdf32b8a",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/12/photo/",
+    "hash": "9093921a",
+    "ext": "jpg"
+   }
+  },
+  "kluck_umweltlogistik": {
+   "title": "Projekt Kluck Umweltlogistik",
+   "description": "Elektrifizierung des gesamten Komplexes",
+   "name": "Kluck Umweltlogistik",
+   "sub": "Köln, Pulheim",
+   "text": "Elektrifizierung des gesamten Komplexes",
+   "images": [],
+   "cover": {
+    "dir": "/mam/project/14/photo/",
+    "hash": "0ae6bcb6",
+    "ext": "jpg"
+   }
+  },
+  "leuchtenzentrum": {
+   "title": "Projekt Leuchtenzentrum",
+   "description": "Steuerzentrale der Sprinkleranlage erneuert, Hauptversorgungsleitung brandschutzgerecht verlegt.",
+   "name": "Leuchtenzentrum",
+   "sub": "Leverkusen",
+   "text": "Steuerzentrale der Sprinkleranlage erneuert, Hauptversorgungsleitung brandschutzgerecht verlegt.",
+   "images": [
+    {
+     "dir": "/mam/project/15/photos/",
+     "hash": "73f5480d",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/15/photo/",
+    "hash": "24117574",
+    "ext": "jpg"
+   }
+  },
+  "wilma_wunder": {
+   "title": "Projekt Wilma Wunder",
+   "description": " ",
+   "name": "Wilma Wunder",
+   "sub": "Köln",
+   "text": "",
+   "images": [],
+   "cover": {
+    "dir": "/mam/project/16/photo/",
+    "hash": "96a31012",
+    "ext": "jpg"
+   }
+  },
+  "wdr_studios_koeln": {
+   "title": "Projekt WDR Studios Köln",
+   "description": "WDR Studios Köln und Deutschland - KNX Gebäudetechnik",
+   "name": "WDR Studios Köln",
+   "sub": "",
+   "text": "WDR Studios Köln und Deutschland - KNX Gebäudetechnik",
+   "images": [
+    {
+     "dir": "/mam/project/5/photos/",
+     "hash": "1683b326",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/5/photos/",
+     "hash": "454dd11b",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/5/photos/",
+     "hash": "484cac33",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/5/photos/",
+     "hash": "58cfe107",
+     "ext": "webp"
+    },
+    {
+     "dir": "/mam/project/5/photos/",
+     "hash": "72313904",
+     "ext": "webp"
+    }
+   ],
+   "cover": {
+    "dir": "/mam/project/5/photo/",
+    "hash": "51fbd6a5",
+    "ext": "jpg"
+   }
+  }
+ },
+ "home": {
+  "title": "Elektro Paul Neumann - Elektriker Köln | KNX & Sicherheitstechnik",
+  "description": "Elektriker in Köln seit 1980: KNX-Systemintegrator, Smart Home, Alarmanlagen & Videoüberwachung. Planung, Installation & Wartung. Jetzt Beratung anfragen."
+ },
+ "kontakt": {
+  "title": "Kontakt Elektro Paul Neumann, Elektriker aus Köln und KNX Profi",
+  "description": "Kontaktieren Sie Elektro Paul Neumann – Ihr Partner für Elektriker für KNX Systemintegration in Köln und auf Mallorca. Jetzt Standort & Kontaktdaten ansehen. Elektriker in Köln seit 1980",
+  "sections": [],
+  "html": "<br><br><br> <br> <p></p> Elektro Paul Neumann <p><a href=\"https://maps.app.goo.gl/d2gkWFqJvXmDB9e87\">Emil-Hoffmann-Straße 39-43<br>Halle 1 + 2<br> 50996 Köln</a></p> <p><a href=\"tel:+49221431351\">+49 (0) 221 - 431 351</a></p> <p><a href=\"tel:+49221431352\">+49 (0) 221 - 431 352</a></p> <p><a href=\"mailto:info@elektro-paul-neumann.de\">info@elektro-paul-neumann.de</a></p> <br><br><br> <p></p> Elektro Paul Neumann <p>Avinguda del Rei Jaume I, 109<br> 07180 Santa Ponça<br>Illes Balears<br>Spanien</p> <p><a href=\"tel:+49221431351\">+49 (0) 221 - 431 351</a></p> <p><a href=\"mailto:info@elektro-paul-neumann.de\">info@elektro-paul-neumann.de</a></p> <br><br><br>",
+  "images": [
+   {
+    "dir": "/mam/image/12/photo/",
+    "hash": "e9f3e8c7",
+    "ext": "webp"
+   },
+   {
+    "dir": "/mam/image/13/photo/",
+    "hash": "a97e53a7",
+    "ext": "webp"
+   }
+  ]
+ },
+ "karriere": {
+  "title": "Karriere",
+  "description": "Jetzt Karriere machen bei Elektro Paul Neumann, dem KNX Profi aus Köln! Anspruchsvolle Projekte in Köln und auf Mallorca, Top-Team, gute Bezahlung & Perspektive – bewerben Sie sich jetzt!",
+  "sections": [],
+  "html": "<br><br><br> <br> <p>Als spezialisiertes Unternehmen für Elektro- und Sicherheitstechnik mit anspruchsvollen Kunden in Deutschland und auf Mallorca setzen wir auf Teammitglieder, die mitdenken, Verantwortung übernehmen – und mit Leidenschaft bei der Sache sind.</p> <br> <p>Realisierung und Abwicklung von Groß- und Kleinprojekten, Hausverwaltungen, Gebäude- und Büroumbauten, Sanierungen von Praxen, Villen, Häusern und Wohnungen.</p><p>Service und Support für Stammkunden, Videosprechanlagen, KNX Gebäudemanagementsysteme, Alarmanlagen, Videoüberwachung, Smart Home</p><p>Ausbildung in einem zukunftsorientierten Beruf mit innovativer Technik.</p><p>Wir suchen ab sofort tatkräftige Helfer für unser Team!</p> <br><br><br>",
+  "images": [
+   {
+    "src": "/mam/transparent/Baumonteur.webp"
+   },
+   {
+    "src": "/mam/transparent/Servicetechniker.webp"
+   },
+   {
+    "src": "/mam/transparent/Azubi.webp"
+   },
+   {
+    "src": "/mam/transparent/Helfer.webp"
+   }
+  ]
+ },
+ "impressum": {
+  "title": "Impressum Elektro Paul Neumann, Elektriker aus Köln",
+  "description": "Impressum und Datenschutz von Elektro Paul Neumann Köln – alle gesetzlich erforderlichen Angaben zum Anbieter, Kontaktinformationen und rechtliche Hinweise im Überblick.",
+  "sections": [],
+  "html": "<br><br><br> <br> <p>Verantwortliche Stelle gemäß § 5 DDG für die Seite elektro-paul-neumann.de ist:</p> <h3>Dirk Woronow</h3> <p>Emil-Hoffmann-Straße 39-43<br>Halle 1 + 2<br> 50996 Köln</p> <br> Telefon:+49 (0) 221 - 431 351 Mail:info@elektro-paul-neumann.de Web:elektro-paul-neumann.de Ust-IdNr:DE251151581 <br> <h3>Datenschutzerklärung</h3> <p>In dieser Datenschutzerklärung informieren wir Sie darüber, welche personenbezogenen Daten bei der Nutzung unserer Website erhoben und verarbeitet werden, zu welchem Zweck dies geschieht und welche Rechte Sie in diesem Zusammenhang haben. Die Verarbeitung Ihrer Daten erfolgt auf Grundlage der geltenden datenschutzrechtlichen Bestimmungen, insbesondere der EU-Datenschutz-Grundverordnung (DSGVO), des Bundesdatenschutzgesetzes (BDSG) sowie – soweit einschlägig – des Telekommunikation-Telemedien-Datenschutz-Gesetzes (TTDSG).</p> <h3>Urheberrecht</h3> <p>Die auf dieser Website veröffentlichten Inhalte (z. B. Texte, Bilder, Grafiken, Audio- oder Videodateien) unterliegen dem deutschen Urheberrecht (§ 2 UrhG) und sind – sofern nicht anders gekennzeichnet – geistiges Eigentum des Websitebetreibers. Jegliche Vervielfältigung, Bearbeitung, Verbreitung oder sonstige Nutzung bedarf der vorherigen schriftlichen Zustimmung des Rechteinhabers. Dies gilt insbesondere für die Verwendung in anderen elektronischen oder gedruckten Medien.</p> <p>Inhalte auf dieser Website, die nicht vom Betreiber erstellt wurden, werden unter Beachtung der Urheberrechte Dritter verwendet und – sofern erforderlich – entsprechend gekennzeichnet. Sollten Sie dennoch eine Urheberrechtsverletzung feststellen, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverstößen werden wir derartige Inhalte umgehend entfernen.</p> <h3>Haftung für externe Links</h3> <p>Unsere Website enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich.</p> <p>Zum Zeitpunkt der Verlinkung wurden die verlinkten Seiten auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zu diesem Zeitpunkt nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.</p> <h3>Erhebung und Verarbeitung personenbezogener Daten</h3> <p>Wir erheben und verarbeiten personenbezogene Daten nur, wenn dies gesetzlich erlaubt ist oder Sie uns Ihre Einwilligung erteilen. Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare Person beziehen – zum Beispiel Name, E-Mail-Adresse oder IP-Adresse.</p> <p>Beim Aufruf unserer Website übermittelt Ihr Browser automatisch bestimmte Informationen an unseren Webserver. Dazu gehören:</p> <ul><li><p>IP-Adresse (in anonymisierter Form),</p></li> <li><p>Datum und Uhrzeit des Zugriffs,</p></li> <li><p>aufgerufene Seiten und Dateien,</p></li> <li><p>Referrer-URL (die zuvor besuchte Seite),</p></li> <li><p>verwendeter Browser und Betriebssystem.</p></li></ul> <p>Diese Daten werden aus technischen Gründen gespeichert und ausgewertet, um die Stabilität und Sicherheit der Website zu gewährleisten (Art.6 Abs.1 lit. f DSGVO – berechtigtes Interesse). Eine Zusammenführung dieser Daten mit anderen Datenquellen findet nicht statt.</p> <p>Wenn Sie uns per E-Mail oder über ein Kontaktformular kontaktieren, werden die übermittelten Daten ausschließlich zur Bearbeitung Ihrer Anfrage verarbeitet. Die Verarbeitung erfolgt entweder zur Durchführung vorvertraglicher Maßnahmen (Art.6 Abs.1 lit. b DSGVO) oder auf Grundlage unseres berechtigten Interesses an einer effizienten Kommunikation (Art.6 Abs.1 lit.f DSGVO).</p> <p>Unsere Website wird bei einem professionellen Hosting-Anbieter betrieben:</p> <p><strong>OMCnet Internet Service GmbH,</strong><br>Ernst-Abbe-Straße 10<br>25451 Quickborn</p> <p>Das Hosting erfolgt auf Servern in Deutschland. Mit dem Anbieter wurde ein Auftragsverarbeitungsvertrag gemäß Art. 28 DSGVO geschlossen.</p> <p>Personenbezogene Daten werden nur so lange gespeichert, wie es für den jeweiligen Zweck erforderlich ist oder gesetzliche Aufbewahrungsfristen bestehen.</p> <h3>Rechte der betroffenen Person</h3> <p>Sie haben jederzeit das Recht, unentgeltlich Auskunft über die bei uns gespeicherten personenbezogenen Daten zu Ihrer Person zu erhalten (Art. 15 DSGVO). Dazu zählen insbesondere Angaben zur Herkunft, den Empfängern sowie dem Zweck der Datenverarbeitung.</p> <p>Darüber hinaus haben Sie im Rahmen der gesetzlichen Vorgaben das Recht auf:</p> <ul><li><p>Berichtigung unrichtiger Daten (Art. 16 DSGVO),</p></li> <li><p>Löschung Ihrer Daten („Recht auf Vergessenwerden“, Art. 17 DSGVO),</p></li> <li><p>Einschränkung der Verarbeitung (Art. 18 DSGVO),</p></li> <li><p>Widerspruch gegen die Verarbeitung Ihrer Daten (Art. 21 DSGVO).</p></li></ul> <p>Bitte beachten Sie, dass bestimmte Daten aufgrund gesetzlicher Aufbewahrungspflichten nicht gelöscht werden dürfen. In diesen Fällen wird die Verarbeitung Ihrer Daten auf das gesetzlich erforderliche Maß eingeschränkt.</p> <p>Für alle Anliegen im Zusammenhang mit der Geltendmachung Ihrer Rechte wenden Sie sich bitte an die im Impressum angegebenen Kontaktdaten.</p> <h3>Verwendung von Cookies</h3> <p>Unsere Website verwendet ausschließlich sogenannte <strong>Session-Cookies</strong> (auch: transiente Cookies). Diese werden temporär gespeichert und nach dem Ende Ihres Besuchs automatisch gelöscht. Sie sind technisch notwendig, um grundlegende Funktionen der Website – wie etwa die Navigation – bereitzustellen.</p> <p>Es werden <strong>keine persistenten Cookies</strong> gesetzt, die über den Besuch hinaus auf Ihrem Endgerät gespeichert bleiben. Auch Cookies zu Werbe- oder Analysezwecken kommen nicht zum Einsatz.</p> <p>Die Nutzung dieser technisch erforderlichen Cookies erfolgt auf Grundlage von <strong>Art.6 Abs.1 lit.f DSGVO</strong> (berechtigtes Interesse an einem funktionierenden Webauftritt). Eine Einwilligung ist daher nicht erforderlich.</p> <h3>Server Logfiles</h3> <p>Beim Besuch dieser Website werden durch den Hosting-Provider automatisch Informationen in sogenannten Server-Logfiles gespeichert, die Ihr Browser automatisch übermittelt. Dies sind z.B.: Browsertyp und -version, verwendetes Betriebssystem, Referrer-URL, Hostname des zugreifenden Rechners, Uhrzeit der Serveranfrage und IP-Adresse.</p> <p>Die Speicherung erfolgt zur Wahrung berechtigter Interessen gemäß Art.6 Abs.1 lit. f DSGVO, insbesondere zur Gewährleistung der technischen Sicherheit, zur Fehlersuche und zur Abwehr von Angriffen. Die IP-Adresse wird ausschließlich zu diesen Zwecken verwendet und nicht mit anderen Datenquellen zusammengeführt. Die Logdaten werden regelmäßig gelöscht.</p> <h3>Einsatz von Matomo Analytics</h3> <p>Diese Website nutzt die Open-Source-Software <strong>Matomo Analytics</strong> zur statistischen Auswertung der Besucherzugriffe. Die Software ist auf Servern der Firma <strong>OMCnet</strong> in Deutschland installiert – dort, wo auch diese Website gehostet wird. Eine Übermittlung von Daten an Dritte oder ins Ausland findet nicht statt.</p> <p>Matomo wird in einer datenschutzfreundlichen Konfiguration betrieben:</p> <ul><li><p>Es werden keine Cookies eingesetzt.</p></li> <li><p>Ihre IP-Adresse wird vollständig anonymisiert, sodass keinerlei Rückschluss auf einzelne Personen möglich ist.</p></li> <li><p>Ein Tracking über mehrere Seitenaufrufe hinweg findet nicht statt.</p></li></ul> <p>Die dabei erzeugten Informationen dienen ausschließlich der technischen und inhaltlichen Optimierung unseres Webangebots. Eine Verarbeitung personenbezogener Daten findet nicht statt. Die Verarbeitung fällt daher <strong>nicht unter die Datenschutz-Grundverordnung (DSGVO).</strong></p> <p>Weitere Informationen zu Matomo Analytics finden Sie unter: <a href=\"https://matomo.org/\">matomo.org</a>, <a href=\"https://de.wikipedia.org/wiki/Matomo\">Wikipedia</a>.</p> <h3>Weitergabe von Daten an Dritte und Dienstleister</h3> <p>Eine Weitergabe Ihrer personenbezogenen Daten an Dritte erfolgt grundsätzlich <strong>nicht</strong>, es sei denn, Sie haben ausdrücklich eingewilligt oder es besteht eine gesetzliche Verpflichtung.</p> <p>Für den Betrieb dieser Website setzen wir technische Dienstleister ein, insbesondere für das Hosting (z.B. OMCnet). Diese Dienstleister handeln ausschließlich <strong>im Rahmen einer Auftragsverarbeitung gemäß Art.28 DSGVO</strong> und sind vertraglich dazu verpflichtet, Ihre Daten nur gemäß unseren Weisungen zu verarbeiten.</p> <p>Darüber hinaus kann in Einzelfällen eine gesetzlich vorgeschriebene Weitergabe an staatliche Stellen erfolgen, etwa zur Strafverfolgung oder Gefahrenabwehr, sofern eine entsprechende behördliche Anordnung vorliegt.</p> <h3>Datensicherheit</h3> <p>Unsere Website wird auf Servern der Firma OMCnet in Deutschland gehostet. Die Datenverarbeitung erfolgt ausschließlich innerhalb des Europäischen Wirtschaftsraums (EWR).</p> <p>Zum Schutz Ihrer Daten vor Verlust, Manipulation, unbefugtem Zugriff oder sonstigem Missbrauch setzen wir geeignete <strong>technische und organisatorische Maßnahmen</strong> gemäß Art.32 DSGVO ein. Dazu zählen unter anderem Firewalls, Antivirenlösungen sowie manuelle und automatisierte Sicherungskonzepte. Unsere Sicherheitsmaßnahmen werden entsprechend dem Stand der Technik regelmäßig überprüft und weiterentwickelt.</p> <p>Bitte beachten Sie, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail oder über Formulare) trotz aller Vorsichtsmaßnahmen Sicherheitslücken aufweisen kann. Ein absoluter Schutz der Daten vor dem Zugriff durch Dritte ist technisch nicht möglich.</p> <h3>Nutzung von YouTube-Komponenten mit erweitertem Datenschutzmodus</h3> <p>elektro-paul-neumann.de setzt Komponenten (Videos) des Unternehmens YouTube, LLC 901 Cherry Ave., 94066 San Bruno, CA, USA, einem Unternehmen der Google Inc., Amphitheatre Parkway, Mountain View, CA 94043, USA, ein.</p> <p>Hierbei nutzen wir die von YouTube zur Verfügung gestellte Option „erweiterter Datenschutzmodus“. Wenn Sie eine Seite aufrufen, die über ein eingebettetes Video verfügt, wird eine Verbindung zu den YouTube-Servern hergestellt und dabei der Inhalt durch Mitteilung an Ihren Browser auf der Internetseite dargestellt.</p> <p>Laut den Angaben von YouTube werden im „erweiterten Datenschutzmodus“ nur Daten an den YouTube-Server übermittelt, insbesondere welche unserer Internetseiten Sie besucht haben, wenn Sie das Video anschauen. Sind Sie gleichzeitig bei YouTube eingeloggt, werden diese Informationen Ihrem Mitgliedskonto bei YouTube zugeordnet. Dies können Sie verhindern, indem SIe sich vor dem Besuch unserer Website von Ihrem Mitgliedskonto abmelden.</p> <p>Um den Anforderungen der Datenschutz-Grundverordnung (DSGVO) gerecht zu werden, werden YouTube-Videos auf dieser Website standardmäßig blockiert. Stattdessen erscheint ein Platzhalter mit einem Hinweistext. Erst wenn Sie aktiv einwilligen, wird das entsprechende Video geladen und eine Verbindung zu den Servern von YouTube aufgebaut. Diese Entscheidung wird für die laufende Browsersitzung lokal gespeichert (SessionStorage), sodass bei einem späteren Seitenaufruf die Inhalte direkt angezeigt werden, solange die Sitzung besteht.</p> <p>Weitere Informationen zum Datenschutz von YouTube werden von Google unter dem folgenden Link bereitgestellt:<br><a href=\"https://policies.google.com/privacy?hl=de&gl=de\">https://­www.google.de/­intl/­de/­policies/­privacy/</a></p> <br><br><br>",
+  "images": []
+ }
+}

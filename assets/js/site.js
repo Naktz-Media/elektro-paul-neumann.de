@@ -24,6 +24,21 @@
     lastY = y;
   };
 
+  /* ---------- theme: dark | hybrid | light ---------- */
+  const themeBtns = $$('[data-theme-set]');
+  const meta = $('meta[name="theme-color"]');
+  const applyTheme = (t, save) => {
+    root.dataset.theme = t;
+    themeBtns.forEach((b) => b.setAttribute('aria-pressed', b.dataset.themeSet === t));
+    if (meta) meta.content = t === 'light' ? '#f4f4f2' : '#0e0e0f';
+    if (save) { try { localStorage.setItem('epn-theme', t); } catch (e) { /* storage blocked */ } }
+  };
+  applyTheme(root.dataset.theme || 'hybrid', false);
+  themeBtns.forEach((b) => b.addEventListener('click', () => {
+    const t = b.dataset.themeSet;
+    if (document.startViewTransition && !reduce) document.startViewTransition(() => applyTheme(t, true)); else applyTheme(t, true);
+  }));
+
   /* ---------- mobile menu ---------- */
   const btn = $('.menu-btn'), menu = $('#mobile-menu');
   if (btn && menu) {
