@@ -72,9 +72,31 @@ async function video(v) {
   return `${v.name}: ok`;
 }
 
+async function edit(ed) {
+  const src = lock[ed.from];
+  if (!src) throw new Error(`${ed.name}: source image "${ed.from}" not generated yet`);
+  const body = {
+    mode: 'context', prompt: ed.prompt, imageUrl: src.url, baseModel: spec.imageModel,
+    settings: { resolution: '2k', aspect_ratio: ed.aspect || '16:9', model: spec.imageModel },
+    organizationId: env.LETZAI_ORGANIZATION_ID, hidePrompt: true,
+  };
+  const res = await fetch(`${base}/image-edits`, { method: 'POST', headers, body: JSON.stringify(body) });
+  const job = await res.json();
+  if (!res.ok) throw new Error(`${ed.name}: ${res.status} ${JSON.stringify(job)}`);
+  const s = await poll('image-edits', job.id, ed.name);
+  const url = s.generatedImageCompletion?.imageVersions?.original;
+  if (!url) throw new Error(`${ed.name}: no result url`);
+  const ext = (url.split('?')[0].split('.').pop() || 'jpg').toLowerCase();
+  await download(url, join(outDir, `${ed.name}.${ext}`));
+  lock[ed.name] = { kind: 'image', id: job.id, url, file: `assets/img-src/${ed.name}.${ext}` }; saveLock();
+  return `${ed.name}: ok`;
+}
+
 const imgs = (spec.images || []).filter((i) => want(i.name));
 const results = [];
 for (let i = 0; i < imgs.length; i += 3) results.push(...(await Promise.allSettled(imgs.slice(i, i + 3).map(image))));
+const eds = (spec.edits || []).filter((x) => want(x.name));
+for (let i = 0; i < eds.length; i += 3) results.push(...(await Promise.allSettled(eds.slice(i, i + 3).map(edit))));
 for (const v of (spec.videos || []).filter((x) => want(x.name))) results.push(...(await Promise.allSettled([video(v)])));
 for (const r of results) console.log(r.status === 'fulfilled' ? r.value : `FAILED ${r.reason.message}`);
 if (!results.length) console.log('Nothing to generate.');

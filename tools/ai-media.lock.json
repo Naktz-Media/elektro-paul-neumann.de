@@ -64,5 +64,11 @@
   "id": "5d283524-82a5-413c-93ef-cc0a8576a3a0",
   "url": "https://images.letz.ai/videos/afdb916b-ed67-4298-a682-3d988aeca1e2/5d283524-82a5-413c-93ef-cc0a8576a3a0/5d283524-82a5-413c-93ef-cc0a8576a3a0_h3-max.mp4",
   "file": "assets/img-src/hero-home-video.mp4"
+ },
+ "scene-day": {
+  "kind": "image",
+  "id": "80756da8-a46b-4c60-8ff2-71264bd2646e",
+  "url": "https://images.letz.ai/afdb916b-ed67-4298-a682-3d988aeca1e2/80756da8-a46b-4c60-8ff2-71264bd2646e/letz_Photorealistic_interior_photograph_of_a_minimalist20261124133355.jpg",
+  "file": "assets/img-src/scene-day.jpg"
  }
 }

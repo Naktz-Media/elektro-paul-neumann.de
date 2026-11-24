@@ -66,6 +66,13 @@
    "width": 2048,
    "height": 2048,
    "prompt": "The hands of a master electrician with an insulated screwdriver working on a neat modern electrical distribution board with DIN-rail circuit breakers and immaculate cable management, focused workshop light"
+  },
+  {
+   "name": "scene-day",
+   "width": 2160,
+   "height": 1215,
+   "style": false,
+   "prompt": "Photorealistic interior photograph of a minimalist luxury living room with a double-height ceiling and floor-to-ceiling windows overlooking the Mediterranean sea on Mallorca, bright natural daylight, motorised linen blinds fully open, recessed linear LED light lines in the ceiling switched off, low sofa, wall-mounted large black TV, pendant light, warm oak floor, calm, wide eye-level composition, no people, no text, no logos, no watermark"
   }
  ],
  "videos": [
@@ -76,6 +83,23 @@
    "prompt": "Very slow cinematic dolly-in towards the villa at blue hour, interior lights gently brighten, subtle ripples on the pool surface, clouds drift slowly, camera smooth and steady, no people, no text",
    "width": 1366,
    "height": 768
+  }
+ ],
+ "edits": [
+  {
+   "name": "scene-evening",
+   "from": "scene-day",
+   "prompt": "Keep exactly the same room, camera, framing, furniture and composition. Change only the time and lighting: warm golden-hour sunset outside, the recessed linear LED light lines and the pendant glowing warm white at about 60 percent, motorised blinds half lowered, cosy evening atmosphere. No people, no text."
+  },
+  {
+   "name": "scene-cinema",
+   "from": "scene-day",
+   "prompt": "Keep exactly the same room, camera, framing, furniture and composition. Change only the lighting: night outside, motorised blinds fully closed, all ceiling lights off, only a subtle cool blue LED accent strip behind the TV and a faint warm floor glow, the TV screen softly illuminated with an abstract image, cinema mood. No people, no text."
+  },
+  {
+   "name": "scene-away",
+   "from": "scene-day",
+   "prompt": "Keep exactly the same room, camera, framing, furniture and composition. Change only the lighting: deep blue night outside with moonlight on the sea, all interior lights off, blinds open, the room dark and calm, a single tiny red status LED of a security sensor in the ceiling corner. No people, no text."
   }
  ]
 }
